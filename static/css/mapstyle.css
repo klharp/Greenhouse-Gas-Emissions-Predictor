@@ -1,0 +1,185 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+
+}
+
+#map-container {
+    position: relative;
+    height: 300px;
+    width: 100%;
+    text-align: left;
+}
+
+#map-container1 {
+  position: relative;
+  height: 350px;
+  width: 100%;
+  text-align: left;
+}
+
+
+#map {
+  position: relative;
+  height: inherit;
+  width: inherit;
+}  
+
+.leaflet-interactive {
+  cursor: pointer;
+}
+
+#maplist li {
+  font-size: 1.25rem;
+}
+
+
+.navbar {
+  background-color: #47704b;
+  opacity: 0.90;
+}
+.homefooter {
+  background-color: #47704b;
+  opacity: 0.90;
+}
+
+.homefooter,
+.phomefooter {
+  padding-top: 1.5rem !important;
+}
+
+.homefooter,
+.homefooter {
+  padding-bottom: 1.5rem !important;
+}
+
+.notes {
+  color: red;
+  font-size: 11px;
+}
+
+#demographics {
+  font-size: 16px;
+}
+
+#demographics td  {
+  padding: 0.3rem;
+  vertical-align: middle;
+}
+
+.demoText {
+  font-size: 24px;
+  text-align: left;
+  color: black;
+  margin-top: 10px;
+  font-weight: 700;
+
+}
+
+.red{
+  color:#dc3545;
+}
+
+.small {
+  font-size: 80%;
+}
+
+.smaller {
+  font-size: 70%;
+}
+
+.smallest {
+  font-size: 60%;
+}
+
+.italic{
+  font-style: italic;
+}
+
+.incentive {
+  font-size: 99%;
+  font-weight: bold;
+  padding-left: 0.3rem;
+}
+
+.incentivesmall {
+  font-size: 85%;
+  padding-left: 0.3rem;
+
+}
+
+.maptable th,
+.maptable td {
+  padding: 0.3rem;
+  vertical-align: middle;
+}
+
+.emissions {
+  vertical-align: middle;
+  text-align: center;
+  color: #fff;
+  background-color: #b63232; 
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.emissions30 {
+  vertical-align: middle;
+  text-align: center;
+  color: #000;
+  background-color: #cf8888; 
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.temissions {
+  vertical-align: middle;
+  text-align: center;
+  color: #fff;
+  background-color: #cf8888;  
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.temissions30 {
+  vertical-align: middle;
+  text-align: center;
+  color: #000;
+  background-color: #cf8888;  
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.law {
+  vertical-align: middle;
+  text-align: center;
+  color: #fff;
+  background-color: #47704b;
+  font-size: 24px;
+}
+
+.alt {
+  vertical-align: middle;
+  text-align: center;
+  color: #fff;
+  background-color: #47704b;
+  font-size: 24px;
+}
+
+.station {
+  vertical-align: middle;
+  text-align: center;
+  color: #fff;
+  background-color: #2d5e88;
+  font-size: 24px;
+}
+
+.outlet {
+  vertical-align: middle;
+  text-align: center;
+  color: #fff;
+  background-color: #2d5e88;
+  font-size: 24px;
+}

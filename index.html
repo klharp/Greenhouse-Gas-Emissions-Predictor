@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Carbon Emission Predictor" />
+    <meta name="author" content="Buller, Harp, Killeen, Morris" />
+
+    <title>Carbon Emission Predictor </title>
+
+    <link rel="shortcut icon" type="image.jpg" href="static/img/favicon.ico">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+        integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+        crossorigin="" />
+
+    <!-- d3 JavaScript -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="static/js/d3Caching.js"></script>
+
+    <!--Plotly-->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <!-- Ominivore Leaflet Plugin -->
+    <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/styles.css">
+    <link rel="stylesheet" type="text/css" href="static/css/mapstyle.css">
+
+</head>
+
+<body id="page-top">
+
+    <!-- NAVIGATION-->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <img width="40" height="40" alt="EV_logo" src="static/img/EV_logo.png">&nbsp;&nbsp;
+                Carbon Emission Predictor</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span
+                    class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#overview1">Overview</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#process">Process</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#data">Data &amp; Resources</a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Team</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+    <!-- HEADER SECTION-->
+    <header class="bg-primary text-white" background>
+        <div class="container text-center">
+            <h1>Carbon Emission Predictor</h1>
+            <h4>TRANSPORTATION EMISSIONS IN THE UNITED STATES</h4>
+        </div>
+    </header>
+
+
+
+
+    <!-- INTRO SECTION-->
+    <section id="intro">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1>Carbon Emission Predictor</h1>
+                    <p class="lead">Predicting the greenhouse gas (GHG) emissions from the transportation sector in the
+                        United States
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <!-- MAP AND PREDICTOR SECTION-->
+    <section id="predictor_map">
+        <div class="container">
+            <!-- <div class="text-center"> -->
+            <div class="row">
+                <div class="col-lg-6 mx-auto">
+
+                    <div id="map-container1">
+                        <!-- The div that holds map -->
+                        <div id="map"></div>
+                    </div>
+
+                    <div id="incentives-container">
+                        <!-- The table that holds incentives -->
+                        <div id="incentives-table">
+                            <h2 class="demoText" id="demoName">Choose a State on the Map</h2>
+                            <hr>
+                            <table width="100%" id="demographics">
+                                <tr>
+                                    <td id="target1" class="emissions"></td>
+                                    <td style="height:50px"><span class="incentive">All Emissions (MtCO<sub>2</sub>e) in
+                                            2005</span>
+                                        <span class="incentivesmall">(state/U.S.)</span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td id="target1-30" class="emissions30"></td>
+                                    <td style="height:50px"><span class="incentive">2030 All Emissions
+                                            (MtCO<sub>2</sub>e)
+                                            Target</span><span class="incentivesmall">(state/U.S.)</span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td id="target2" class="temissions"></td>
+                                    <td style="height:50px"><span class="incentive">Transportation Emissions
+                                            (MtCO<sub>2</sub>e) in 2005
+                                        </span><span class="incentivesmall">(state/U.S.)</span>
+                                    </td>
+                                </tr>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                    <td id="target2-30" class="temissions30"></td>
+                                    <td style="height:50px"><span class="incentive">2030 Transportation Emissions
+                                            (MtCO<sub>2</sub>e) Target
+                                        </span><span class="incentivesmall">(state/U.S.)</span>
+                                    </td>
+                                </tr>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                </tr>
+                                <tr>
+                                <tr>
+                                    <td id="incentives" class="law"></td>
+                                    <td style="height:50px"><span class="incentive">Laws &amp; Incentives - Alternative
+                                            Fuels &amp;
+                                            Advanced Vehicles</span>
+                                    </td>
+                                </tr>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                </tr>
+                                <tr>
+
+                                <tr>
+                                    <td id="AltFuelStations" class="alt"></td>
+                                    <td style="height:50px"><span class="incentive">Fueling Stations with Alternative
+                                            Fuels</span>
+                                    </td>
+                                </tr>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                </tr>
+                                <tr>
+
+                                <tr>
+                                    <td id="ChargeStations" class="station"></td>
+                                    <td style="height:50px"><span class="incentive">Available Charging Stations</span>
+                                    </td>
+                                </tr>
+                                </tr>
+                                <tr>
+                                    <td></td>
+                                </tr>
+                                <tr>
+
+                                <tr>
+                                    <td id="ChargeOutlets" class="outlet"></td>
+                                    <td style="height:50px"><span class="incentive">Available Charging Outlets</span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 mx-auto">
+                    <div id="predictor-container">
+                        <p class="lead">
+                            <span class="italic">Building on Past U.S. Leadership, including Efforts by States, Cities,
+                                Tribes, and
+                                Territories, the New Target Aims at 50-52 Percent Reduction in U.S. Greenhouse Gas
+                                Pollution from 2005 Levels in 2030."</span>
+                            <span class="smallest">- President Joe Biden, White House press release, April 22,
+                                2021.</span>
+                        </p>
+
+                        <!-- The div that holds predictor graph -->
+                        <div id="predictor">
+
+                            <div class='' id='viz1623893117192' style='position: relative'>
+                                <noscript><a href='#'><img alt='U.S. Transportation Emissions '
+                                            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;em&#47;emissions_final2&#47;U_S_TransportationEmissions&#47;1_rss.png'
+                                            style='border: none' /></a></noscript><object class='tableauViz'
+                                    style='display:none;'>
+                                    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                                    <param name='embed_code_version' value='3' />
+                                    <param name='site_root' value='' />
+                                    <param name='name' value='emissions_final2&#47;U_S_TransportationEmissions' />
+                                    <param name='tabs' value='no' />
+                                    <param name='toolbar' value='no' />
+                                    <param name='static_image'
+                                        value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;em&#47;emissions_final2&#47;U_S_TransportationEmissions&#47;1.png' />
+                                    <param name='animate_transition' value='yes' />
+                                    <param name='display_static_image' value='yes' />
+                                    <param name='display_spinner' value='yes' />
+                                    <param name='display_overlay' value='yes' />
+                                    <param name='display_count' value='yes' />tableauPlaceholder
+                                    <param name='language' value='en-US' />
+                                </object>
+                            </div>
+                            <script
+                                type='text/javascript'>                    var divElement = document.getElementById('viz1623893117192'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width = '100%'; vizElement.style.height = (divElement.offsetWidth * 0.95) + 'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+
+                            <p class="figure-caption">
+                                Greenhouse gas emissions (GHG) are measured in metric tons of carbon dioxide equivalent
+                                (MtCO2e) and is a metric measure used to compare the emissions from different greenhouse
+                                gases based upon their global warming potential (GWP). GHG emissions recorded in
+                                MtCO<sub>2</sub>e does not take into account changes in atmospheric levels of greenhouse
+                                gases attributed to forest and land-use activities. Data for 2020 reflects the impact of
+                                the COVID-19 pandemic on emissions in all sectors. Predictions are based on features
+                                with publicly available data with values between 1995 and 2018.
+                            </p>
+                            <p><span class="small">
+                                    Linear Equation: Y = 38.875 + -1.1206*GDP + 36.597*Population + -6.6565*Transit +
+                                    6.3047*VMT + 4.4656*SQMI + 3.1102*Temp
+                                </span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+
+
+
+    <!-- OVERVIEW AND NATIONAL GRAPHICS SECTION-->
+    <section id="overview1" class="bg-light">
+        <div class="container">
+            <div class="text-center">
+                <div class="row">
+                    <div class="col-lg-12 mx-auto">
+                        <p class="lead">
+                            The worldwide predicted global warming increase above pre-industrial levels of
+                            1.5&deg;C may have a substantial impacts and risks by 2050.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="overview2">
+        <div class="container">
+            <div class="text-center">
+                <div class="row">
+                    <div class="col-lg-12 mx-auto">
+                        <h1>Overview</h1>
+
+                        <center>
+
+                            <div class='tableauPlaceholder' id='viz1624019981221' style='position: relative'>
+                                <noscript><a href='#'><img alt='CO2 Emissions Story '
+                                            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GH&#47;GHGEmissionsPredictionModel_16240115651560&#47;CO2EmissionsStory&#47;1_rss.png'
+                                            style='border: none' /></a></noscript><object class='tableauViz'
+                                    style='display:none;'>
+                                    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                                    <param name='embed_code_version' value='3' />
+                                    <param name='site_root' value='' />
+                                    <param name='name'
+                                        value='GHGEmissionsPredictionModel_16240115651560&#47;CO2EmissionsStory' />
+                                    <param name='tabs' value='no' />
+                                    <param name='toolbar' value='no' />
+                                    <param name='static_image'
+                                        value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;GH&#47;GHGEmissionsPredictionModel_16240115651560&#47;CO2EmissionsStory&#47;1.png' />
+                                    <param name='animate_transition' value='yes' />
+                                    <param name='display_static_image' value='yes' />
+                                    <param name='display_spinner' value='yes' />
+                                    <param name='display_overlay' value='yes' />
+                                    <param name='display_count' value='yes' />
+                                    <param name='language' value='en-US' />
+                                </object></div>
+                            <script
+                                type='text/javascript'>                    var divElement = document.getElementById('viz1624019981221'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.minWidth = '450px'; vizElement.style.maxWidth = '700px'; vizElement.style.width = '100%'; vizElement.style.minHeight = '527px'; vizElement.style.maxHeight = '827px'; vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+
+
+                        </center>
+                    </div>
+                </div>
+            </div>
+    </section>
+
+
+
+
+    <section id="overview3">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <p class="lead">
+                        This project focuses on the measured CO<sub>2</sub> in the transportation sector
+                        of the U.S. and is used to predict CO<sub>2</sub> levels into the
+                        future.
+                    </p>
+
+                    <p>
+                        Transportation makes up 29% of the total U.S. greenhouse gas emissions. In April of 2021,
+                        President Biden announced a target of 50-52% reduction in emissions from 2005 levels. The
+                        Environmental Protection Agency (EPA) has <a
+                            href="https://www.epa.gov/transportation-air-pollution-and-climate-change/what-you-can-do-reduce-pollution-vehicles-and-engines#drive_less"
+                            target="_blank">recommendations</a> for what can be done to reduce pollution from
+                        vehicles.
+                    </p>
+                    <p>
+                        Are we on track for meeting this goal in the transportation sector and what are the factors that
+                        have the biggest impact on meeting this goal?
+                    </p>
+                    <p>
+                        This project uses machine learning to determine the predictability of carbon emissions in the
+                        transportation sector if trends in person vehicle and public transportation continues.
+                    </p>
+                    <p>
+                        Data from various sources was used to test-train a dataset to determine the predictability of
+                        greenhouse gas (GHG) emissions due to transportation.
+                    </p>
+                </div>
+
+            </div>
+    </section>
+
+
+    <!-- PROCESS SECTION-->
+    <section id="process" class="bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h1 align="center">Process</h1>
+                    <p class="lead">
+                        This project showcases using machine learning to make a prediction and uses visualizations to
+                        provide the user an interactive means to explore data relevant to the prediction.
+                    </p>
+                    <p>
+                        View the <a href="https://github.com/nbullerds/ml_co_emission_equiv_prediction#readme"
+                            target="_blank">project Github Repo</a> README.md for more information on the process and
+                        methodologies.
+                    </p>
+
+                    <p><strong>The project methodology focused on:</strong></p>
+                    <ul>
+                        <li>Working as a team, demonstrated by using branches in GitHub to manage the
+                            push/merge/pull of the repository, acquiring datasets, coordinating efforts to develop the
+                            machine learning model, and preparing information for display/presentation.</li>
+                        <li>Acquiring the datasets from multiple sources.</li>
+                        <li>ETL of chosen datasets.</li>
+                        <li>Developing a machine learning model using multi-linear regressions to predict an outcome.
+                        </li>
+                        <li>Creating visualizations used to demonstrate the project's intent.</li>
+                        <li>Creating a website and deploying to GitHub Pages.</li>
+                        <li>Languages and libraries used:
+                            <ul>
+                                <li>Python</li>
+                                <li>Pandas</li>
+                                <li>GeoPandas</li>
+                                <li>Numpy</li>
+                                <li>Matplotlib</li>
+                                <li>Seaborn</li>
+                                <li>Scikit-learn</li>
+                                <li>Beautiful Soup</li>
+                                <li>HTML</li>
+                                <li>CSS</li>
+                                <li>Bootstrap</li>
+                                <li>D3</li>
+                                <li>Javascript / Requests (JSON)</li>
+                                <li>Leaflet</li>
+                                <li>Tableau</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <!-- DATA SECTION-->
+    <section id="data">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h1 align="center">Data &amp; Resources </h1>
+                    <p class="lead">
+                        Data for this project was derived from various sources used in both the machine learning
+                        model and for the visualizations.
+                    </p>
+
+                    <p><strong>Sources:</strong></p>
+                    <ul>
+                        <li>
+                            <a href="https://carbonmonitor.org/" target="_blank">Carbon Monitor</a>
+                        </li>
+                        <li>
+                            <a href="https://www.epa.gov/" target="_blank">Environmental Protection Agency (EPA)</a>
+                        </li>
+                        <li>
+                            <a href="https://www2.census.gov/" target="_blank">U.S. Census Bureau</a>
+                        </li>
+                        <li>
+                            <a href="https://afdc.energy.gov/" target="_blank">U.S. Department of Energy Alternative
+                                Fuels Center</a>
+                        </li>
+                        <li>
+                            <a href="https://www.bts.gov/" target="_blank">Bureau of Transportation Statistics</a>
+                        </li>
+                        <li>
+                            <a href="https://www.ncdc.noaa.gov/cag/" target="_blank" :">NOAA National Centers for
+                                Environmental information</a>
+                        </li>
+                        <li>
+                            <a href="https://www.ipcc.ch" target="_blank">Intergovernmental Panel on Climate Change</a>
+                        </li>
+                        <li>
+                            <a href="https://unfccc.int" target="_blank">United Nations Climate Change</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <!-- TEAM SECTION-->
+    <section id="team" class="bg-light">
+        <div class="container">
+            <div class="text-center">
+                <div class="row">
+                    <div class="col-lg-12 mx-auto">
+                        <h1>Team</h1>
+                        <div class="row">
+                            <div class="col">
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="static/img/NickB.png"
+                                    alt="Nick Buller" />
+                                <p class="lead">Nick Buller</p>
+                                <p class="small"><a href="https://github.com/nbullerds"
+                                        target="_blank">github.com/nbullerds</a>
+                                    <br><a href="mailto:nabuller@gmail.com">nabuller@gmail.com</a>
+                                </p>
+                                <p>Business analyst consultant with 6+ years of experience and a background in data
+                                    analysis, process improvement, and business facilitation. Proven ability to work
+                                    cross-functionally across business disciplines and roles for the purpose of
+                                    gathering business objectives and software/data requirements. Driven by personal
+                                    satisfaction
+                                    derived from building data models and visualizations to provide insights into
+                                    business and process improvement decision making.</p>
+                            </div>
+
+                            <div class="col">
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="static/img/KerryH.png"
+                                    alt="Kerry Harp" />
+                                <p class="lead">Kerry Harp</p>
+                                <p class="small"><a href="https://github.com/klharp"
+                                        target="_blank">github.com/klharp</a>
+                                    <br><a href="mailto:kharp@umn.edu">kharp@umn.edu</a>
+                                </p>
+                                <p>Promoting sustainability in the built environment and the health/wellbeing of
+                                    occupants. With degrees in architecture and accreditations in LEED and WELL, Kerry’s
+                                    value is
+                                    being a bridge between the technical and design fields to promote and deploy
+                                    resilient,
+                                    sustainability, and wellbeing strategies.</p>
+                            </div>
+
+                            <div class="col">
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="static/img/MattK.jpg"
+                                    alt="Matt Killen" />
+                                <p class="lead">Matt Killeen</p>
+                                <p class="small"><a href="https://github.com/matthewkilleen0830"
+                                        target="_blank">github.com/matthewkilleen0830</a>
+                                    <br><a href="matthew.killeen0830@gmail.com">matthew.killeen0830@gmail.com</a>
+                                </p>
+                                <p>Analyst with more than 10 years of experience in financial services analyzing
+                                    investments, market trends and forecasts, and financial plans. Utilizes technical
+                                    skill sets to analyze dynamic data and develop reports. A critically thinking
+                                    problem solver with a passion for organizing and presenting data to provide
+                                    objective analytical solutions.</p>
+                            </div>
+
+                            <div class="col">
+                                <img class="img-fluid rounded-circle mb-4 px-4" src="static/img/CieraM.jpg"
+                                    alt="Ciera Morris" />
+                                <p class="lead">Ciera Morris</p>
+                                <p class="small"><a href="https://github.com/cieranmorris"
+                                        target="_blank">github.com/cieranmorris</a>
+                                    <br><a href="mailto:cieranmorris@gmail.com">cieranmorris@gmail.com</a>
+                                </p>
+                                <p>Developing Data Analyst with relevant biomedical research experience who is
+                                    interested in using a multi-disciplinary approach towards analyzing data in
+                                    industry.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Footer-->
+    <footer class="homefooter">
+        <div class="container">
+            <p class="m-0 text-center text-white">Copyright &copy; 2021: Buller, Harp, Killeen, Morris</p>
+        </div>
+    </footer>
+
+
+
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+        integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+        crossorigin=""></script>
+
+    <!-- API key -->
+    <script type="text/javascript" src="static/js/config.js"></script>
+
+    <!-- JS  -->
+    <script type="text/javascript" src="static/js/map_us.js"></script>
+
+    <!-- Bootstrap core JS-->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Third party plugin JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+
+    <!-- Core theme JS-->
+    <script src="static/js/scripts.js"></script>
+
+</body>
+
+</html>

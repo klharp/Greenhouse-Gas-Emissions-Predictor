@@ -1,0 +1,4324 @@
+﻿State,Mode,Year,Commute mode share (percent)
+Alabama,Carpool,2000,0.123
+Alaska,Carpool,2000,0.155
+Arizona,Carpool,2000,0.154
+Arkansas,Carpool,2000,0.141
+California,Carpool,2000,0.145
+Colorado,Carpool,2000,0.122
+Connecticut,Carpool,2000,0.094
+Delaware,Carpool,2000,0.115
+District of Columbia,Carpool,2000,0.11
+Florida,Carpool,2000,0.129
+Georgia,Carpool,2000,0.145
+Hawaii,Carpool,2000,0.19
+Idaho,Carpool,2000,0.123
+Illinois,Carpool,2000,0.109
+Indiana,Carpool,2000,0.11
+Iowa,Carpool,2000,0.108
+Kansas,Carpool,2000,0.106
+Kentucky,Carpool,2000,0.126
+Louisiana,Carpool,2000,0.136
+Maine,Carpool,2000,0.113
+Maryland,Carpool,2000,0.124
+Massachusetts,Carpool,2000,0.09
+Michigan,Carpool,2000,0.097
+Minnesota,Carpool,2000,0.104
+Mississippi,Carpool,2000,0.152
+Missouri,Carpool,2000,0.116
+Montana,Carpool,2000,0.119
+Nebraska,Carpool,2000,0.105
+Nevada,Carpool,2000,0.147
+New Hampshire,Carpool,2000,0.098
+New Jersey,Carpool,2000,0.106
+New Mexico,Carpool,2000,0.148
+New York,Carpool,2000,0.092
+North Carolina,Carpool,2000,0.14
+North Dakota,Carpool,2000,0.1
+Ohio,Carpool,2000,0.093
+Oklahoma,Carpool,2000,0.132
+Oregon,Carpool,2000,0.122
+Pennsylvania,Carpool,2000,0.104
+Rhode Island,Carpool,2000,0.18
+South Carolina,Carpool,2000,0.104
+South Dakota,Carpool,2000,0.14
+Tennessee,Carpool,2000,0.104
+Texas,Carpool,2000,0.125
+United States,Carpool,2000,0.122
+Utah,Carpool,2000,0.145
+Vermont,Carpool,2000,0.141
+Virginia,Carpool,2000,0.119
+Washington,Carpool,2000,0.127
+West Virginia,Carpool,2000,0.128
+Wisconsin,Carpool,2000,0.127
+Wyoming,Carpool,2000,0.099
+Alabama,Drove alone,2000,0.83
+Alaska,Drove alone,2000,0.665
+Arizona,Drove alone,2000,0.741
+Arkansas,Drove alone,2000,0.799
+California,Drove alone,2000,0.718
+Colorado,Drove alone,2000,0.751
+Connecticut,Drove alone,2000,0.8
+Delaware,Drove alone,2000,0.792
+District of Columbia,Drove alone,2000,0.384
+Florida,Drove alone,2000,0.788
+Georgia,Drove alone,2000,0.775
+Hawaii,Drove alone,2000,0.639
+Idaho,Drove alone,2000,0.77
+Illinois,Drove alone,2000,0.732
+Indiana,Drove alone,2000,0.818
+Iowa,Drove alone,2000,0.786
+Kansas,Drove alone,2000,0.815
+Kentucky,Drove alone,2000,0.802
+Louisiana,Drove alone,2000,0.781
+Maine,Drove alone,2000,0.786
+Maryland,Drove alone,2000,0.737
+Massachusetts,Drove alone,2000,0.738
+Michigan,Drove alone,2000,0.832
+Minnesota,Drove alone,2000,0.776
+Mississippi,Drove alone,2000,0.794
+Missouri,Drove alone,2000,0.805
+Montana,Drove alone,2000,0.739
+Nebraska,Drove alone,2000,0.8
+Nevada,Drove alone,2000,0.745
+New Hampshire,Drove alone,2000,0.818
+New Jersey,Drove alone,2000,0.73
+New Mexico,Drove alone,2000,0.758
+New York,Drove alone,2000,0.563
+North Carolina,Drove alone,2000,0.794
+North Dakota,Drove alone,2000,0.777
+Ohio,Drove alone,2000,0.828
+Oklahoma,Drove alone,2000,0.8
+Oregon,Drove alone,2000,0.732
+Pennsylvania,Drove alone,2000,0.765
+Rhode Island,Drove alone,2000,0.69
+South Carolina,Drove alone,2000,0.801
+South Dakota,Drove alone,2000,0.794
+Tennessee,Drove alone,2000,0.773
+Texas,Drove alone,2000,0.817
+United States,Drove alone,2000,0.757
+Utah,Drove alone,2000,0.777
+Vermont,Drove alone,2000,0.755
+Virginia,Drove alone,2000,0.752
+Washington,Drove alone,2000,0.771
+West Virginia,Drove alone,2000,0.733
+Wisconsin,Drove alone,2000,0.803
+Wyoming,Drove alone,2000,0.795
+Alabama,Public transportation,2000,0.005
+Alaska,Public transportation,2000,0.018
+Arizona,Public transportation,2000,0.019
+Arkansas,Public transportation,2000,0.004
+California,Public transportation,2000,0.051
+Colorado,Public transportation,2000,0.032
+Connecticut,Public transportation,2000,0.04
+Delaware,Public transportation,2000,0.028
+District of Columbia,Public transportation,2000,0.332
+Florida,Public transportation,2000,0.019
+Georgia,Public transportation,2000,0.023
+Hawaii,Public transportation,2000,0.063
+Idaho,Public transportation,2000,0.011
+Illinois,Public transportation,2000,0.087
+Indiana,Public transportation,2000,0.01
+Iowa,Public transportation,2000,0.01
+Kansas,Public transportation,2000,0.005
+Kentucky,Public transportation,2000,0.012
+Louisiana,Public transportation,2000,0.024
+Maine,Public transportation,2000,0.008
+Maryland,Public transportation,2000,0.072
+Massachusetts,Public transportation,2000,0.087
+Michigan,Public transportation,2000,0.013
+Minnesota,Public transportation,2000,0.032
+Mississippi,Public transportation,2000,0.006
+Missouri,Public transportation,2000,0.015
+Montana,Public transportation,2000,0.007
+Nebraska,Public transportation,2000,0.007
+Nevada,Public transportation,2000,0.039
+New Hampshire,Public transportation,2000,0.007
+New Jersey,Public transportation,2000,0.096
+New Mexico,Public transportation,2000,0.008
+New York,Public transportation,2000,0.244
+North Carolina,Public transportation,2000,0.009
+North Dakota,Public transportation,2000,0.004
+Ohio,Public transportation,2000,0.021
+Oklahoma,Public transportation,2000,0.005
+Oregon,Public transportation,2000,0.042
+Pennsylvania,Public transportation,2000,0.052
+Rhode Island,Public transportation,2000,0.053
+South Carolina,Public transportation,2000,0.025
+South Dakota,Public transportation,2000,0.008
+Tennessee,Public transportation,2000,0.005
+Texas,Public transportation,2000,0.008
+United States,Public transportation,2000,0.047
+Utah,Public transportation,2000,0.019
+Vermont,Public transportation,2000,0.022
+Virginia,Public transportation,2000,0.007
+Washington,Public transportation,2000,0.036
+West Virginia,Public transportation,2000,0.049
+Wisconsin,Public transportation,2000,0.008
+Wyoming,Public transportation,2000,0.02
+Alabama,"Taxi, motorcycle, or other",2000,0.008
+Alaska,"Taxi, motorcycle, or other",2000,0.048
+Arizona,"Taxi, motorcycle, or other",2000,0.023
+Arkansas,"Taxi, motorcycle, or other",2000,0.01
+California,"Taxi, motorcycle, or other",2000,0.019
+Colorado,"Taxi, motorcycle, or other",2000,0.015
+Connecticut,"Taxi, motorcycle, or other",2000,0.007
+Delaware,"Taxi, motorcycle, or other",2000,0.01
+District of Columbia,"Taxi, motorcycle, or other",2000,0.019
+Florida,"Taxi, motorcycle, or other",2000,0.017
+Georgia,"Taxi, motorcycle, or other",2000,0.011
+Hawaii,"Taxi, motorcycle, or other",2000,0.024
+Idaho,"Taxi, motorcycle, or other",2000,0.014
+Illinois,"Taxi, motorcycle, or other",2000,0.01
+Indiana,"Taxi, motorcycle, or other",2000,0.009
+Iowa,"Taxi, motorcycle, or other",2000,0.009
+Kansas,"Taxi, motorcycle, or other",2000,0.009
+Kentucky,"Taxi, motorcycle, or other",2000,0.009
+Louisiana,"Taxi, motorcycle, or other",2000,0.016
+Maine,"Taxi, motorcycle, or other",2000,0.009
+Maryland,"Taxi, motorcycle, or other",2000,0.008
+Massachusetts,"Taxi, motorcycle, or other",2000,0.01
+Michigan,"Taxi, motorcycle, or other",2000,0.007
+Minnesota,"Taxi, motorcycle, or other",2000,0.009
+Mississippi,"Taxi, motorcycle, or other",2000,0.01
+Missouri,"Taxi, motorcycle, or other",2000,0.008
+Montana,"Taxi, motorcycle, or other",2000,0.017
+Nebraska,"Taxi, motorcycle, or other",2000,0.009
+Nevada,"Taxi, motorcycle, or other",2000,0.016
+New Hampshire,"Taxi, motorcycle, or other",2000,0.008
+New Jersey,"Taxi, motorcycle, or other",2000,0.009
+New Mexico,"Taxi, motorcycle, or other",2000,0.016
+New York,"Taxi, motorcycle, or other",2000,0.008
+North Carolina,"Taxi, motorcycle, or other",2000,0.011
+North Dakota,"Taxi, motorcycle, or other",2000,0.008
+Ohio,"Taxi, motorcycle, or other",2000,0.007
+Oklahoma,"Taxi, motorcycle, or other",2000,0.011
+Oregon,"Taxi, motorcycle, or other",2000,0.019
+Pennsylvania,"Taxi, motorcycle, or other",2000,0.008
+Rhode Island,"Taxi, motorcycle, or other",2000,0.019
+South Carolina,"Taxi, motorcycle, or other",2000,0.01
+South Dakota,"Taxi, motorcycle, or other",2000,0.013
+Tennessee,"Taxi, motorcycle, or other",2000,0.008
+Texas,"Taxi, motorcycle, or other",2000,0.008
+United States,"Taxi, motorcycle, or other",2000,0.012
+Utah,"Taxi, motorcycle, or other",2000,0.013
+Vermont,"Taxi, motorcycle, or other",2000,0.012
+Virginia,"Taxi, motorcycle, or other",2000,0.009
+Washington,"Taxi, motorcycle, or other",2000,0.012
+West Virginia,"Taxi, motorcycle, or other",2000,0.014
+Wisconsin,"Taxi, motorcycle, or other",2000,0.009
+Wyoming,"Taxi, motorcycle, or other",2000,0.009
+Alabama,Walked,2000,0.013
+Alaska,Walked,2000,0.073
+Arizona,Walked,2000,0.026
+Arkansas,Walked,2000,0.019
+California,Walked,2000,0.029
+Colorado,Walked,2000,0.03
+Connecticut,Walked,2000,0.027
+Delaware,Walked,2000,0.026
+District of Columbia,Walked,2000,0.118
+Florida,Walked,2000,0.017
+Georgia,Walked,2000,0.017
+Hawaii,Walked,2000,0.048
+Idaho,Walked,2000,0.035
+Illinois,Walked,2000,0.031
+Indiana,Walked,2000,0.024
+Iowa,Walked,2000,0.04
+Kansas,Walked,2000,0.025
+Kentucky,Walked,2000,0.024
+Louisiana,Walked,2000,0.022
+Maine,Walked,2000,0.04
+Maryland,Walked,2000,0.025
+Massachusetts,Walked,2000,0.043
+Michigan,Walked,2000,0.022
+Minnesota,Walked,2000,0.033
+Mississippi,Walked,2000,0.019
+Missouri,Walked,2000,0.021
+Montana,Walked,2000,0.055
+Nebraska,Walked,2000,0.032
+Nevada,Walked,2000,0.027
+New Hampshire,Walked,2000,0.029
+New Jersey,Walked,2000,0.031
+New Mexico,Walked,2000,0.028
+New York,Walked,2000,0.062
+North Carolina,Walked,2000,0.019
+North Dakota,Walked,2000,0.05
+Ohio,Walked,2000,0.024
+Oklahoma,Walked,2000,0.021
+Oregon,Walked,2000,0.036
+Pennsylvania,Walked,2000,0.041
+Rhode Island,Walked,2000,0.041
+South Carolina,Walked,2000,0.038
+South Dakota,Walked,2000,0.023
+Tennessee,Walked,2000,0.045
+Texas,Walked,2000,0.015
+United States,Walked,2000,0.029
+Utah,Walked,2000,0.019
+Vermont,Walked,2000,0.028
+Virginia,Walked,2000,0.056
+Washington,Walked,2000,0.023
+West Virginia,Walked,2000,0.032
+Wisconsin,Walked,2000,0.029
+Wyoming,Walked,2000,0.037
+Alabama,Worked at home,2000,0.021
+Alaska,Worked at home,2000,0.041
+Arizona,Worked at home,2000,0.037
+Arkansas,Worked at home,2000,0.026
+California,Worked at home,2000,0.038
+Colorado,Worked at home,2000,0.049
+Connecticut,Worked at home,2000,0.031
+Delaware,Worked at home,2000,0.03
+District of Columbia,Worked at home,2000,0.038
+Florida,Worked at home,2000,0.03
+Georgia,Worked at home,2000,0.028
+Hawaii,Worked at home,2000,0.036
+Idaho,Worked at home,2000,0.047
+Illinois,Worked at home,2000,0.031
+Indiana,Worked at home,2000,0.029
+Iowa,Worked at home,2000,0.047
+Kansas,Worked at home,2000,0.04
+Kentucky,Worked at home,2000,0.027
+Louisiana,Worked at home,2000,0.021
+Maine,Worked at home,2000,0.044
+Maryland,Worked at home,2000,0.033
+Massachusetts,Worked at home,2000,0.031
+Michigan,Worked at home,2000,0.028
+Minnesota,Worked at home,2000,0.046
+Mississippi,Worked at home,2000,0.019
+Missouri,Worked at home,2000,0.035
+Montana,Worked at home,2000,0.064
+Nebraska,Worked at home,2000,0.046
+Nevada,Worked at home,2000,0.026
+New Hampshire,Worked at home,2000,0.04
+New Jersey,Worked at home,2000,0.027
+New Mexico,Worked at home,2000,0.042
+New York,Worked at home,2000,0.03
+North Carolina,Worked at home,2000,0.027
+North Dakota,Worked at home,2000,0.06
+Ohio,Worked at home,2000,0.028
+Oklahoma,Worked at home,2000,0.031
+Oregon,Worked at home,2000,0.05
+Pennsylvania,Worked at home,2000,0.03
+Rhode Island,Worked at home,2000,0.018
+South Carolina,Worked at home,2000,0.022
+South Dakota,Worked at home,2000,0.021
+Tennessee,Worked at home,2000,0.065
+Texas,Worked at home,2000,0.026
+United States,Worked at home,2000,0.033
+Utah,Worked at home,2000,0.028
+Vermont,Worked at home,2000,0.042
+Virginia,Worked at home,2000,0.057
+Washington,Worked at home,2000,0.032
+West Virginia,Worked at home,2000,0.043
+Wisconsin,Worked at home,2000,0.024
+Wyoming,Worked at home,2000,0.039
+Alabama,Bicycle,2005,0.000934449
+Alaska,Bicycle,2005,0.008921239
+Arizona,Bicycle,2005,0.007772234
+Arkansas,Bicycle,2005,0.001698746
+California,Bicycle,2005,0.007069508
+Colorado,Bicycle,2005,0.009360332
+Connecticut,Bicycle,2005,0.002653647
+Delaware,Bicycle,2005,0.002987157
+District of Columbia,Bicycle,2005,0.017353371
+Florida,Bicycle,2005,0.00437677
+Georgia,Bicycle,2005,0.001596416
+Hawaii,Bicycle,2005,0.006946739
+Idaho,Bicycle,2005,0.010048312
+Illinois,Bicycle,2005,0.003818739
+Indiana,Bicycle,2005,0.004007532
+Iowa,Bicycle,2005,0.00543137
+Kansas,Bicycle,2005,0.002682483
+Kentucky,Bicycle,2005,0.001167604
+Louisiana,Bicycle,2005,0.002725602
+Maine,Bicycle,2005,0.002810133
+Maryland,Bicycle,2005,0.001752848
+Massachusetts,Bicycle,2005,0.003948567
+Michigan,Bicycle,2005,0.002795044
+Minnesota,Bicycle,2005,0.005302843
+Mississippi,Bicycle,2005,0.001114978
+Missouri,Bicycle,2005,0.00186439
+Montana,Bicycle,2005,0.016025726
+Nebraska,Bicycle,2005,0.004024541
+Nevada,Bicycle,2005,0.003984239
+New Hampshire,Bicycle,2005,0.002028516
+New Jersey,Bicycle,2005,0.002659092
+New Mexico,Bicycle,2005,0.005067239
+New York,Bicycle,2005,0.003441358
+North Carolina,Bicycle,2005,0.002033458
+North Dakota,Bicycle,2005,0.004243363
+Ohio,Bicycle,2005,0.002329204
+Oklahoma,Bicycle,2005,0.002323456
+Oregon,Bicycle,2005,0.015251762
+Pennsylvania,Bicycle,2005,0.00262875
+Rhode Island,Bicycle,2005,0.002277322
+South Carolina,Bicycle,2005,0.002304077
+South Dakota,Bicycle,2005,0.004141183
+Tennessee,Bicycle,2005,0.00072102
+Texas,Bicycle,2005,0.002300865
+United States,Bicycle,2005,0.004019023
+Utah,Bicycle,2005,0.006163209
+Vermont,Bicycle,2005,0.005180937
+Virginia,Bicycle,2005,0.00232175
+Washington,Bicycle,2005,0.006610989
+West Virginia,Bicycle,2005,0.000699371
+Wisconsin,Bicycle,2005,0.006358481
+Wyoming,Bicycle,2005,0.006479523
+Alabama,Carpool,2005,0.108826272
+Alaska,Carpool,2005,0.151192779
+Arizona,Carpool,2005,0.142233746
+Arkansas,Carpool,2005,0.123160733
+California,Carpool,2005,0.125177538
+Colorado,Carpool,2005,0.100434994
+Connecticut,Carpool,2005,0.082275716
+Delaware,Carpool,2005,0.105930741
+District of Columbia,Carpool,2005,0.077025594
+Florida,Carpool,2005,0.110585991
+Georgia,Carpool,2005,0.112780724
+Hawaii,Carpool,2005,0.156453173
+Idaho,Carpool,2005,0.122269464
+Illinois,Carpool,2005,0.093962971
+Indiana,Carpool,2005,0.094204685
+Iowa,Carpool,2005,0.100735192
+Kansas,Carpool,2005,0.090964536
+Kentucky,Carpool,2005,0.109129054
+Louisiana,Carpool,2005,0.11027171
+Maine,Carpool,2005,0.101180381
+Maryland,Carpool,2005,0.108649956
+Massachusetts,Carpool,2005,0.084685157
+Michigan,Carpool,2005,0.086651358
+Minnesota,Carpool,2005,0.094980828
+Mississippi,Carpool,2005,0.124284528
+Missouri,Carpool,2005,0.105095228
+Montana,Carpool,2005,0.110444837
+Nebraska,Carpool,2005,0.100407657
+Nevada,Carpool,2005,0.116719828
+New Hampshire,Carpool,2005,0.087501647
+New Jersey,Carpool,2005,0.092663682
+New Mexico,Carpool,2005,0.135944479
+New York,Carpool,2005,0.078097937
+North Carolina,Carpool,2005,0.118955601
+North Dakota,Carpool,2005,0.107624081
+Ohio,Carpool,2005,0.08362305
+Oklahoma,Carpool,2005,0.109526617
+Oregon,Carpool,2005,0.114877008
+Pennsylvania,Carpool,2005,0.097424258
+Rhode Island,Carpool,2005,0.089223074
+South Carolina,Carpool,2005,0.115066772
+South Dakota,Carpool,2005,0.109918146
+Tennessee,Carpool,2005,0.103799054
+Texas,Carpool,2005,0.125069651
+United States,Carpool,2005,0.106697083
+Utah,Carpool,2005,0.127657304
+Vermont,Carpool,2005,0.110282654
+Virginia,Carpool,2005,0.113561754
+Washington,Carpool,2005,0.118537377
+West Virginia,Carpool,2005,0.108865567
+Wisconsin,Carpool,2005,0.090277977
+Wyoming,Carpool,2005,0.12490027
+Alabama,Drove alone,2005,0.839629105
+Alaska,Drove alone,2005,0.681909804
+Arizona,Drove alone,2005,0.755344722
+Arkansas,Drove alone,2005,0.817080056
+California,Drove alone,2005,0.739917596
+Colorado,Drove alone,2005,0.763770025
+Connecticut,Drove alone,2005,0.810628705
+Delaware,Drove alone,2005,0.802789693
+District of Columbia,Drove alone,2005,0.375414724
+Florida,Drove alone,2005,0.799761716
+Georgia,Drove alone,2005,0.800176404
+Hawaii,Drove alone,2005,0.684102292
+Idaho,Drove alone,2005,0.761986604
+Illinois,Drove alone,2005,0.749600927
+Indiana,Drove alone,2005,0.831350376
+Iowa,Drove alone,2005,0.800976858
+Kansas,Drove alone,2005,0.825590455
+Kentucky,Drove alone,2005,0.827630648
+Louisiana,Drove alone,2005,0.810427474
+Maine,Drove alone,2005,0.798116696
+Maryland,Drove alone,2005,0.735939623
+Massachusetts,Drove alone,2005,0.749803677
+Michigan,Drove alone,2005,0.842763215
+Minnesota,Drove alone,2005,0.789821592
+Mississippi,Drove alone,2005,0.824069484
+Missouri,Drove alone,2005,0.815599087
+Montana,Drove alone,2005,0.752027377
+Nebraska,Drove alone,2005,0.809854583
+Nevada,Drove alone,2005,0.780880927
+New Hampshire,Drove alone,2005,0.824466747
+New Jersey,Drove alone,2005,0.728090034
+New Mexico,Drove alone,2005,0.766180205
+New York,Drove alone,2005,0.554054319
+North Carolina,Drove alone,2005,0.812224388
+North Dakota,Drove alone,2005,0.78180548
+Ohio,Drove alone,2005,0.839704978
+Oklahoma,Drove alone,2005,0.81802443
+Oregon,Drove alone,2005,0.734301946
+Pennsylvania,Drove alone,2005,0.773161437
+Rhode Island,Drove alone,2005,0.815874532
+South Carolina,Drove alone,2005,0.823969088
+South Dakota,Drove alone,2005,0.774775719
+Tennessee,Drove alone,2005,0.836179782
+Texas,Drove alone,2005,0.792547275
+United States,Drove alone,2005,0.769835931
+Utah,Drove alone,2005,0.764876562
+Vermont,Drove alone,2005,0.758463781
+Virginia,Drove alone,2005,0.784322334
+Washington,Drove alone,2005,0.742841987
+West Virginia,Drove alone,2005,0.81903976
+Wisconsin,Drove alone,2005,0.81128564
+Wyoming,Drove alone,2005,0.74271683
+Alabama,Public transportation,2005,0.004310625
+Alaska,Public transportation,2005,0.012124606
+Arizona,Public transportation,2005,0.019014673
+Arkansas,Public transportation,2005,0.003336703
+California,Public transportation,2005,0.047255948
+Colorado,Public transportation,2005,0.027138999
+Connecticut,Public transportation,2005,0.042493945
+Delaware,Public transportation,2005,0.021630444
+District of Columbia,Public transportation,2005,0.377243712
+Florida,Public transportation,2005,0.017985595
+Georgia,Public transportation,2005,0.02235544
+Hawaii,Public transportation,2005,0.057082438
+Idaho,Public transportation,2005,0.009412382
+Illinois,Public transportation,2005,0.082343483
+Indiana,Public transportation,2005,0.009208894
+Iowa,Public transportation,2005,0.007861622
+Kansas,Public transportation,2005,0.003863919
+Kentucky,Public transportation,2005,0.008836303
+Louisiana,Public transportation,2005,0.019248759
+Maine,Public transportation,2005,0.006548655
+Maryland,Public transportation,2005,0.08466321
+Massachusetts,Public transportation,2005,0.081451272
+Michigan,Public transportation,2005,0.01141912
+Minnesota,Public transportation,2005,0.028189506
+Mississippi,Public transportation,2005,0.004182437
+Missouri,Public transportation,2005,0.012628882
+Montana,Public transportation,2005,0.005849302
+Nebraska,Public transportation,2005,0.006187251
+Nevada,Public transportation,2005,0.030215349
+New Hampshire,Public transportation,2005,0.006877493
+New Jersey,Public transportation,2005,0.102839552
+New Mexico,Public transportation,2005,0.008631605
+New York,Public transportation,2005,0.258462977
+North Carolina,Public transportation,2005,0.008703925
+North Dakota,Public transportation,2005,0.004249438
+Ohio,Public transportation,2005,0.017379145
+Oklahoma,Public transportation,2005,0.005793644
+Oregon,Public transportation,2005,0.040642828
+Pennsylvania,Public transportation,2005,0.05087155
+Rhode Island,Public transportation,2005,0.026540788
+South Carolina,Public transportation,2005,0.006706644
+South Dakota,Public transportation,2005,0.003098684
+Tennessee,Public transportation,2005,0.006702928
+Texas,Public transportation,2005,0.016550522
+United States,Public transportation,2005,0.046599785
+Utah,Public transportation,2005,0.023436334
+Vermont,Public transportation,2005,0.008837696
+Virginia,Public transportation,2005,0.036800537
+Washington,Public transportation,2005,0.047062479
+West Virginia,Public transportation,2005,0.006612237
+Wisconsin,Public transportation,2005,0.014979113
+Wyoming,Public transportation,2005,0.015619796
+Alabama,"Taxi, motorcycle, or other",2005,0.011966516
+Alaska,"Taxi, motorcycle, or other",2005,0.039180155
+Arizona,"Taxi, motorcycle, or other",2005,0.014235763
+Arkansas,"Taxi, motorcycle, or other",2005,0.012627343
+California,"Taxi, motorcycle, or other",2005,0.013204386
+Colorado,"Taxi, motorcycle, or other",2005,0.010137436
+Connecticut,"Taxi, motorcycle, or other",2005,0.008876261
+Delaware,"Taxi, motorcycle, or other",2005,0.011978853
+District of Columbia,"Taxi, motorcycle, or other",2005,0.008824765
+Florida,"Taxi, motorcycle, or other",2005,0.015257597
+Georgia,"Taxi, motorcycle, or other",2005,0.014182315
+Hawaii,"Taxi, motorcycle, or other",2005,0.016573204
+Idaho,"Taxi, motorcycle, or other",2005,0.013658019
+Illinois,"Taxi, motorcycle, or other",2005,0.01053769
+Indiana,"Taxi, motorcycle, or other",2005,0.011472411
+Iowa,"Taxi, motorcycle, or other",2005,0.010168867
+Kansas,"Taxi, motorcycle, or other",2005,0.01188204
+Kentucky,"Taxi, motorcycle, or other",2005,0.008488061
+Louisiana,"Taxi, motorcycle, or other",2005,0.017194869
+Maine,"Taxi, motorcycle, or other",2005,0.009416519
+Maryland,"Taxi, motorcycle, or other",2005,0.011024392
+Massachusetts,"Taxi, motorcycle, or other",2005,0.008435949
+Michigan,"Taxi, motorcycle, or other",2005,0.007240196
+Minnesota,"Taxi, motorcycle, or other",2005,0.007959272
+Mississippi,"Taxi, motorcycle, or other",2005,0.01478065
+Missouri,"Taxi, motorcycle, or other",2005,0.010569595
+Montana,"Taxi, motorcycle, or other",2005,0.009543829
+Nebraska,"Taxi, motorcycle, or other",2005,0.008129392
+Nevada,"Taxi, motorcycle, or other",2005,0.015511548
+New Hampshire,"Taxi, motorcycle, or other",2005,0.009371594
+New Jersey,"Taxi, motorcycle, or other",2005,0.012801836
+New Mexico,"Taxi, motorcycle, or other",2005,0.011254124
+New York,"Taxi, motorcycle, or other",2005,0.015564406
+North Carolina,"Taxi, motorcycle, or other",2005,0.012528268
+North Dakota,"Taxi, motorcycle, or other",2005,0.008717575
+Ohio,"Taxi, motorcycle, or other",2005,0.008025798
+Oklahoma,"Taxi, motorcycle, or other",2005,0.014393815
+Oregon,"Taxi, motorcycle, or other",2005,0.011245607
+Pennsylvania,"Taxi, motorcycle, or other",2005,0.008570339
+Rhode Island,"Taxi, motorcycle, or other",2005,0.012896833
+South Carolina,"Taxi, motorcycle, or other",2005,0.013257344
+South Dakota,"Taxi, motorcycle, or other",2005,0.007195338
+Tennessee,"Taxi, motorcycle, or other",2005,0.011233765
+Texas,"Taxi, motorcycle, or other",2005,0.015374711
+United States,"Taxi, motorcycle, or other",2005,0.012080911
+Utah,"Taxi, motorcycle, or other",2005,0.010105129
+Vermont,"Taxi, motorcycle, or other",2005,0.009664744
+Virginia,"Taxi, motorcycle, or other",2005,0.01053002
+Washington,"Taxi, motorcycle, or other",2005,0.010588912
+West Virginia,"Taxi, motorcycle, or other",2005,0.011076603
+Wisconsin,"Taxi, motorcycle, or other",2005,0.009522989
+Wyoming,"Taxi, motorcycle, or other",2005,0.009767698
+Alabama,Walked,2005,0.011966516
+Alaska,Walked,2005,0.065723302
+Arizona,Walked,2005,0.021002973
+Arkansas,Walked,2005,0.0160723
+California,Walked,2005,0.02476238
+Colorado,Walked,2005,0.029063778
+Connecticut,Walked,2005,0.020379017
+Delaware,Walked,2005,0.018031247
+District of Columbia,Walked,2005,0.099673824
+Florida,Walked,2005,0.015760526
+Georgia,Walked,2005,0.013289318
+Hawaii,Walked,2005,0.033165244
+Idaho,Walked,2005,0.033307815
+Illinois,Walked,2005,0.026110366
+Indiana,Walked,2005,0.019225432
+Iowa,Walked,2005,0.031580371
+Kansas,Walked,2005,0.025389212
+Kentucky,Walked,2005,0.017001036
+Louisiana,Walked,2005,0.017277756
+Maine,Walked,2005,0.036205619
+Maryland,Walked,2005,0.020839453
+Massachusetts,Walked,2005,0.037781451
+Michigan,Walked,2005,0.01803433
+Minnesota,Walked,2005,0.027028089
+Mississippi,Walked,2005,0.012921226
+Missouri,Walked,2005,0.018029762
+Montana,Walked,2005,0.046478118
+Nebraska,Walked,2005,0.026729602
+Nevada,Walked,2005,0.022891135
+New Hampshire,Walked,2005,0.027517456
+New Jersey,Walked,2005,0.030633261
+New Mexico,Walked,2005,0.025304959
+New York,Walked,2005,0.055736176
+North Carolina,Walked,2005,0.013803561
+North Dakota,Walked,2005,0.040981714
+Ohio,Walked,2005,0.018873122
+Oklahoma,Walked,2005,0.017640017
+Oregon,Walked,2005,0.032335985
+Pennsylvania,Walked,2005,0.036325679
+Rhode Island,Walked,2005,0.025372162
+South Carolina,Walked,2005,0.014642488
+South Dakota,Walked,2005,0.040015716
+Tennessee,Walked,2005,0.013688846
+Texas,Walked,2005,0.014899251
+United States,Walked,2005,0.024730447
+Utah,Walked,2005,0.020816775
+Vermont,Walked,2005,0.052484315
+Virginia,Walked,2005,0.017495546
+Washington,Walked,2005,0.028701407
+West Virginia,Walked,2005,0.025065411
+Wisconsin,Walked,2005,0.029258072
+Wyoming,Walked,2005,0.04383845
+Alabama,Worked at home,2005,0.022366516
+Alaska,Worked at home,2005,0.040948115
+Arizona,Worked at home,2005,0.040395889
+Arkansas,Worked at home,2005,0.026024119
+California,Worked at home,2005,0.042612643
+Colorado,Worked at home,2005,0.060094437
+Connecticut,Worked at home,2005,0.032692709
+Delaware,Worked at home,2005,0.036651865
+District of Columbia,Worked at home,2005,0.044464011
+Florida,Worked at home,2005,0.036271805
+Georgia,Worked at home,2005,0.035619383
+Hawaii,Worked at home,2005,0.045676909
+Idaho,Worked at home,2005,0.049317404
+Illinois,Worked at home,2005,0.033625823
+Indiana,Worked at home,2005,0.030530671
+Iowa,Worked at home,2005,0.043245719
+Kansas,Worked at home,2005,0.039627355
+Kentucky,Worked at home,2005,0.027747295
+Louisiana,Worked at home,2005,0.02285383
+Maine,Worked at home,2005,0.045721998
+Maryland,Worked at home,2005,0.037130517
+Massachusetts,Worked at home,2005,0.033893926
+Michigan,Worked at home,2005,0.031096738
+Minnesota,Worked at home,2005,0.046717869
+Mississippi,Worked at home,2005,0.018646697
+Missouri,Worked at home,2005,0.036213057
+Montana,Worked at home,2005,0.059630811
+Nebraska,Worked at home,2005,0.044666974
+Nevada,Worked at home,2005,0.029796973
+New Hampshire,Worked at home,2005,0.042236547
+New Jersey,Worked at home,2005,0.030312544
+New Mexico,Worked at home,2005,0.047617389
+New York,Worked at home,2005,0.034642827
+North Carolina,Worked at home,2005,0.0317508
+North Dakota,Worked at home,2005,0.052378349
+Ohio,Worked at home,2005,0.030064704
+Oklahoma,Worked at home,2005,0.03229802
+Oregon,Worked at home,2005,0.051344863
+Pennsylvania,Worked at home,2005,0.031017987
+Rhode Island,Worked at home,2005,0.027815289
+South Carolina,Worked at home,2005,0.024053588
+South Dakota,Worked at home,2005,0.060855216
+Tennessee,Worked at home,2005,0.027674605
+Texas,Worked at home,2005,0.033257724
+United States,Worked at home,2005,0.03603682
+Utah,Worked at home,2005,0.046944686
+Vermont,Worked at home,2005,0.055085874
+Virginia,Worked at home,2005,0.034968059
+Washington,Worked at home,2005,0.04565685
+West Virginia,Worked at home,2005,0.02864105
+Wisconsin,Worked at home,2005,0.038317728
+Wyoming,Worked at home,2005,0.056677434
+Alabama,Bicycle,2010,0.00118969
+Alaska,Bicycle,2010,0.013225634
+Arizona,Bicycle,2010,0.008506625
+Arkansas,Bicycle,2010,0.000608499
+California,Bicycle,2010,0.010050325
+Colorado,Bicycle,2010,0.011351665
+Connecticut,Bicycle,2010,0.002533353
+Delaware,Bicycle,2010,0.001559236
+District of Columbia,Bicycle,2010,0.031302554
+Florida,Bicycle,2010,0.006484384
+Georgia,Bicycle,2010,0.002063611
+Hawaii,Bicycle,2010,0.0086004
+Idaho,Bicycle,2010,0.0121124
+Illinois,Bicycle,2010,0.00577058
+Indiana,Bicycle,2010,0.004065786
+Iowa,Bicycle,2010,0.005220304
+Kansas,Bicycle,2010,0.003804509
+Kentucky,Bicycle,2010,0.001780548
+Louisiana,Bicycle,2010,0.003454651
+Maine,Bicycle,2010,0.006658827
+Maryland,Bicycle,2010,0.001992313
+Massachusetts,Bicycle,2010,0.006261054
+Michigan,Bicycle,2010,0.003771785
+Minnesota,Bicycle,2010,0.006517373
+Mississippi,Bicycle,2010,0.0007578
+Missouri,Bicycle,2010,0.002603446
+Montana,Bicycle,2010,0.010747895
+Nebraska,Bicycle,2010,0.004104646
+Nevada,Bicycle,2010,0.006202352
+New Hampshire,Bicycle,2010,0.001570023
+New Jersey,Bicycle,2010,0.003888626
+New Mexico,Bicycle,2010,0.006428046
+New York,Bicycle,2010,0.004726529
+North Carolina,Bicycle,2010,0.002417977
+North Dakota,Bicycle,2010,0.005900123
+Ohio,Bicycle,2010,0.002971055
+Oklahoma,Bicycle,2010,0.002446821
+Oregon,Bicycle,2010,0.022468591
+Pennsylvania,Bicycle,2010,0.00394177
+Rhode Island,Bicycle,2010,0.007021009
+South Carolina,Bicycle,2010,0.003647031
+South Dakota,Bicycle,2010,0.004587883
+Tennessee,Bicycle,2010,0.001278182
+Texas,Bicycle,2010,0.002366789
+United States,Bicycle,2010,0.005340153
+Utah,Bicycle,2010,0.007145336
+Vermont,Bicycle,2010,0.005937105
+Virginia,Bicycle,2010,0.00335212
+Washington,Bicycle,2010,0.009151272
+West Virginia,Bicycle,2010,0.001279553
+Wisconsin,Bicycle,2010,0.007522892
+Wyoming,Bicycle,2010,0.008574399
+Alabama,Carpool,2010,0.100058972
+Alaska,Carpool,2010,0.132128215
+Arizona,Carpool,2010,0.116392349
+Arkansas,Carpool,2010,0.112846339
+California,Carpool,2010,0.115035699
+Colorado,Carpool,2010,0.100422058
+Connecticut,Carpool,2010,0.079596842
+Delaware,Carpool,2010,0.094712457
+District of Columbia,Carpool,2010,0.059416885
+Florida,Carpool,2010,0.096270329
+Georgia,Carpool,2010,0.103029511
+Hawaii,Carpool,2010,0.137743327
+Idaho,Carpool,2010,0.099226442
+Illinois,Carpool,2010,0.086737887
+Indiana,Carpool,2010,0.085312979
+Iowa,Carpool,2010,0.097019565
+Kansas,Carpool,2010,0.091494384
+Kentucky,Carpool,2010,0.103431507
+Louisiana,Carpool,2010,0.106903194
+Maine,Carpool,2010,0.088715845
+Maryland,Carpool,2010,0.106789595
+Massachusetts,Carpool,2010,0.078222561
+Michigan,Carpool,2010,0.085903052
+Minnesota,Carpool,2010,0.085385854
+Mississippi,Carpool,2010,0.10008139
+Missouri,Carpool,2010,0.09268578
+Montana,Carpool,2010,0.097089827
+Nebraska,Carpool,2010,0.097906978
+Nevada,Carpool,2010,0.109796996
+New Hampshire,Carpool,2010,0.077154363
+New Jersey,Carpool,2010,0.083984069
+New Mexico,Carpool,2010,0.10408889
+New York,Carpool,2010,0.069044788
+North Carolina,Carpool,2010,0.100615842
+North Dakota,Carpool,2010,0.086439722
+Ohio,Carpool,2010,0.077501829
+Oklahoma,Carpool,2010,0.11162609
+Oregon,Carpool,2010,0.099992555
+Pennsylvania,Carpool,2010,0.088212903
+Rhode Island,Carpool,2010,0.081997883
+South Carolina,Carpool,2010,0.093341923
+South Dakota,Carpool,2010,0.100046572
+Tennessee,Carpool,2010,0.100069981
+Texas,Carpool,2010,0.110950538
+United States,Carpool,2010,0.096876429
+Utah,Carpool,2010,0.112326243
+Vermont,Carpool,2010,0.094723386
+Virginia,Carpool,2010,0.099830041
+Washington,Carpool,2010,0.104831301
+West Virginia,Carpool,2010,0.093991462
+Wisconsin,Carpool,2010,0.088048435
+Wyoming,Carpool,2010,0.110581783
+Alabama,Drove alone,2010,0.84472394
+Alaska,Drove alone,2010,0.670063828
+Arizona,Drove alone,2010,0.764840633
+Arkansas,Drove alone,2010,0.819992039
+California,Drove alone,2010,0.731725233
+Colorado,Drove alone,2010,0.754673815
+Connecticut,Drove alone,2010,0.796774806
+Delaware,Drove alone,2010,0.803813446
+District of Columbia,Drove alone,2010,0.347937597
+Florida,Drove alone,2010,0.799243959
+Georgia,Drove alone,2010,0.793348703
+Hawaii,Drove alone,2010,0.665891266
+Idaho,Drove alone,2010,0.777532796
+Illinois,Drove alone,2010,0.737663653
+Indiana,Drove alone,2010,0.838454931
+Iowa,Drove alone,2010,0.793260246
+Kansas,Drove alone,2010,0.821266835
+Kentucky,Drove alone,2010,0.822162532
+Louisiana,Drove alone,2010,0.816781373
+Maine,Drove alone,2010,0.804621822
+Maryland,Drove alone,2010,0.73024945
+Massachusetts,Drove alone,2010,0.728185468
+Michigan,Drove alone,2010,0.833319035
+Minnesota,Drove alone,2010,0.781922148
+Mississippi,Drove alone,2010,0.841467888
+Missouri,Drove alone,2010,0.817485358
+Montana,Drove alone,2010,0.756320884
+Nebraska,Drove alone,2010,0.813897406
+Nevada,Drove alone,2010,0.782636456
+New Hampshire,Drove alone,2010,0.815833865
+New Jersey,Drove alone,2010,0.72340955
+New Mexico,Drove alone,2010,0.797920413
+New York,Drove alone,2010,0.543509012
+North Carolina,Drove alone,2010,0.818733797
+North Dakota,Drove alone,2010,0.800243453
+Ohio,Drove alone,2010,0.838107203
+Oklahoma,Drove alone,2010,0.810312692
+Oregon,Drove alone,2010,0.721652796
+Pennsylvania,Drove alone,2010,0.770056
+Rhode Island,Drove alone,2010,0.803184663
+South Carolina,Drove alone,2010,0.828784083
+South Dakota,Drove alone,2010,0.781842684
+Tennessee,Drove alone,2010,0.836322048
+Texas,Drove alone,2010,0.798149205
+United States,Drove alone,2010,0.76571304
+Utah,Drove alone,2010,0.775648336
+Vermont,Drove alone,2010,0.748809876
+Virginia,Drove alone,2010,0.771391186
+Washington,Drove alone,2010,0.730339454
+West Virginia,Drove alone,2010,0.829375562
+Wisconsin,Drove alone,2010,0.80513941
+Wyoming,Drove alone,2010,0.75946876
+Alabama,Public transportation,2010,0.004080401
+Alaska,Public transportation,2010,0.011746413
+Arizona,Public transportation,2010,0.017861127
+Arkansas,Public transportation,2010,0.004941401
+California,Public transportation,2010,0.051524686
+Colorado,Public transportation,2010,0.029618607
+Connecticut,Public transportation,2010,0.044969659
+Delaware,Public transportation,2010,0.029979408
+District of Columbia,Public transportation,2010,0.383018162
+Florida,Public transportation,2010,0.020469427
+Georgia,Public transportation,2010,0.022735176
+Hawaii,Public transportation,2010,0.066232057
+Idaho,Public transportation,2010,0.008075929
+Illinois,Public transportation,2010,0.085398433
+Indiana,Public transportation,2010,0.009733214
+Iowa,Public transportation,2010,0.010998841
+Kansas,Public transportation,2010,0.005223289
+Kentucky,Public transportation,2010,0.010898442
+Louisiana,Public transportation,2010,0.014391014
+Maine,Public transportation,2010,0.004886964
+Maryland,Public transportation,2010,0.086247422
+Massachusetts,Public transportation,2010,0.090536518
+Michigan,Public transportation,2010,0.012744609
+Minnesota,Public transportation,2010,0.034748381
+Mississippi,Public transportation,2010,0.004383675
+Missouri,Public transportation,2010,0.015631391
+Montana,Public transportation,2010,0.008384358
+Nebraska,Public transportation,2010,0.005751062
+Nevada,Public transportation,2010,0.032848648
+New Hampshire,Public transportation,2010,0.009135498
+New Jersey,Public transportation,2010,0.108418829
+New Mexico,Public transportation,2010,0.011597291
+New York,Public transportation,2010,0.266947562
+North Carolina,Public transportation,2010,0.010438979
+North Dakota,Public transportation,2010,0.006867265
+Ohio,Public transportation,2010,0.016711665
+Oklahoma,Public transportation,2010,0.005253469
+Oregon,Public transportation,2010,0.042197652
+Pennsylvania,Public transportation,2010,0.054242981
+Rhode Island,Public transportation,2010,0.027929865
+South Carolina,Public transportation,2010,0.004993943
+South Dakota,Public transportation,2010,0.005261698
+Tennessee,Public transportation,2010,0.007072036
+Texas,Public transportation,2010,0.015144346
+United States,Public transportation,2010,0.049427567
+Utah,Public transportation,2010,0.021286425
+Vermont,Public transportation,2010,0.013267062
+Virginia,Public transportation,2010,0.043830055
+Washington,Public transportation,2010,0.054923716
+West Virginia,Public transportation,2010,0.007117942
+Wisconsin,Public transportation,2010,0.016690102
+Wyoming,Public transportation,2010,0.016983905
+Alabama,"Taxi, motorcycle, or other",2010,0.008120838
+Alaska,"Taxi, motorcycle, or other",2010,0.039257594
+Arizona,"Taxi, motorcycle, or other",2010,0.014865901
+Arkansas,"Taxi, motorcycle, or other",2010,0.013926954
+California,"Taxi, motorcycle, or other",2010,0.012896795
+Colorado,"Taxi, motorcycle, or other",2010,0.010259042
+Connecticut,"Taxi, motorcycle, or other",2010,0.008450368
+Delaware,"Taxi, motorcycle, or other",2010,0.011016127
+District of Columbia,"Taxi, motorcycle, or other",2010,0.010606066
+Florida,"Taxi, motorcycle, or other",2010,0.014877876
+Georgia,"Taxi, motorcycle, or other",2010,0.015823366
+Hawaii,"Taxi, motorcycle, or other",2010,0.02523068
+Idaho,"Taxi, motorcycle, or other",2010,0.010880858
+Illinois,"Taxi, motorcycle, or other",2010,0.010524182
+Indiana,"Taxi, motorcycle, or other",2010,0.00766658
+Iowa,"Taxi, motorcycle, or other",2010,0.009275916
+Kansas,"Taxi, motorcycle, or other",2010,0.008350786
+Kentucky,"Taxi, motorcycle, or other",2010,0.007756559
+Louisiana,"Taxi, motorcycle, or other",2010,0.016819879
+Maine,"Taxi, motorcycle, or other",2010,0.008722283
+Maryland,"Taxi, motorcycle, or other",2010,0.008866039
+Massachusetts,"Taxi, motorcycle, or other",2010,0.007711136
+Michigan,"Taxi, motorcycle, or other",2010,0.006943783
+Minnesota,"Taxi, motorcycle, or other",2010,0.009059643
+Mississippi,"Taxi, motorcycle, or other",2010,0.011706198
+Missouri,"Taxi, motorcycle, or other",2010,0.009424282
+Montana,"Taxi, motorcycle, or other",2010,0.010204304
+Nebraska,"Taxi, motorcycle, or other",2010,0.007585238
+Nevada,"Taxi, motorcycle, or other",2010,0.013710373
+New Hampshire,"Taxi, motorcycle, or other",2010,0.009432125
+New Jersey,"Taxi, motorcycle, or other",2010,0.015264203
+New Mexico,"Taxi, motorcycle, or other",2010,0.009132138
+New York,"Taxi, motorcycle, or other",2010,0.013789149
+North Carolina,"Taxi, motorcycle, or other",2010,0.009279389
+North Dakota,"Taxi, motorcycle, or other",2010,0.010727497
+Ohio,"Taxi, motorcycle, or other",2010,0.006627237
+Oklahoma,"Taxi, motorcycle, or other",2010,0.011395922
+Oregon,"Taxi, motorcycle, or other",2010,0.00962648
+Pennsylvania,"Taxi, motorcycle, or other",2010,0.008241042
+Rhode Island,"Taxi, motorcycle, or other",2010,0.008385626
+South Carolina,"Taxi, motorcycle, or other",2010,0.013101593
+South Dakota,"Taxi, motorcycle, or other",2010,0.012354089
+Tennessee,"Taxi, motorcycle, or other",2010,0.008952133
+Texas,"Taxi, motorcycle, or other",2010,0.016068308
+United States,"Taxi, motorcycle, or other",2010,0.01165423
+Utah,"Taxi, motorcycle, or other",2010,0.010619659
+Vermont,"Taxi, motorcycle, or other",2010,0.0078165
+Virginia,"Taxi, motorcycle, or other",2010,0.011122506
+Washington,"Taxi, motorcycle, or other",2010,0.012491749
+West Virginia,"Taxi, motorcycle, or other",2010,0.009161652
+Wisconsin,"Taxi, motorcycle, or other",2010,0.009323846
+Wyoming,"Taxi, motorcycle, or other",2010,0.011904506
+Alabama,Walked,2010,0.013245932
+Alaska,Walked,2010,0.078820933
+Arizona,Walked,2010,0.019982539
+Arkansas,Walked,2010,0.018108956
+California,Walked,2010,0.026994107
+Colorado,Walked,2010,0.029784581
+Connecticut,Walked,2010,0.028313124
+Delaware,Walked,2010,0.022383701
+District of Columbia,Walked,2010,0.117603643
+Florida,Walked,2010,0.016527385
+Georgia,Walked,2010,0.01470244
+Hawaii,Walked,2010,0.045095429
+Idaho,Walked,2010,0.032076812
+Illinois,Walked,2010,0.03088409
+Indiana,Walked,2010,0.021859929
+Iowa,Walked,2010,0.035890745
+Kansas,Walked,2010,0.025791183
+Kentucky,Walked,2010,0.01741566
+Louisiana,Walked,2010,0.019856349
+Maine,Walked,2010,0.034854076
+Maryland,Walked,2010,0.022794323
+Massachusetts,Walked,2010,0.046744677
+Michigan,Walked,2010,0.021788883
+Minnesota,Walked,2010,0.028101573
+Mississippi,Walked,2010,0.017361216
+Missouri,Walked,2010,0.020535668
+Montana,Walked,2010,0.051778197
+Nebraska,Walked,2010,0.027601626
+Nevada,Walked,2010,0.017832606
+New Hampshire,Walked,2010,0.028178024
+New Jersey,Walked,2010,0.029162231
+New Mexico,Walked,2010,0.022052336
+New York,Walked,2010,0.062197212
+North Carolina,Walked,2010,0.018094651
+North Dakota,Walked,2010,0.038321619
+Ohio,Walked,2010,0.022581593
+Oklahoma,Walked,2010,0.017514184
+Oregon,Walked,2010,0.039141722
+Pennsylvania,Walked,2010,0.038243507
+Rhode Island,Walked,2010,0.038338458
+South Carolina,Walked,2010,0.018949162
+South Dakota,Walked,2010,0.043840048
+Tennessee,Walked,2010,0.012494503
+Texas,Walked,2010,0.016653388
+United States,Walked,2010,0.027727618
+Utah,Walked,2010,0.029161501
+Vermont,Walked,2010,0.055170243
+Virginia,Walked,2010,0.027039031
+Washington,Walked,2010,0.034775818
+West Virginia,Walked,2010,0.030973147
+Wisconsin,Walked,2010,0.031447993
+Wyoming,Walked,2010,0.043567409
+Alabama,Worked at home,2010,0.028580226
+Alaska,Worked at home,2010,0.054757384
+Arizona,Worked at home,2010,0.057550826
+Arkansas,Worked at home,2010,0.029575813
+California,Worked at home,2010,0.051773155
+Colorado,Worked at home,2010,0.063890232
+Connecticut,Worked at home,2010,0.039361848
+Delaware,Worked at home,2010,0.036535625
+District of Columbia,Worked at home,2010,0.050115093
+Florida,Worked at home,2010,0.04612664
+Georgia,Worked at home,2010,0.048297193
+Hawaii,Worked at home,2010,0.05120684
+Idaho,Worked at home,2010,0.060094762
+Illinois,Worked at home,2010,0.043021176
+Indiana,Worked at home,2010,0.03290658
+Iowa,Worked at home,2010,0.048334385
+Kansas,Worked at home,2010,0.044069014
+Kentucky,Worked at home,2010,0.036554753
+Louisiana,Worked at home,2010,0.021793541
+Maine,Worked at home,2010,0.051540182
+Maryland,Worked at home,2010,0.043060859
+Massachusetts,Worked at home,2010,0.042338586
+Michigan,Worked at home,2010,0.035528852
+Minnesota,Worked at home,2010,0.054265029
+Mississippi,Worked at home,2010,0.024241833
+Missouri,Worked at home,2010,0.041634074
+Montana,Worked at home,2010,0.065474534
+Nebraska,Worked at home,2010,0.043153045
+Nevada,Worked at home,2010,0.03697257
+New Hampshire,Worked at home,2010,0.058696102
+New Jersey,Worked at home,2010,0.035872492
+New Mexico,Worked at home,2010,0.048780886
+New York,Worked at home,2010,0.039785747
+North Carolina,Worked at home,2010,0.040419365
+North Dakota,Worked at home,2010,0.051500321
+Ohio,Worked at home,2010,0.035499419
+Oklahoma,Worked at home,2010,0.041450821
+Oregon,Worked at home,2010,0.064920204
+Pennsylvania,Worked at home,2010,0.037061797
+Rhode Island,Worked at home,2010,0.033142495
+South Carolina,Worked at home,2010,0.037182264
+South Dakota,Worked at home,2010,0.052067025
+Tennessee,Worked at home,2010,0.033811117
+Texas,Worked at home,2010,0.040667428
+United States,Worked at home,2010,0.043260963
+Utah,Worked at home,2010,0.043812499
+Vermont,Worked at home,2010,0.074275829
+Virginia,Worked at home,2010,0.043435061
+Washington,Worked at home,2010,0.05348669
+West Virginia,Worked at home,2010,0.028100682
+Wisconsin,Worked at home,2010,0.041827322
+Wyoming,Worked at home,2010,0.048919239
+Alabama,Bicycle,2011,0.001477519
+Alaska,Bicycle,2011,0.010201361
+Arizona,Bicycle,2011,0.011012903
+Arkansas,Bicycle,2011,0.001762572
+California,Bicycle,2011,0.011008803
+Colorado,Bicycle,2011,0.013540118
+Connecticut,Bicycle,2011,0.002968287
+Delaware,Bicycle,2011,0.00222135
+District of Columbia,Bicycle,2011,0.031515543
+Florida,Bicycle,2011,0.005801514
+Georgia,Bicycle,2011,0.002804451
+Hawaii,Bicycle,2011,0.008010005
+Idaho,Bicycle,2011,0.00891663
+Illinois,Bicycle,2011,0.005980413
+Indiana,Bicycle,2011,0.005098729
+Iowa,Bicycle,2011,0.004707685
+Kansas,Bicycle,2011,0.003899873
+Kentucky,Bicycle,2011,0.002639297
+Louisiana,Bicycle,2011,0.00502555
+Maine,Bicycle,2011,0.003439916
+Maryland,Bicycle,2011,0.002603397
+Massachusetts,Bicycle,2011,0.006913399
+Michigan,Bicycle,2011,0.004591738
+Minnesota,Bicycle,2011,0.007100271
+Mississippi,Bicycle,2011,0.000955592
+Missouri,Bicycle,2011,0.001813004
+Montana,Bicycle,2011,0.013466747
+Nebraska,Bicycle,2011,0.004588392
+Nevada,Bicycle,2011,0.003799231
+New Hampshire,Bicycle,2011,0.0017927
+New Jersey,Bicycle,2011,0.003053337
+New Mexico,Bicycle,2011,0.00794371
+New York,Bicycle,2011,0.005061987
+North Carolina,Bicycle,2011,0.002217101
+North Dakota,Bicycle,2011,0.006498779
+Ohio,Bicycle,2011,0.002967162
+Oklahoma,Bicycle,2011,0.002658715
+Oregon,Bicycle,2011,0.022652313
+Pennsylvania,Bicycle,2011,0.004109257
+Rhode Island,Bicycle,2011,0.001987849
+South Carolina,Bicycle,2011,0.003118444
+South Dakota,Bicycle,2011,0.006772708
+Tennessee,Bicycle,2011,0.00133773
+Texas,Bicycle,2011,0.002859708
+United States,Bicycle,2011,0.005623672
+Utah,Bicycle,2011,0.007743927
+Vermont,Bicycle,2011,0.008097472
+Virginia,Bicycle,2011,0.003457414
+Washington,Bicycle,2011,0.008277593
+West Virginia,Bicycle,2011,0.000803321
+Wisconsin,Bicycle,2011,0.006883497
+Wyoming,Bicycle,2011,0.009619754
+Alabama,Carpool,2011,0.099342949
+Alaska,Carpool,2011,0.123987534
+Arizona,Carpool,2011,0.116467509
+Arkansas,Carpool,2011,0.10296446
+California,Carpool,2011,0.110973675
+Colorado,Carpool,2011,0.097576509
+Connecticut,Carpool,2011,0.086952278
+Delaware,Carpool,2011,0.088832298
+District of Columbia,Carpool,2011,0.064510872
+Florida,Carpool,2011,0.099062173
+Georgia,Carpool,2011,0.105439493
+Hawaii,Carpool,2011,0.142195667
+Idaho,Carpool,2011,0.098243424
+Illinois,Carpool,2011,0.088260182
+Indiana,Carpool,2011,0.088264848
+Iowa,Carpool,2011,0.089099691
+Kansas,Carpool,2011,0.10049785
+Kentucky,Carpool,2011,0.094718259
+Louisiana,Carpool,2011,0.101644838
+Maine,Carpool,2011,0.09863259
+Maryland,Carpool,2011,0.101099632
+Massachusetts,Carpool,2011,0.081829383
+Michigan,Carpool,2011,0.089955912
+Minnesota,Carpool,2011,0.093056975
+Mississippi,Carpool,2011,0.106266693
+Missouri,Carpool,2011,0.097250555
+Montana,Carpool,2011,0.103971618
+Nebraska,Carpool,2011,0.093425416
+Nevada,Carpool,2011,0.111165475
+New Hampshire,Carpool,2011,0.086258205
+New Jersey,Carpool,2011,0.084796416
+New Mexico,Carpool,2011,0.100121578
+New York,Carpool,2011,0.067020216
+North Carolina,Carpool,2011,0.099387381
+North Dakota,Carpool,2011,0.095064609
+Ohio,Carpool,2011,0.081805302
+Oklahoma,Carpool,2011,0.108557167
+Oregon,Carpool,2011,0.102284397
+Pennsylvania,Carpool,2011,0.090754032
+Rhode Island,Carpool,2011,0.085788873
+South Carolina,Carpool,2011,0.093115058
+South Dakota,Carpool,2011,0.099598076
+Tennessee,Carpool,2011,0.094324015
+Texas,Carpool,2011,0.110514874
+United States,Carpool,2011,0.096822015
+Utah,Carpool,2011,0.120498622
+Vermont,Carpool,2011,0.099349997
+Virginia,Carpool,2011,0.091527996
+Washington,Carpool,2011,0.101719572
+West Virginia,Carpool,2011,0.105134947
+Wisconsin,Carpool,2011,0.08908675
+Wyoming,Carpool,2011,0.108596257
+Alabama,Drove alone,2011,0.848533795
+Alaska,Drove alone,2011,0.682232487
+Arizona,Drove alone,2011,0.758428158
+Arkansas,Drove alone,2011,0.827446442
+California,Drove alone,2011,0.732523769
+Colorado,Drove alone,2011,0.754563014
+Connecticut,Drove alone,2011,0.781334449
+Delaware,Drove alone,2011,0.811262387
+District of Columbia,Drove alone,2011,0.331227734
+Florida,Drove alone,2011,0.797170253
+Georgia,Drove alone,2011,0.793759875
+Hawaii,Drove alone,2011,0.67122213
+Idaho,Drove alone,2011,0.774271066
+Illinois,Drove alone,2011,0.733084807
+Indiana,Drove alone,2011,0.835519732
+Iowa,Drove alone,2011,0.805275806
+Kansas,Drove alone,2011,0.817499703
+Kentucky,Drove alone,2011,0.830988917
+Louisiana,Drove alone,2011,0.820544613
+Maine,Drove alone,2011,0.788133794
+Maryland,Drove alone,2011,0.732543162
+Massachusetts,Drove alone,2011,0.72183488
+Michigan,Drove alone,2011,0.826418332
+Minnesota,Drove alone,2011,0.777315037
+Mississippi,Drove alone,2011,0.837310385
+Missouri,Drove alone,2011,0.813925939
+Montana,Drove alone,2011,0.758099912
+Nebraska,Drove alone,2011,0.812513621
+Nevada,Drove alone,2011,0.785781125
+New Hampshire,Drove alone,2011,0.805987587
+New Jersey,Drove alone,2011,0.718458293
+New Mexico,Drove alone,2011,0.793127427
+New York,Drove alone,2011,0.539069029
+North Carolina,Drove alone,2011,0.810340785
+North Dakota,Drove alone,2011,0.791089012
+Ohio,Drove alone,2011,0.832886287
+Oklahoma,Drove alone,2011,0.819372077
+Oregon,Drove alone,2011,0.71828712
+Pennsylvania,Drove alone,2011,0.765615063
+Rhode Island,Drove alone,2011,0.803075179
+South Carolina,Drove alone,2011,0.823454174
+South Dakota,Drove alone,2011,0.780027218
+Tennessee,Drove alone,2011,0.839857338
+Texas,Drove alone,2011,0.797904622
+United States,Drove alone,2011,0.764007811
+Utah,Drove alone,2011,0.765393984
+Vermont,Drove alone,2011,0.743303832
+Virginia,Drove alone,2011,0.780837644
+Washington,Drove alone,2011,0.732794752
+West Virginia,Drove alone,2011,0.821263873
+Wisconsin,Drove alone,2011,0.798361557
+Wyoming,Drove alone,2011,0.777490754
+Alabama,Public transportation,2011,0.004776084
+Alaska,Public transportation,2011,0.018562004
+Arizona,Public transportation,2011,0.019831603
+Arkansas,Public transportation,2011,0.004335285
+California,Public transportation,2011,0.051581763
+Colorado,Public transportation,2011,0.031093558
+Connecticut,Public transportation,2011,0.046769073
+Delaware,Public transportation,2011,0.032737199
+District of Columbia,Public transportation,2011,0.3958918
+Florida,Public transportation,2011,0.02097016
+Georgia,Public transportation,2011,0.021511539
+Hawaii,Public transportation,2011,0.059420486
+Idaho,Public transportation,2011,0.006892555
+Illinois,Public transportation,2011,0.090000854
+Indiana,Public transportation,2011,0.010540607
+Iowa,Public transportation,2011,0.010903746
+Kansas,Public transportation,2011,0.003716478
+Kentucky,Public transportation,2011,0.011542578
+Louisiana,Public transportation,2011,0.013436137
+Maine,Public transportation,2011,0.006477374
+Maryland,Public transportation,2011,0.09196463
+Massachusetts,Public transportation,2011,0.089426473
+Michigan,Public transportation,2011,0.01432717
+Minnesota,Public transportation,2011,0.034460746
+Mississippi,Public transportation,2011,0.004279542
+Missouri,Public transportation,2011,0.014222377
+Montana,Public transportation,2011,0.008765389
+Nebraska,Public transportation,2011,0.007073682
+Nevada,Public transportation,2011,0.034750331
+New Hampshire,Public transportation,2011,0.007473307
+New Jersey,Public transportation,2011,0.110341298
+New Mexico,Public transportation,2011,0.010699786
+New York,Public transportation,2011,0.270448095
+North Carolina,Public transportation,2011,0.011727979
+North Dakota,Public transportation,2011,0.003940951
+Ohio,Public transportation,2011,0.016538288
+Oklahoma,Public transportation,2011,0.005068625
+Oregon,Public transportation,2011,0.043274581
+Pennsylvania,Public transportation,2011,0.053043945
+Rhode Island,Public transportation,2011,0.031184886
+South Carolina,Public transportation,2011,0.006577593
+South Dakota,Public transportation,2011,0.007077565
+Tennessee,Public transportation,2011,0.009489738
+Texas,Public transportation,2011,0.015533048
+United States,Public transportation,2011,0.050307218
+Utah,Public transportation,2011,0.024480984
+Vermont,Public transportation,2011,0.013787758
+Virginia,Public transportation,2011,0.045036515
+Washington,Public transportation,2011,0.056287891
+West Virginia,Public transportation,2011,0.009134004
+Wisconsin,Public transportation,2011,0.019630073
+Wyoming,Public transportation,2011,0.015439845
+Alabama,"Taxi, motorcycle, or other",2011,0.008864092
+Alaska,"Taxi, motorcycle, or other",2011,0.040920129
+Arizona,"Taxi, motorcycle, or other",2011,0.017282327
+Arkansas,"Taxi, motorcycle, or other",2011,0.011390507
+California,"Taxi, motorcycle, or other",2011,0.012726313
+Colorado,"Taxi, motorcycle, or other",2011,0.011433366
+Connecticut,"Taxi, motorcycle, or other",2011,0.009621364
+Delaware,"Taxi, motorcycle, or other",2011,0.00765185
+District of Columbia,"Taxi, motorcycle, or other",2011,0.010948465
+Florida,"Taxi, motorcycle, or other",2011,0.01569443
+Georgia,"Taxi, motorcycle, or other",2011,0.013406289
+Hawaii,"Taxi, motorcycle, or other",2011,0.024548428
+Idaho,"Taxi, motorcycle, or other",2011,0.015443602
+Illinois,"Taxi, motorcycle, or other",2011,0.010447123
+Indiana,"Taxi, motorcycle, or other",2011,0.008552069
+Iowa,"Taxi, motorcycle, or other",2011,0.00885822
+Kansas,"Taxi, motorcycle, or other",2011,0.007978068
+Kentucky,"Taxi, motorcycle, or other",2011,0.009799792
+Louisiana,"Taxi, motorcycle, or other",2011,0.016191436
+Maine,"Taxi, motorcycle, or other",2011,0.011387692
+Maryland,"Taxi, motorcycle, or other",2011,0.008142182
+Massachusetts,"Taxi, motorcycle, or other",2011,0.00883016
+Michigan,"Taxi, motorcycle, or other",2011,0.007590619
+Minnesota,"Taxi, motorcycle, or other",2011,0.008724871
+Mississippi,"Taxi, motorcycle, or other",2011,0.011686243
+Missouri,"Taxi, motorcycle, or other",2011,0.010331719
+Montana,"Taxi, motorcycle, or other",2011,0.01063701
+Nebraska,"Taxi, motorcycle, or other",2011,0.007928235
+Nevada,"Taxi, motorcycle, or other",2011,0.016402908
+New Hampshire,"Taxi, motorcycle, or other",2011,0.011121294
+New Jersey,"Taxi, motorcycle, or other",2011,0.01385516
+New Mexico,"Taxi, motorcycle, or other",2011,0.013359666
+New York,"Taxi, motorcycle, or other",2011,0.013808838
+North Carolina,"Taxi, motorcycle, or other",2011,0.012004758
+North Dakota,"Taxi, motorcycle, or other",2011,0.00685877
+Ohio,"Taxi, motorcycle, or other",2011,0.00859079
+Oklahoma,"Taxi, motorcycle, or other",2011,0.011346413
+Oregon,"Taxi, motorcycle, or other",2011,0.010936567
+Pennsylvania,"Taxi, motorcycle, or other",2011,0.009004297
+Rhode Island,"Taxi, motorcycle, or other",2011,0.00887946
+South Carolina,"Taxi, motorcycle, or other",2011,0.012983046
+South Dakota,"Taxi, motorcycle, or other",2011,0.008492103
+Tennessee,"Taxi, motorcycle, or other",2011,0.008294071
+Texas,"Taxi, motorcycle, or other",2011,0.014432353
+United States,"Taxi, motorcycle, or other",2011,0.011769699
+Utah,"Taxi, motorcycle, or other",2011,0.011404883
+Vermont,"Taxi, motorcycle, or other",2011,0.01059288
+Virginia,"Taxi, motorcycle, or other",2011,0.010219535
+Washington,"Taxi, motorcycle, or other",2011,0.011518701
+West Virginia,"Taxi, motorcycle, or other",2011,0.005949509
+Wisconsin,"Taxi, motorcycle, or other",2011,0.008865881
+Wyoming,"Taxi, motorcycle, or other",2011,0.013346011
+Alabama,Walked,2011,0.010831046
+Alaska,Walked,2011,0.075713135
+Arizona,Walked,2011,0.021968829
+Arkansas,Walked,2011,0.018733597
+California,Walked,2011,0.027758344
+Colorado,Walked,2011,0.029255195
+Connecticut,Walked,2011,0.030021834
+Delaware,Walked,2011,0.021100411
+District of Columbia,Walked,2011,0.117991793
+Florida,Walked,2011,0.015240594
+Georgia,Walked,2011,0.016468294
+Hawaii,Walked,2011,0.049081472
+Idaho,Walked,2011,0.034602467
+Illinois,Walked,2011,0.031274189
+Indiana,Walked,2011,0.020553318
+Iowa,Walked,2011,0.035041618
+Kansas,Walked,2011,0.023327476
+Kentucky,Walked,2011,0.021201049
+Louisiana,Walked,2011,0.021533658
+Maine,Walked,2011,0.037493662
+Maryland,Walked,2011,0.022840133
+Massachusetts,Walked,2011,0.046260326
+Michigan,Walked,2011,0.021918033
+Minnesota,Walked,2011,0.027325093
+Mississippi,Walked,2011,0.016882706
+Missouri,Walked,2011,0.02037624
+Montana,Walked,2011,0.047538319
+Nebraska,Walked,2011,0.027812698
+Nevada,Walked,2011,0.02056385
+New Hampshire,Walked,2011,0.028096058
+New Jersey,Walked,2011,0.031083596
+New Mexico,Walked,2011,0.024432646
+New York,Walked,2011,0.065591468
+North Carolina,Walked,2011,0.017192097
+North Dakota,Walked,2011,0.039184851
+Ohio,Walked,2011,0.023028699
+Oklahoma,Walked,2011,0.018625425
+Oregon,Walked,2011,0.038570849
+Pennsylvania,Walked,2011,0.039022926
+Rhode Island,Walked,2011,0.032100973
+South Carolina,Walked,2011,0.02306576
+South Dakota,Walked,2011,0.042675134
+Tennessee,Walked,2011,0.013976593
+Texas,Walked,2011,0.016859563
+United States,Walked,2011,0.028118678
+Utah,Walked,2011,0.024040514
+Vermont,Walked,2011,0.06298699
+Virginia,Walked,2011,0.023360851
+Washington,Walked,2011,0.034478294
+West Virginia,Walked,2011,0.027499342
+Wisconsin,Walked,2011,0.034014442
+Wyoming,Walked,2011,0.034036172
+Alabama,Worked at home,2011,0.026174515
+Alaska,Worked at home,2011,0.048383351
+Arizona,Worked at home,2011,0.055008671
+Arkansas,Worked at home,2011,0.033367137
+California,Worked at home,2011,0.053427333
+Colorado,Worked at home,2011,0.06253824
+Connecticut,Worked at home,2011,0.042332715
+Delaware,Worked at home,2011,0.036194505
+District of Columbia,Worked at home,2011,0.047913794
+Florida,Worked at home,2011,0.046060877
+Georgia,Worked at home,2011,0.046610059
+Hawaii,Worked at home,2011,0.045521812
+Idaho,Worked at home,2011,0.061630257
+Illinois,Worked at home,2011,0.040952433
+Indiana,Worked at home,2011,0.031470697
+Iowa,Worked at home,2011,0.046113236
+Kansas,Worked at home,2011,0.043080552
+Kentucky,Worked at home,2011,0.029110108
+Louisiana,Worked at home,2011,0.021623768
+Maine,Worked at home,2011,0.054434973
+Maryland,Worked at home,2011,0.040806864
+Massachusetts,Worked at home,2011,0.044905379
+Michigan,Worked at home,2011,0.035198196
+Minnesota,Worked at home,2011,0.052017007
+Mississippi,Worked at home,2011,0.022618839
+Missouri,Worked at home,2011,0.042080168
+Montana,Worked at home,2011,0.057521005
+Nebraska,Worked at home,2011,0.046657957
+Nevada,Worked at home,2011,0.02753708
+New Hampshire,Worked at home,2011,0.05927085
+New Jersey,Worked at home,2011,0.0384119
+New Mexico,Worked at home,2011,0.050315187
+New York,Worked at home,2011,0.039000366
+North Carolina,Worked at home,2011,0.047129898
+North Dakota,Worked at home,2011,0.057363028
+Ohio,Worked at home,2011,0.03418347
+Oklahoma,Worked at home,2011,0.034371578
+Oregon,Worked at home,2011,0.063994173
+Pennsylvania,Worked at home,2011,0.03845048
+Rhode Island,Worked at home,2011,0.03698278
+South Carolina,Worked at home,2011,0.037685925
+South Dakota,Worked at home,2011,0.055357195
+Tennessee,Worked at home,2011,0.032720515
+Texas,Worked at home,2011,0.041895831
+United States,Worked at home,2011,0.043350907
+Utah,Worked at home,2011,0.046437087
+Vermont,Worked at home,2011,0.061881071
+Virginia,Worked at home,2011,0.045560045
+Washington,Worked at home,2011,0.054923197
+West Virginia,Worked at home,2011,0.030215005
+Wisconsin,Worked at home,2011,0.043157799
+Wyoming,Worked at home,2011,0.041471207
+Alabama,Bicycle,2012,0.001122882
+Alaska,Bicycle,2012,0.011061035
+Arizona,Bicycle,2012,0.009044766
+Arkansas,Bicycle,2012,0.000781738
+California,Bicycle,2012,0.011205026
+Colorado,Bicycle,2012,0.015095362
+Connecticut,Bicycle,2012,0.003330971
+Delaware,Bicycle,2012,0.003230754
+District of Columbia,Bicycle,2012,0.041371423
+Florida,Bicycle,2012,0.006970447
+Georgia,Bicycle,2012,0.001964336
+Hawaii,Bicycle,2012,0.011780325
+Idaho,Bicycle,2012,0.010288564
+Illinois,Bicycle,2012,0.006933324
+Indiana,Bicycle,2012,0.005423117
+Iowa,Bicycle,2012,0.005099037
+Kansas,Bicycle,2012,0.002764653
+Kentucky,Bicycle,2012,0.002308119
+Louisiana,Bicycle,2012,0.004327236
+Maine,Bicycle,2012,0.004390449
+Maryland,Bicycle,2012,0.003729817
+Massachusetts,Bicycle,2012,0.008045661
+Michigan,Bicycle,2012,0.005079818
+Minnesota,Bicycle,2012,0.008136482
+Mississippi,Bicycle,2012,0.001289006
+Missouri,Bicycle,2012,0.002619707
+Montana,Bicycle,2012,0.015859491
+Nebraska,Bicycle,2012,0.006549176
+Nevada,Bicycle,2012,0.004088478
+New Hampshire,Bicycle,2012,0.002731708
+New Jersey,Bicycle,2012,0.003933241
+New Mexico,Bicycle,2012,0.00521795
+New York,Bicycle,2012,0.005957383
+North Carolina,Bicycle,2012,0.00284998
+North Dakota,Bicycle,2012,0.003566815
+Ohio,Bicycle,2012,0.003050816
+Oklahoma,Bicycle,2012,0.002276082
+Oregon,Bicycle,2012,0.024672498
+Pennsylvania,Bicycle,2012,0.004838184
+Rhode Island,Bicycle,2012,0.004331187
+South Carolina,Bicycle,2012,0.003735549
+South Dakota,Bicycle,2012,0.008208675
+Tennessee,Bicycle,2012,0.001492641
+Texas,Bicycle,2012,0.002750344
+United States,Bicycle,2012,0.006139889
+Utah,Bicycle,2012,0.009850682
+Vermont,Bicycle,2012,0.009788946
+Virginia,Bicycle,2012,0.00384857
+Washington,Bicycle,2012,0.009334193
+West Virginia,Bicycle,2012,0.000888662
+Wisconsin,Bicycle,2012,0.008734473
+Wyoming,Bicycle,2012,0.011799678
+Alabama,Carpool,2012,0.094800038
+Alaska,Carpool,2012,0.133139073
+Arizona,Carpool,2012,0.110429331
+Arkansas,Carpool,2012,0.11181527
+California,Carpool,2012,0.110845321
+Colorado,Carpool,2012,0.096829872
+Connecticut,Carpool,2012,0.082335788
+Delaware,Carpool,2012,0.080676396
+District of Columbia,Carpool,2012,0.056404706
+Florida,Carpool,2012,0.097445105
+Georgia,Carpool,2012,0.104311334
+Hawaii,Carpool,2012,0.152966712
+Idaho,Carpool,2012,0.100645633
+Illinois,Carpool,2012,0.088849727
+Indiana,Carpool,2012,0.093581183
+Iowa,Carpool,2012,0.090445661
+Kansas,Carpool,2012,0.097394428
+Kentucky,Carpool,2012,0.097803549
+Louisiana,Carpool,2012,0.098791823
+Maine,Carpool,2012,0.110362663
+Maryland,Carpool,2012,0.098412121
+Massachusetts,Carpool,2012,0.078089251
+Michigan,Carpool,2012,0.090006724
+Minnesota,Carpool,2012,0.089488877
+Mississippi,Carpool,2012,0.106779631
+Missouri,Carpool,2012,0.097099231
+Montana,Carpool,2012,0.107058925
+Nebraska,Carpool,2012,0.100229855
+Nevada,Carpool,2012,0.108816166
+New Hampshire,Carpool,2012,0.072337102
+New Jersey,Carpool,2012,0.082851108
+New Mexico,Carpool,2012,0.113228127
+New York,Carpool,2012,0.068673254
+North Carolina,Carpool,2012,0.105353587
+North Dakota,Carpool,2012,0.097478777
+Ohio,Carpool,2012,0.081445778
+Oklahoma,Carpool,2012,0.103855667
+Oregon,Carpool,2012,0.104245422
+Pennsylvania,Carpool,2012,0.089440148
+Rhode Island,Carpool,2012,0.089406655
+South Carolina,Carpool,2012,0.093161195
+South Dakota,Carpool,2012,0.091471149
+Tennessee,Carpool,2012,0.094407564
+Texas,Carpool,2012,0.110333381
+United States,Carpool,2012,0.097086324
+Utah,Carpool,2012,0.122158791
+Vermont,Carpool,2012,0.102004523
+Virginia,Carpool,2012,0.099133694
+Washington,Carpool,2012,0.107191538
+West Virginia,Carpool,2012,0.105617246
+Wisconsin,Carpool,2012,0.089373701
+Wyoming,Carpool,2012,0.115559208
+Alabama,Drove alone,2012,0.852860887
+Alaska,Drove alone,2012,0.66171575
+Arizona,Drove alone,2012,0.76716799
+Arkansas,Drove alone,2012,0.822269797
+California,Drove alone,2012,0.733913173
+Colorado,Drove alone,2012,0.744113443
+Connecticut,Drove alone,2012,0.785794917
+Delaware,Drove alone,2012,0.814756698
+District of Columbia,Drove alone,2012,0.340611327
+Florida,Drove alone,2012,0.793145172
+Georgia,Drove alone,2012,0.795998602
+Hawaii,Drove alone,2012,0.652123129
+Idaho,Drove alone,2012,0.777781918
+Illinois,Drove alone,2012,0.735883166
+Indiana,Drove alone,2012,0.824255256
+Iowa,Drove alone,2012,0.798968692
+Kansas,Drove alone,2012,0.821551331
+Kentucky,Drove alone,2012,0.827057978
+Louisiana,Drove alone,2012,0.825316721
+Maine,Drove alone,2012,0.769070915
+Maryland,Drove alone,2012,0.733859167
+Massachusetts,Drove alone,2012,0.719354612
+Michigan,Drove alone,2012,0.825420232
+Minnesota,Drove alone,2012,0.78028358
+Mississippi,Drove alone,2012,0.835213382
+Missouri,Drove alone,2012,0.813193991
+Montana,Drove alone,2012,0.744081094
+Nebraska,Drove alone,2012,0.802105032
+Nevada,Drove alone,2012,0.780305752
+New Hampshire,Drove alone,2012,0.819228861
+New Jersey,Drove alone,2012,0.720183718
+New Mexico,Drove alone,2012,0.789093607
+New York,Drove alone,2012,0.536670839
+North Carolina,Drove alone,2012,0.805586168
+North Dakota,Drove alone,2012,0.795019748
+Ohio,Drove alone,2012,0.83273991
+Oklahoma,Drove alone,2012,0.822841898
+Oregon,Drove alone,2012,0.712361357
+Pennsylvania,Drove alone,2012,0.765467853
+Rhode Island,Drove alone,2012,0.788113254
+South Carolina,Drove alone,2012,0.828839339
+South Dakota,Drove alone,2012,0.787424766
+Tennessee,Drove alone,2012,0.836013979
+Texas,Drove alone,2012,0.800520176
+United States,Drove alone,2012,0.762870594
+Utah,Drove alone,2012,0.756697253
+Vermont,Drove alone,2012,0.735215429
+Virginia,Drove alone,2012,0.77314763
+Washington,Drove alone,2012,0.722160259
+West Virginia,Drove alone,2012,0.81679381
+Wisconsin,Drove alone,2012,0.802065759
+Wyoming,Drove alone,2012,0.757484088
+Alabama,Public transportation,2012,0.004107931
+Alaska,Public transportation,2012,0.016114783
+Arizona,Public transportation,2012,0.020065435
+Arkansas,Public transportation,2012,0.004661233
+California,Public transportation,2012,0.051794088
+Colorado,Public transportation,2012,0.032290935
+Connecticut,Public transportation,2012,0.047723663
+Delaware,Public transportation,2012,0.02542174
+District of Columbia,Public transportation,2012,0.385996327
+Florida,Public transportation,2012,0.021705208
+Georgia,Public transportation,2012,0.019694156
+Hawaii,Public transportation,2012,0.06739265
+Idaho,Public transportation,2012,0.008491398
+Illinois,Public transportation,2012,0.085422542
+Indiana,Public transportation,2012,0.011275792
+Iowa,Public transportation,2012,0.010867228
+Kansas,Public transportation,2012,0.005677657
+Kentucky,Public transportation,2012,0.010117254
+Louisiana,Public transportation,2012,0.012471963
+Maine,Public transportation,2012,0.005693023
+Maryland,Public transportation,2012,0.088762297
+Massachusetts,Public transportation,2012,0.094433804
+Michigan,Public transportation,2012,0.013098147
+Minnesota,Public transportation,2012,0.03273479
+Mississippi,Public transportation,2012,0.004468669
+Missouri,Public transportation,2012,0.012889706
+Montana,Public transportation,2012,0.009509803
+Nebraska,Public transportation,2012,0.006487909
+Nevada,Public transportation,2012,0.036212588
+New Hampshire,Public transportation,2012,0.00667718
+New Jersey,Public transportation,2012,0.105900469
+New Mexico,Public transportation,2012,0.011368337
+New York,Public transportation,2012,0.272516937
+North Carolina,Public transportation,2012,0.011467231
+North Dakota,Public transportation,2012,0.003800705
+Ohio,Public transportation,2012,0.015611196
+Oklahoma,Public transportation,2012,0.004338168
+Oregon,Public transportation,2012,0.041398171
+Pennsylvania,Public transportation,2012,0.054153965
+Rhode Island,Public transportation,2012,0.030570399
+South Carolina,Public transportation,2012,0.005178761
+South Dakota,Public transportation,2012,0.004828772
+Tennessee,Public transportation,2012,0.007505327
+Texas,Public transportation,2012,0.016306425
+United States,Public transportation,2012,0.050073178
+Utah,Public transportation,2012,0.025041584
+Vermont,Public transportation,2012,0.011859022
+Virginia,Public transportation,2012,0.043992117
+Washington,Public transportation,2012,0.058275125
+West Virginia,Public transportation,2012,0.007300116
+Wisconsin,Public transportation,2012,0.017994671
+Wyoming,Public transportation,2012,0.015314402
+Alabama,"Taxi, motorcycle, or other",2012,0.009290032
+Alaska,"Taxi, motorcycle, or other",2012,0.048296674
+Arizona,"Taxi, motorcycle, or other",2012,0.018640272
+Arkansas,"Taxi, motorcycle, or other",2012,0.009611969
+California,"Taxi, motorcycle, or other",2012,0.012725623
+Colorado,"Taxi, motorcycle, or other",2012,0.01165869
+Connecticut,"Taxi, motorcycle, or other",2012,0.009638812
+Delaware,"Taxi, motorcycle, or other",2012,0.009267972
+District of Columbia,"Taxi, motorcycle, or other",2012,0.0102777
+Florida,"Taxi, motorcycle, or other",2012,0.015533162
+Georgia,"Taxi, motorcycle, or other",2012,0.013324779
+Hawaii,"Taxi, motorcycle, or other",2012,0.024322933
+Idaho,"Taxi, motorcycle, or other",2012,0.015189928
+Illinois,"Taxi, motorcycle, or other",2012,0.010261819
+Indiana,"Taxi, motorcycle, or other",2012,0.010408553
+Iowa,"Taxi, motorcycle, or other",2012,0.011219449
+Kansas,"Taxi, motorcycle, or other",2012,0.009734978
+Kentucky,"Taxi, motorcycle, or other",2012,0.009041215
+Louisiana,"Taxi, motorcycle, or other",2012,0.016673543
+Maine,"Taxi, motorcycle, or other",2012,0.014428023
+Maryland,"Taxi, motorcycle, or other",2012,0.008616074
+Massachusetts,"Taxi, motorcycle, or other",2012,0.00892418
+Michigan,"Taxi, motorcycle, or other",2012,0.00782219
+Minnesota,"Taxi, motorcycle, or other",2012,0.007863232
+Mississippi,"Taxi, motorcycle, or other",2012,0.011253985
+Missouri,"Taxi, motorcycle, or other",2012,0.010918434
+Montana,"Taxi, motorcycle, or other",2012,0.009848537
+Nebraska,"Taxi, motorcycle, or other",2012,0.00775021
+Nevada,"Taxi, motorcycle, or other",2012,0.01675347
+New Hampshire,"Taxi, motorcycle, or other",2012,0.009702731
+New Jersey,"Taxi, motorcycle, or other",2012,0.015705983
+New Mexico,"Taxi, motorcycle, or other",2012,0.013026388
+New York,"Taxi, motorcycle, or other",2012,0.013218192
+North Carolina,"Taxi, motorcycle, or other",2012,0.010570397
+North Dakota,"Taxi, motorcycle, or other",2012,0.006166179
+Ohio,"Taxi, motorcycle, or other",2012,0.008845303
+Oklahoma,"Taxi, motorcycle, or other",2012,0.01297646
+Oregon,"Taxi, motorcycle, or other",2012,0.0100601
+Pennsylvania,"Taxi, motorcycle, or other",2012,0.008685464
+Rhode Island,"Taxi, motorcycle, or other",2012,0.015119455
+South Carolina,"Taxi, motorcycle, or other",2012,0.013457978
+South Dakota,"Taxi, motorcycle, or other",2012,0.010916398
+Tennessee,"Taxi, motorcycle, or other",2012,0.010969075
+Texas,"Taxi, motorcycle, or other",2012,0.014682373
+United States,"Taxi, motorcycle, or other",2012,0.012036826
+Utah,"Taxi, motorcycle, or other",2012,0.012914465
+Vermont,"Taxi, motorcycle, or other",2012,0.007445998
+Virginia,"Taxi, motorcycle, or other",2012,0.010385946
+Washington,"Taxi, motorcycle, or other",2012,0.012178806
+West Virginia,"Taxi, motorcycle, or other",2012,0.008744873
+Wisconsin,"Taxi, motorcycle, or other",2012,0.010028072
+Wyoming,"Taxi, motorcycle, or other",2012,0.012173883
+Alabama,Walked,2012,0.011963536
+Alaska,Walked,2012,0.073865501
+Arizona,Walked,2012,0.020164634
+Arkansas,Walked,2012,0.016259985
+California,Walked,2012,0.026866868
+Colorado,Walked,2012,0.033754229
+Connecticut,Walked,2012,0.029783172
+Delaware,Walked,2012,0.022636608
+District of Columbia,Walked,2012,0.11895089
+Florida,Walked,2012,0.015663901
+Georgia,Walked,2012,0.016887215
+Hawaii,Walked,2012,0.047443519
+Idaho,Walked,2012,0.028819158
+Illinois,Walked,2012,0.031478992
+Indiana,Walked,2012,0.021776756
+Iowa,Walked,2012,0.036396393
+Kansas,Walked,2012,0.022313825
+Kentucky,Walked,2012,0.023006958
+Louisiana,Walked,2012,0.018536503
+Maine,Walked,2012,0.043464498
+Maryland,Walked,2012,0.02473371
+Massachusetts,Walked,2012,0.049289334
+Michigan,Walked,2012,0.02184162
+Minnesota,Walked,2012,0.028074935
+Mississippi,Walked,2012,0.017038815
+Missouri,Walked,2012,0.019304203
+Montana,Walked,2012,0.048279083
+Nebraska,Walked,2012,0.028074838
+Nevada,Walked,2012,0.02294086
+New Hampshire,Walked,2012,0.031018912
+New Jersey,Walked,2012,0.030431633
+New Mexico,Walked,2012,0.022663881
+New York,Walked,2012,0.063762694
+North Carolina,Walked,2012,0.019291309
+North Dakota,Walked,2012,0.038201071
+Ohio,Walked,2012,0.023844522
+Oklahoma,Walked,2012,0.020499597
+Oregon,Walked,2012,0.045705862
+Pennsylvania,Walked,2012,0.038400697
+Rhode Island,Walked,2012,0.036402217
+South Carolina,Walked,2012,0.021517163
+South Dakota,Walked,2012,0.039456745
+Tennessee,Walked,2012,0.013026947
+Texas,Walked,2012,0.016153858
+United States,Walked,2012,0.028176733
+Utah,Walked,2012,0.025670072
+Vermont,Walked,2012,0.060941759
+Virginia,Walked,2012,0.02216633
+Washington,Walked,2012,0.03577316
+West Virginia,Walked,2012,0.031799664
+Wisconsin,Walked,2012,0.032733559
+Wyoming,Walked,2012,0.032454361
+Alabama,Worked at home,2012,0.025854694
+Alaska,Worked at home,2012,0.055807184
+Arizona,Worked at home,2012,0.054487572
+Arkansas,Worked at home,2012,0.034600008
+California,Worked at home,2012,0.0526499
+Colorado,Worked at home,2012,0.06625747
+Connecticut,Worked at home,2012,0.041392678
+Delaware,Worked at home,2012,0.044009832
+District of Columbia,Worked at home,2012,0.046387628
+Florida,Worked at home,2012,0.049537005
+Georgia,Worked at home,2012,0.047819577
+Hawaii,Worked at home,2012,0.043970732
+Idaho,Worked at home,2012,0.058783401
+Illinois,Worked at home,2012,0.041170429
+Indiana,Worked at home,2012,0.033279342
+Iowa,Worked at home,2012,0.04700354
+Kansas,Worked at home,2012,0.040563128
+Kentucky,Worked at home,2012,0.030664928
+Louisiana,Worked at home,2012,0.023882211
+Maine,Worked at home,2012,0.052590428
+Maryland,Worked at home,2012,0.041886814
+Massachusetts,Worked at home,2012,0.041863157
+Michigan,Worked at home,2012,0.036731269
+Minnesota,Worked at home,2012,0.053418104
+Mississippi,Worked at home,2012,0.023956512
+Missouri,Worked at home,2012,0.043974728
+Montana,Worked at home,2012,0.065363066
+Nebraska,Worked at home,2012,0.04880298
+Nevada,Worked at home,2012,0.030882685
+New Hampshire,Worked at home,2012,0.058303506
+New Jersey,Worked at home,2012,0.040993848
+New Mexico,Worked at home,2012,0.045401711
+New York,Worked at home,2012,0.0392007
+North Carolina,Worked at home,2012,0.044881328
+North Dakota,Worked at home,2012,0.055766706
+Ohio,Worked at home,2012,0.034462474
+Oklahoma,Worked at home,2012,0.033212129
+Oregon,Worked at home,2012,0.06155659
+Pennsylvania,Worked at home,2012,0.039013688
+Rhode Island,Worked at home,2012,0.036056833
+South Carolina,Worked at home,2012,0.034110014
+South Dakota,Worked at home,2012,0.057693495
+Tennessee,Worked at home,2012,0.036584466
+Texas,Worked at home,2012,0.039253443
+United States,Worked at home,2012,0.043616455
+Utah,Worked at home,2012,0.047667153
+Vermont,Worked at home,2012,0.072744324
+Virginia,Worked at home,2012,0.047325713
+Washington,Worked at home,2012,0.05508692
+West Virginia,Worked at home,2012,0.028855629
+Wisconsin,Worked at home,2012,0.039069766
+Wyoming,Worked at home,2012,0.055214381
+Alabama,Bicycle,2013,0.000979023
+Alaska,Bicycle,2013,0.00995595
+Arizona,Bicycle,2013,0.009719904
+Arkansas,Bicycle,2013,0.002092847
+California,Bicycle,2013,0.011329677
+Colorado,Bicycle,2013,0.013062319
+Connecticut,Bicycle,2013,0.002978419
+Delaware,Bicycle,2013,0.004042102
+District of Columbia,Bicycle,2013,0.045400152
+Florida,Bicycle,2013,0.006971048
+Georgia,Bicycle,2013,0.002281147
+Hawaii,Bicycle,2013,0.013499969
+Idaho,Bicycle,2013,0.009694291
+Illinois,Bicycle,2013,0.005520433
+Indiana,Bicycle,2013,0.004832248
+Iowa,Bicycle,2013,0.005526304
+Kansas,Bicycle,2013,0.003829338
+Kentucky,Bicycle,2013,0.002348024
+Louisiana,Bicycle,2013,0.005847502
+Maine,Bicycle,2013,0.004542485
+Maryland,Bicycle,2013,0.00308594
+Massachusetts,Bicycle,2013,0.00798151
+Michigan,Bicycle,2013,0.004634425
+Minnesota,Bicycle,2013,0.007893278
+Mississippi,Bicycle,2013,0.001347918
+Missouri,Bicycle,2013,0.003231331
+Montana,Bicycle,2013,0.015180302
+Nebraska,Bicycle,2013,0.004655027
+Nevada,Bicycle,2013,0.004193298
+New Hampshire,Bicycle,2013,0.00218117
+New Jersey,Bicycle,2013,0.003770264
+New Mexico,Bicycle,2013,0.009487414
+New York,Bicycle,2013,0.006872469
+North Carolina,Bicycle,2013,0.002136976
+North Dakota,Bicycle,2013,0.005107081
+Ohio,Bicycle,2013,0.003307198
+Oklahoma,Bicycle,2013,0.002742479
+Oregon,Bicycle,2013,0.024400848
+Pennsylvania,Bicycle,2013,0.005327753
+Rhode Island,Bicycle,2013,0.00525367
+South Carolina,Bicycle,2013,0.003225753
+South Dakota,Bicycle,2013,0.003636006
+Tennessee,Bicycle,2013,0.001817355
+Texas,Bicycle,2013,0.003121521
+United States,Bicycle,2013,0.00617084
+Utah,Bicycle,2013,0.008236908
+Vermont,Bicycle,2013,0.009068218
+Virginia,Bicycle,2013,0.004682958
+Washington,Bicycle,2013,0.008361029
+West Virginia,Bicycle,2013,0.000756583
+Wisconsin,Bicycle,2013,0.008319425
+Wyoming,Bicycle,2013,0.007830708
+Alabama,Carpool,2013,0.08533986
+Alaska,Carpool,2013,0.129866173
+Arizona,Carpool,2013,0.110382795
+Arkansas,Carpool,2013,0.101428695
+California,Carpool,2013,0.109010636
+Colorado,Carpool,2013,0.097127718
+Connecticut,Carpool,2013,0.082885409
+Delaware,Carpool,2013,0.090784385
+District of Columbia,Carpool,2013,0.05305268
+Florida,Carpool,2013,0.094193251
+Georgia,Carpool,2013,0.103084803
+Hawaii,Carpool,2013,0.134587759
+Idaho,Carpool,2013,0.095562523
+Illinois,Carpool,2013,0.083483014
+Indiana,Carpool,2013,0.088145663
+Iowa,Carpool,2013,0.085967245
+Kansas,Carpool,2013,0.091061063
+Kentucky,Carpool,2013,0.095655057
+Louisiana,Carpool,2013,0.096487316
+Maine,Carpool,2013,0.106227083
+Maryland,Carpool,2013,0.090375994
+Massachusetts,Carpool,2013,0.074433164
+Michigan,Carpool,2013,0.087742493
+Minnesota,Carpool,2013,0.085777607
+Mississippi,Carpool,2013,0.103302822
+Missouri,Carpool,2013,0.092090937
+Montana,Carpool,2013,0.101006339
+Nebraska,Carpool,2013,0.093141405
+Nevada,Carpool,2013,0.105428503
+New Hampshire,Carpool,2013,0.081357048
+New Jersey,Carpool,2013,0.079942904
+New Mexico,Carpool,2013,0.105150822
+New York,Carpool,2013,0.068982651
+North Carolina,Carpool,2013,0.100300345
+North Dakota,Carpool,2013,0.100962865
+Ohio,Carpool,2013,0.077877777
+Oklahoma,Carpool,2013,0.097060405
+Oregon,Carpool,2013,0.102507392
+Pennsylvania,Carpool,2013,0.08348136
+Rhode Island,Carpool,2013,0.080293097
+South Carolina,Carpool,2013,0.089643109
+South Dakota,Carpool,2013,0.092028648
+Tennessee,Carpool,2013,0.091926234
+Texas,Carpool,2013,0.107093572
+United States,Carpool,2013,0.09364016
+Utah,Carpool,2013,0.118463402
+Vermont,Carpool,2013,0.097438832
+Virginia,Carpool,2013,0.093738553
+Washington,Carpool,2013,0.100689341
+West Virginia,Carpool,2013,0.107617534
+Wisconsin,Carpool,2013,0.082066001
+Wyoming,Carpool,2013,0.108313338
+Alabama,Drove alone,2013,0.86361079
+Alaska,Drove alone,2013,0.666819462
+Arizona,Drove alone,2013,0.762538887
+Arkansas,Drove alone,2013,0.834147582
+California,Drove alone,2013,0.732126773
+Colorado,Drove alone,2013,0.74653265
+Connecticut,Drove alone,2013,0.779452998
+Delaware,Drove alone,2013,0.803391399
+District of Columbia,Drove alone,2013,0.323117845
+Florida,Drove alone,2013,0.796402915
+Georgia,Drove alone,2013,0.795974052
+Hawaii,Drove alone,2013,0.675649792
+Idaho,Drove alone,2013,0.788177729
+Illinois,Drove alone,2013,0.736225242
+Indiana,Drove alone,2013,0.83033814
+Iowa,Drove alone,2013,0.808611652
+Kansas,Drove alone,2013,0.824263704
+Kentucky,Drove alone,2013,0.82767604
+Louisiana,Drove alone,2013,0.826052931
+Maine,Drove alone,2013,0.77436023
+Maryland,Drove alone,2013,0.740134189
+Massachusetts,Drove alone,2013,0.718071931
+Michigan,Drove alone,2013,0.823795475
+Minnesota,Drove alone,2013,0.783856583
+Mississippi,Drove alone,2013,0.840464795
+Missouri,Drove alone,2013,0.816610906
+Montana,Drove alone,2013,0.751392317
+Nebraska,Drove alone,2013,0.814842444
+Nevada,Drove alone,2013,0.783823354
+New Hampshire,Drove alone,2013,0.812097672
+New Jersey,Drove alone,2013,0.720161074
+New Mexico,Drove alone,2013,0.791851224
+New York,Drove alone,2013,0.528136832
+North Carolina,Drove alone,2013,0.811114159
+North Dakota,Drove alone,2013,0.789712069
+Ohio,Drove alone,2013,0.836317856
+Oklahoma,Drove alone,2013,0.833703145
+Oregon,Drove alone,2013,0.715853305
+Pennsylvania,Drove alone,2013,0.768166414
+Rhode Island,Drove alone,2013,0.803380158
+South Carolina,Drove alone,2013,0.829416682
+South Dakota,Drove alone,2013,0.797451284
+Tennessee,Drove alone,2013,0.83896704
+Texas,Drove alone,2013,0.801635882
+United States,Drove alone,2013,0.764377424
+Utah,Drove alone,2013,0.760064953
+Vermont,Drove alone,2013,0.753622359
+Virginia,Drove alone,2013,0.774484372
+Washington,Drove alone,2013,0.726990086
+West Virginia,Drove alone,2013,0.815215037
+Wisconsin,Drove alone,2013,0.805216029
+Wyoming,Drove alone,2013,0.770565062
+Alabama,Public transportation,2013,0.004835628
+Alaska,Public transportation,2013,0.018416551
+Arizona,Public transportation,2013,0.023593086
+Arkansas,Public transportation,2013,0.00474406
+California,Public transportation,2013,0.053142801
+Colorado,Public transportation,2013,0.033466373
+Connecticut,Public transportation,2013,0.051341585
+Delaware,Public transportation,2013,0.03522437
+District of Columbia,Public transportation,2013,0.384883379
+Florida,Public transportation,2013,0.021009155
+Georgia,Public transportation,2013,0.020753098
+Hawaii,Public transportation,2013,0.061225734
+Idaho,Public transportation,2013,0.006944993
+Illinois,Public transportation,2013,0.091345886
+Indiana,Public transportation,2013,0.01184832
+Iowa,Public transportation,2013,0.010974418
+Kansas,Public transportation,2013,0.005084906
+Kentucky,Public transportation,2013,0.010513876
+Louisiana,Public transportation,2013,0.01338818
+Maine,Public transportation,2013,0.006856642
+Maryland,Public transportation,2013,0.091142643
+Massachusetts,Public transportation,2013,0.098861713
+Michigan,Public transportation,2013,0.01530048
+Minnesota,Public transportation,2013,0.035800068
+Mississippi,Public transportation,2013,0.004461167
+Missouri,Public transportation,2013,0.016167829
+Montana,Public transportation,2013,0.00683587
+Nebraska,Public transportation,2013,0.007892487
+Nevada,Public transportation,2013,0.033660299
+New Hampshire,Public transportation,2013,0.010032201
+New Jersey,Public transportation,2013,0.111179117
+New Mexico,Public transportation,2013,0.010957327
+New York,Public transportation,2013,0.279439139
+North Carolina,Public transportation,2013,0.01129771
+North Dakota,Public transportation,2013,0.004333281
+Ohio,Public transportation,2013,0.01686375
+Oklahoma,Public transportation,2013,0.005305923
+Oregon,Public transportation,2013,0.042895244
+Pennsylvania,Public transportation,2013,0.055799951
+Rhode Island,Public transportation,2013,0.026555274
+South Carolina,Public transportation,2013,0.007050554
+South Dakota,Public transportation,2013,0.002940646
+Tennessee,Public transportation,2013,0.007472798
+Texas,Public transportation,2013,0.015743625
+United States,Public transportation,2013,0.051714018
+Utah,Public transportation,2013,0.023217695
+Vermont,Public transportation,2013,0.011920319
+Virginia,Public transportation,2013,0.044046387
+Washington,Public transportation,2013,0.062754056
+West Virginia,Public transportation,2013,0.0070055
+Wisconsin,Public transportation,2013,0.019801777
+Wyoming,Public transportation,2013,0.015314225
+Alabama,"Taxi, motorcycle, or other",2013,0.009511446
+Alaska,"Taxi, motorcycle, or other",2013,0.043750839
+Arizona,"Taxi, motorcycle, or other",2013,0.018494793
+Arkansas,"Taxi, motorcycle, or other",2013,0.012785988
+California,"Taxi, motorcycle, or other",2013,0.014637424
+Colorado,"Taxi, motorcycle, or other",2013,0.011541279
+Connecticut,"Taxi, motorcycle, or other",2013,0.008570082
+Delaware,"Taxi, motorcycle, or other",2013,0.007663939
+District of Columbia,"Taxi, motorcycle, or other",2013,0.013360114
+Florida,"Taxi, motorcycle, or other",2013,0.015378781
+Georgia,"Taxi, motorcycle, or other",2013,0.014306045
+Hawaii,"Taxi, motorcycle, or other",2013,0.028864771
+Idaho,"Taxi, motorcycle, or other",2013,0.013726405
+Illinois,"Taxi, motorcycle, or other",2013,0.010008935
+Indiana,"Taxi, motorcycle, or other",2013,0.011777386
+Iowa,"Taxi, motorcycle, or other",2013,0.010129835
+Kansas,"Taxi, motorcycle, or other",2013,0.011106448
+Kentucky,"Taxi, motorcycle, or other",2013,0.009212633
+Louisiana,"Taxi, motorcycle, or other",2013,0.017225541
+Maine,"Taxi, motorcycle, or other",2013,0.011759919
+Maryland,"Taxi, motorcycle, or other",2013,0.009137002
+Massachusetts,"Taxi, motorcycle, or other",2013,0.008658836
+Michigan,"Taxi, motorcycle, or other",2013,0.008449194
+Minnesota,"Taxi, motorcycle, or other",2013,0.008588036
+Mississippi,"Taxi, motorcycle, or other",2013,0.01583126
+Missouri,"Taxi, motorcycle, or other",2013,0.010795016
+Montana,"Taxi, motorcycle, or other",2013,0.012903782
+Nebraska,"Taxi, motorcycle, or other",2013,0.008261285
+Nevada,"Taxi, motorcycle, or other",2013,0.015025114
+New Hampshire,"Taxi, motorcycle, or other",2013,0.009109852
+New Jersey,"Taxi, motorcycle, or other",2013,0.01620052
+New Mexico,"Taxi, motorcycle, or other",2013,0.016271897
+New York,"Taxi, motorcycle, or other",2013,0.012941242
+North Carolina,"Taxi, motorcycle, or other",2013,0.011327834
+North Dakota,"Taxi, motorcycle, or other",2013,0.010946693
+Ohio,"Taxi, motorcycle, or other",2013,0.008375499
+Oklahoma,"Taxi, motorcycle, or other",2013,0.01077151
+Oregon,"Taxi, motorcycle, or other",2013,0.010886638
+Pennsylvania,"Taxi, motorcycle, or other",2013,0.009413976
+Rhode Island,"Taxi, motorcycle, or other",2013,0.012767111
+South Carolina,"Taxi, motorcycle, or other",2013,0.012698165
+South Dakota,"Taxi, motorcycle, or other",2013,0.009882538
+Tennessee,"Taxi, motorcycle, or other",2013,0.010796274
+Texas,"Taxi, motorcycle, or other",2013,0.01523313
+United States,"Taxi, motorcycle, or other",2013,0.012543971
+Utah,"Taxi, motorcycle, or other",2013,0.013086963
+Vermont,"Taxi, motorcycle, or other",2013,0.007351234
+Virginia,"Taxi, motorcycle, or other",2013,0.012942216
+Washington,"Taxi, motorcycle, or other",2013,0.013186415
+West Virginia,"Taxi, motorcycle, or other",2013,0.010868271
+Wisconsin,"Taxi, motorcycle, or other",2013,0.008554359
+Wyoming,"Taxi, motorcycle, or other",2013,0.0152661
+Alabama,Walked,2013,0.010488957
+Alaska,Walked,2013,0.088228389
+Arizona,Walked,2013,0.020687244
+Arkansas,Walked,2013,0.016523683
+California,Walked,2013,0.027331738
+Colorado,Walked,2013,0.029349476
+Connecticut,Walked,2013,0.031498322
+Delaware,Walked,2013,0.02148075
+District of Columbia,Walked,2013,0.136336784
+Florida,Walked,2013,0.015264574
+Georgia,Walked,2013,0.015026578
+Hawaii,Walked,2013,0.042125316
+Idaho,Walked,2013,0.030824861
+Illinois,Walked,2013,0.031404611
+Indiana,Walked,2013,0.019898817
+Iowa,Walked,2013,0.037174606
+Kansas,Walked,2013,0.024765787
+Kentucky,Walked,2013,0.022579709
+Louisiana,Walked,2013,0.017126268
+Maine,Walked,2013,0.039124499
+Maryland,Walked,2013,0.023721319
+Massachusetts,Walked,2013,0.04765216
+Michigan,Walked,2013,0.021594568
+Minnesota,Walked,2013,0.02925773
+Mississippi,Walked,2013,0.01530039
+Missouri,Walked,2013,0.019940298
+Montana,Walked,2013,0.052763909
+Nebraska,Walked,2013,0.027424114
+Nevada,Walked,2013,0.022267718
+New Hampshire,Walked,2013,0.031032234
+New Jersey,Walked,2013,0.028815353
+New Mexico,Walked,2013,0.022582587
+New York,Walked,2013,0.063699622
+North Carolina,Walked,2013,0.018552113
+North Dakota,Walked,2013,0.04530342
+Ohio,Walked,2013,0.022405763
+Oklahoma,Walked,2013,0.016825862
+Oregon,Walked,2013,0.040253924
+Pennsylvania,Walked,2013,0.038994234
+Rhode Island,Walked,2013,0.04058287
+South Carolina,Walked,2013,0.024872829
+South Dakota,Walked,2013,0.041651351
+Tennessee,Walked,2013,0.01354275
+Texas,Walked,2013,0.016037778
+United States,Walked,2013,0.0279826
+Utah,Walked,2013,0.025529903
+Vermont,Walked,2013,0.052558783
+Virginia,Walked,2013,0.024744426
+Washington,Walked,2013,0.034877407
+West Virginia,Walked,2013,0.027697172
+Wisconsin,Walked,2013,0.03540876
+Wyoming,Walked,2013,0.045664235
+Alabama,Worked at home,2013,0.025234295
+Alaska,Worked at home,2013,0.042962636
+Arizona,Worked at home,2013,0.054583291
+Arkansas,Worked at home,2013,0.028277145
+California,Worked at home,2013,0.05242095
+Colorado,Worked at home,2013,0.068920186
+Connecticut,Worked at home,2013,0.043273185
+Delaware,Worked at home,2013,0.037413055
+District of Columbia,Worked at home,2013,0.043849046
+Florida,Worked at home,2013,0.050780276
+Georgia,Worked at home,2013,0.048574278
+Hawaii,Worked at home,2013,0.04404666
+Idaho,Worked at home,2013,0.055069199
+Illinois,Worked at home,2013,0.042011879
+Indiana,Worked at home,2013,0.033159428
+Iowa,Worked at home,2013,0.04161594
+Kansas,Worked at home,2013,0.039888756
+Kentucky,Worked at home,2013,0.032014661
+Louisiana,Worked at home,2013,0.023872262
+Maine,Worked at home,2013,0.057129143
+Maryland,Worked at home,2013,0.042402913
+Massachusetts,Worked at home,2013,0.044340686
+Michigan,Worked at home,2013,0.038483365
+Minnesota,Worked at home,2013,0.048826698
+Mississippi,Worked at home,2013,0.019291649
+Missouri,Worked at home,2013,0.041163683
+Montana,Worked at home,2013,0.059917481
+Nebraska,Worked at home,2013,0.043783239
+Nevada,Worked at home,2013,0.035601715
+New Hampshire,Worked at home,2013,0.054189824
+New Jersey,Worked at home,2013,0.039930768
+New Mexico,Worked at home,2013,0.043698728
+New York,Worked at home,2013,0.039928045
+North Carolina,Worked at home,2013,0.045270863
+North Dakota,Worked at home,2013,0.043634591
+Ohio,Worked at home,2013,0.034852158
+Oklahoma,Worked at home,2013,0.033590676
+Oregon,Worked at home,2013,0.063202648
+Pennsylvania,Worked at home,2013,0.038816313
+Rhode Island,Worked at home,2013,0.031167819
+South Carolina,Worked at home,2013,0.033092907
+South Dakota,Worked at home,2013,0.052409527
+Tennessee,Worked at home,2013,0.035477549
+Texas,Worked at home,2013,0.041134492
+United States,Worked at home,2013,0.043570987
+Utah,Worked at home,2013,0.051400175
+Vermont,Worked at home,2013,0.068040254
+Virginia,Worked at home,2013,0.045361089
+Washington,Worked at home,2013,0.053141666
+West Virginia,Worked at home,2013,0.030839902
+Wisconsin,Worked at home,2013,0.040633648
+Wyoming,Worked at home,2013,0.037046331
+Alabama,Bicycle,2014,0.0016967
+Alaska,Bicycle,2014,0.009133907
+Arizona,Bicycle,2014,0.010862087
+Arkansas,Bicycle,2014,0.002280595
+California,Bicycle,2014,0.011579244
+Colorado,Bicycle,2014,0.013381695
+Connecticut,Bicycle,2014,0.003252484
+Delaware,Bicycle,2014,0.002428893
+District of Columbia,Bicycle,2014,0.03885595
+Florida,Bicycle,2014,0.007446195
+Georgia,Bicycle,2014,0.002417291
+Hawaii,Bicycle,2014,0.011043888
+Idaho,Bicycle,2014,0.011507591
+Illinois,Bicycle,2014,0.006159079
+Indiana,Bicycle,2014,0.004466842
+Iowa,Bicycle,2014,0.004887775
+Kansas,Bicycle,2014,0.003341555
+Kentucky,Bicycle,2014,0.0026113
+Louisiana,Bicycle,2014,0.004919209
+Maine,Bicycle,2014,0.004953821
+Maryland,Bicycle,2014,0.003496198
+Massachusetts,Bicycle,2014,0.008146314
+Michigan,Bicycle,2014,0.004237984
+Minnesota,Bicycle,2014,0.008866745
+Mississippi,Bicycle,2014,0.001073106
+Missouri,Bicycle,2014,0.002635859
+Montana,Bicycle,2014,0.011699847
+Nebraska,Bicycle,2014,0.004486191
+Nevada,Bicycle,2014,0.004767364
+New Hampshire,Bicycle,2014,0.003055268
+New Jersey,Bicycle,2014,0.00355664
+New Mexico,Bicycle,2014,0.008444177
+New York,Bicycle,2014,0.006347096
+North Carolina,Bicycle,2014,0.002509814
+North Dakota,Bicycle,2014,0.002861591
+Ohio,Bicycle,2014,0.003163734
+Oklahoma,Bicycle,2014,0.002937522
+Oregon,Bicycle,2014,0.025701012
+Pennsylvania,Bicycle,2014,0.004833331
+Rhode Island,Bicycle,2014,0.005195715
+South Carolina,Bicycle,2014,0.003182793
+South Dakota,Bicycle,2014,0.00442616
+Tennessee,Bicycle,2014,0.001464398
+Texas,Bicycle,2014,0.002748298
+United States,Bicycle,2014,0.006200445
+Utah,Bicycle,2014,0.007483976
+Vermont,Bicycle,2014,0.006056651
+Virginia,Bicycle,2014,0.004350134
+Washington,Bicycle,2014,0.009883586
+West Virginia,Bicycle,2014,0.002643509
+Wisconsin,Bicycle,2014,0.007927705
+Wyoming,Bicycle,2014,0.009402399
+Alabama,Carpool,2014,0.085645498
+Alaska,Carpool,2014,0.120322039
+Arizona,Carpool,2014,0.104437362
+Arkansas,Carpool,2014,0.108849988
+California,Carpool,2014,0.10508037
+Colorado,Carpool,2014,0.096280024
+Connecticut,Carpool,2014,0.080764917
+Delaware,Carpool,2014,0.076206511
+District of Columbia,Carpool,2014,0.055867453
+Florida,Carpool,2014,0.090676792
+Georgia,Carpool,2014,0.101444132
+Hawaii,Carpool,2014,0.135288359
+Idaho,Carpool,2014,0.097630452
+Illinois,Carpool,2014,0.079782913
+Indiana,Carpool,2014,0.090131452
+Iowa,Carpool,2014,0.086139444
+Kansas,Carpool,2014,0.095013953
+Kentucky,Carpool,2014,0.099545484
+Louisiana,Carpool,2014,0.097823571
+Maine,Carpool,2014,0.107422588
+Maryland,Carpool,2014,0.092776766
+Massachusetts,Carpool,2014,0.074092417
+Michigan,Carpool,2014,0.089338559
+Minnesota,Carpool,2014,0.088149181
+Mississippi,Carpool,2014,0.087347799
+Missouri,Carpool,2014,0.08868545
+Montana,Carpool,2014,0.104135393
+Nebraska,Carpool,2014,0.095354038
+Nevada,Carpool,2014,0.104407624
+New Hampshire,Carpool,2014,0.078127347
+New Jersey,Carpool,2014,0.07930534
+New Mexico,Carpool,2014,0.095221614
+New York,Carpool,2014,0.065349523
+North Carolina,Carpool,2014,0.096885244
+North Dakota,Carpool,2014,0.083482803
+Ohio,Carpool,2014,0.078266025
+Oklahoma,Carpool,2014,0.104609195
+Oregon,Carpool,2014,0.107800983
+Pennsylvania,Carpool,2014,0.085308523
+Rhode Island,Carpool,2014,0.074210647
+South Carolina,Carpool,2014,0.092977127
+South Dakota,Carpool,2014,0.09156804
+Tennessee,Carpool,2014,0.092411689
+Texas,Carpool,2014,0.105985991
+United States,Carpool,2014,0.092420434
+Utah,Carpool,2014,0.118400803
+Vermont,Carpool,2014,0.087419444
+Virginia,Carpool,2014,0.093119986
+Washington,Carpool,2014,0.101412502
+West Virginia,Carpool,2014,0.097312797
+Wisconsin,Carpool,2014,0.081654315
+Wyoming,Carpool,2014,0.110303476
+Alabama,Drove alone,2014,0.858899905
+Alaska,Drove alone,2014,0.694524945
+Arizona,Drove alone,2014,0.769272904
+Arkansas,Drove alone,2014,0.82530804
+California,Drove alone,2014,0.734816133
+Colorado,Drove alone,2014,0.756280397
+Connecticut,Drove alone,2014,0.781314361
+Delaware,Drove alone,2014,0.815036134
+District of Columbia,Drove alone,2014,0.35133008
+Florida,Drove alone,2014,0.797401711
+Georgia,Drove alone,2014,0.795794406
+Hawaii,Drove alone,2014,0.663505712
+Idaho,Drove alone,2014,0.789296723
+Illinois,Drove alone,2014,0.734466734
+Indiana,Drove alone,2014,0.831530588
+Iowa,Drove alone,2014,0.808054383
+Kansas,Drove alone,2014,0.821424842
+Kentucky,Drove alone,2014,0.818539961
+Louisiana,Drove alone,2014,0.822318163
+Maine,Drove alone,2014,0.773153202
+Maryland,Drove alone,2014,0.738852386
+Massachusetts,Drove alone,2014,0.712226274
+Michigan,Drove alone,2014,0.823091903
+Minnesota,Drove alone,2014,0.776997472
+Mississippi,Drove alone,2014,0.855272802
+Missouri,Drove alone,2014,0.817660686
+Montana,Drove alone,2014,0.747071966
+Nebraska,Drove alone,2014,0.817465452
+Nevada,Drove alone,2014,0.775602505
+New Hampshire,Drove alone,2014,0.813939312
+New Jersey,Drove alone,2014,0.717426858
+New Mexico,Drove alone,2014,0.803125079
+New York,Drove alone,2014,0.531080626
+North Carolina,Drove alone,2014,0.813594884
+North Dakota,Drove alone,2014,0.812550342
+Ohio,Drove alone,2014,0.835591821
+Oklahoma,Drove alone,2014,0.82329506
+Oregon,Drove alone,2014,0.704866759
+Pennsylvania,Drove alone,2014,0.763973813
+Rhode Island,Drove alone,2014,0.802994315
+South Carolina,Drove alone,2014,0.826974278
+South Dakota,Drove alone,2014,0.791594198
+Tennessee,Drove alone,2014,0.834094092
+Texas,Drove alone,2014,0.803929419
+United States,Drove alone,2014,0.764550194
+Utah,Drove alone,2014,0.760428038
+Vermont,Drove alone,2014,0.763223109
+Virginia,Drove alone,2014,0.777238048
+Washington,Drove alone,2014,0.723516118
+West Virginia,Drove alone,2014,0.829667104
+Wisconsin,Drove alone,2014,0.808791076
+Wyoming,Drove alone,2014,0.768019014
+Alabama,Public transportation,2014,0.004122692
+Alaska,Public transportation,2014,0.013092583
+Arizona,Public transportation,2014,0.020347211
+Arkansas,Public transportation,2014,0.00325845
+California,Public transportation,2014,0.052995997
+Colorado,Public transportation,2014,0.032953528
+Connecticut,Public transportation,2014,0.047994811
+Delaware,Public transportation,2014,0.02906161
+District of Columbia,Public transportation,2014,0.360596627
+Florida,Public transportation,2014,0.020773086
+Georgia,Public transportation,2014,0.021098315
+Hawaii,Public transportation,2014,0.071883019
+Idaho,Public transportation,2014,0.008036137
+Illinois,Public transportation,2014,0.094014159
+Indiana,Public transportation,2014,0.010742257
+Iowa,Public transportation,2014,0.010435473
+Kansas,Public transportation,2014,0.004858218
+Kentucky,Public transportation,2014,0.011449912
+Louisiana,Public transportation,2014,0.014498457
+Maine,Public transportation,2014,0.008159788
+Maryland,Public transportation,2014,0.09027176
+Massachusetts,Public transportation,2014,0.097983385
+Michigan,Public transportation,2014,0.015322488
+Minnesota,Public transportation,2014,0.036550467
+Mississippi,Public transportation,2014,0.002657692
+Missouri,Public transportation,2014,0.015618726
+Montana,Public transportation,2014,0.010737318
+Nebraska,Public transportation,2014,0.006588221
+Nevada,Public transportation,2014,0.042520201
+New Hampshire,Public transportation,2014,0.007450769
+New Jersey,Public transportation,2014,0.109964805
+New Mexico,Public transportation,2014,0.01253103
+New York,Public transportation,2014,0.282873497
+North Carolina,Public transportation,2014,0.011389515
+North Dakota,Public transportation,2014,0.00665989
+Ohio,Public transportation,2014,0.017021955
+Oklahoma,Public transportation,2014,0.004295488
+Oregon,Public transportation,2014,0.046529254
+Pennsylvania,Public transportation,2014,0.057415025
+Rhode Island,Public transportation,2014,0.030123272
+South Carolina,Public transportation,2014,0.007206493
+South Dakota,Public transportation,2014,0.005454112
+Tennessee,Public transportation,2014,0.008568614
+Texas,Public transportation,2014,0.016065218
+United States,Public transportation,2014,0.052103661
+Utah,Public transportation,2014,0.025259442
+Vermont,Public transportation,2014,0.011303015
+Virginia,Public transportation,2014,0.047019443
+Washington,Public transportation,2014,0.063420883
+West Virginia,Public transportation,2014,0.007387077
+Wisconsin,Public transportation,2014,0.018979448
+Wyoming,Public transportation,2014,0.016147819
+Alabama,"Taxi, motorcycle, or other",2014,0.009686534
+Alaska,"Taxi, motorcycle, or other",2014,0.044208
+Arizona,"Taxi, motorcycle, or other",2014,0.018036144
+Arkansas,"Taxi, motorcycle, or other",2014,0.009451265
+California,"Taxi, motorcycle, or other",2014,0.014464217
+Colorado,"Taxi, motorcycle, or other",2014,0.009462554
+Connecticut,"Taxi, motorcycle, or other",2014,0.009041475
+Delaware,"Taxi, motorcycle, or other",2014,0.010573504
+District of Columbia,"Taxi, motorcycle, or other",2014,0.012691583
+Florida,"Taxi, motorcycle, or other",2014,0.015366903
+Georgia,"Taxi, motorcycle, or other",2014,0.01411719
+Hawaii,"Taxi, motorcycle, or other",2014,0.027176426
+Idaho,"Taxi, motorcycle, or other",2014,0.009752267
+Illinois,"Taxi, motorcycle, or other",2014,0.010980272
+Indiana,"Taxi, motorcycle, or other",2014,0.009535992
+Iowa,"Taxi, motorcycle, or other",2014,0.009281725
+Kansas,"Taxi, motorcycle, or other",2014,0.010448841
+Kentucky,"Taxi, motorcycle, or other",2014,0.011553683
+Louisiana,"Taxi, motorcycle, or other",2014,0.015537152
+Maine,"Taxi, motorcycle, or other",2014,0.012753388
+Maryland,"Taxi, motorcycle, or other",2014,0.009779489
+Massachusetts,"Taxi, motorcycle, or other",2014,0.010708932
+Michigan,"Taxi, motorcycle, or other",2014,0.009150197
+Minnesota,"Taxi, motorcycle, or other",2014,0.00907768
+Mississippi,"Taxi, motorcycle, or other",2014,0.016180997
+Missouri,"Taxi, motorcycle, or other",2014,0.010596152
+Montana,"Taxi, motorcycle, or other",2014,0.008914656
+Nebraska,"Taxi, motorcycle, or other",2014,0.007115279
+Nevada,"Taxi, motorcycle, or other",2014,0.019835362
+New Hampshire,"Taxi, motorcycle, or other",2014,0.011363554
+New Jersey,"Taxi, motorcycle, or other",2014,0.016629108
+New Mexico,"Taxi, motorcycle, or other",2014,0.012473727
+New York,"Taxi, motorcycle, or other",2014,0.012059351
+North Carolina,"Taxi, motorcycle, or other",2014,0.010397415
+North Dakota,"Taxi, motorcycle, or other",2014,0.006922374
+Ohio,"Taxi, motorcycle, or other",2014,0.007711039
+Oklahoma,"Taxi, motorcycle, or other",2014,0.011554601
+Oregon,"Taxi, motorcycle, or other",2014,0.011902976
+Pennsylvania,"Taxi, motorcycle, or other",2014,0.00876977
+Rhode Island,"Taxi, motorcycle, or other",2014,0.009799614
+South Carolina,"Taxi, motorcycle, or other",2014,0.013360555
+South Dakota,"Taxi, motorcycle, or other",2014,0.009274514
+Tennessee,"Taxi, motorcycle, or other",2014,0.011601062
+Texas,"Taxi, motorcycle, or other",2014,0.015331915
+United States,"Taxi, motorcycle, or other",2014,0.012375718
+Utah,"Taxi, motorcycle, or other",2014,0.010016534
+Vermont,"Taxi, motorcycle, or other",2014,0.006189071
+Virginia,"Taxi, motorcycle, or other",2014,0.012200161
+Washington,"Taxi, motorcycle, or other",2014,0.012219426
+West Virginia,"Taxi, motorcycle, or other",2014,0.008691081
+Wisconsin,"Taxi, motorcycle, or other",2014,0.00966274
+Wyoming,"Taxi, motorcycle, or other",2014,0.012454381
+Alabama,Walked,2014,0.011438031
+Alaska,Walked,2014,0.079980847
+Arizona,Walked,2014,0.019955205
+Arkansas,Walked,2014,0.017743027
+California,Walked,2014,0.027109882
+Colorado,Walked,2014,0.02661383
+Connecticut,Walked,2014,0.031414054
+Delaware,Walked,2014,0.022331553
+District of Columbia,Walked,2014,0.131069603
+Florida,Walked,2014,0.014392634
+Georgia,Walked,2014,0.015544222
+Hawaii,Walked,2014,0.046598789
+Idaho,Walked,2014,0.02169379
+Illinois,Walked,2014,0.030847357
+Indiana,Walked,2014,0.019865935
+Iowa,Walked,2014,0.033641383
+Kansas,Walked,2014,0.024626686
+Kentucky,Walked,2014,0.02421053
+Louisiana,Walked,2014,0.018553596
+Maine,Walked,2014,0.039456724
+Maryland,Walked,2014,0.023338614
+Massachusetts,Walked,2014,0.048691499
+Michigan,Walked,2014,0.022306059
+Minnesota,Walked,2014,0.02912861
+Mississippi,Walked,2014,0.01409496
+Missouri,Walked,2014,0.020790064
+Montana,Walked,2014,0.046019124
+Nebraska,Walked,2014,0.028576862
+Nevada,Walked,2014,0.020734127
+New Hampshire,Walked,2014,0.025891752
+New Jersey,Walked,2014,0.031069622
+New Mexico,Walked,2014,0.020566062
+New York,Walked,2014,0.06290079
+North Carolina,Walked,2014,0.018036315
+North Dakota,Walked,2014,0.034876928
+Ohio,Walked,2014,0.02186511
+Oklahoma,Walked,2014,0.017385559
+Oregon,Walked,2014,0.039673778
+Pennsylvania,Walked,2014,0.038648435
+Rhode Island,Walked,2014,0.039471601
+South Carolina,Walked,2014,0.021961792
+South Dakota,Walked,2014,0.042341069
+Tennessee,Walked,2014,0.014914455
+Texas,Walked,2014,0.015670462
+United States,Walked,2014,0.027497608
+Utah,Walked,2014,0.023608969
+Vermont,Walked,2014,0.054342754
+Virginia,Walked,2014,0.022447597
+Washington,Walked,2014,0.034912818
+West Virginia,Walked,2014,0.028961167
+Wisconsin,Walked,2014,0.03223248
+Wyoming,Walked,2014,0.035678475
+Alabama,Worked at home,2014,0.02851064
+Alaska,Worked at home,2014,0.038737678
+Arizona,Worked at home,2014,0.057089086
+Arkansas,Worked at home,2014,0.033108635
+California,Worked at home,2014,0.053954158
+Colorado,Worked at home,2014,0.065027973
+Connecticut,Worked at home,2014,0.046217897
+Delaware,Worked at home,2014,0.044361795
+District of Columbia,Worked at home,2014,0.049588704
+Florida,Worked at home,2014,0.053942678
+Georgia,Worked at home,2014,0.049584444
+Hawaii,Worked at home,2014,0.044503806
+Idaho,Worked at home,2014,0.062083041
+Illinois,Worked at home,2014,0.043749486
+Indiana,Worked at home,2014,0.033726934
+Iowa,Worked at home,2014,0.047559818
+Kansas,Worked at home,2014,0.040285905
+Kentucky,Worked at home,2014,0.03208913
+Louisiana,Worked at home,2014,0.026349851
+Maine,Worked at home,2014,0.054100489
+Maryland,Worked at home,2014,0.041484788
+Massachusetts,Worked at home,2014,0.048151179
+Michigan,Worked at home,2014,0.03655281
+Minnesota,Worked at home,2014,0.051229844
+Mississippi,Worked at home,2014,0.023372644
+Missouri,Worked at home,2014,0.044013062
+Montana,Worked at home,2014,0.071421696
+Nebraska,Worked at home,2014,0.040413957
+Nevada,Worked at home,2014,0.032132817
+New Hampshire,Worked at home,2014,0.060171999
+New Jersey,Worked at home,2014,0.042047627
+New Mexico,Worked at home,2014,0.047638312
+New York,Worked at home,2014,0.039389118
+North Carolina,Worked at home,2014,0.047186812
+North Dakota,Worked at home,2014,0.052646071
+Ohio,Worked at home,2014,0.036380316
+Oklahoma,Worked at home,2014,0.035922576
+Oregon,Worked at home,2014,0.063525238
+Pennsylvania,Worked at home,2014,0.041051104
+Rhode Island,Worked at home,2014,0.038204836
+South Carolina,Worked at home,2014,0.034336961
+South Dakota,Worked at home,2014,0.055341909
+Tennessee,Worked at home,2014,0.03694569
+Texas,Worked at home,2014,0.040268697
+United States,Worked at home,2014,0.044851942
+Utah,Worked at home,2014,0.054802237
+Vermont,Worked at home,2014,0.071465955
+Virginia,Worked at home,2014,0.043624631
+Washington,Worked at home,2014,0.054634668
+West Virginia,Worked at home,2014,0.025337266
+Wisconsin,Worked at home,2014,0.040752236
+Wyoming,Worked at home,2014,0.047994436
+Alabama,Bicycle,2015,0.000871392
+Alaska,Bicycle,2015,0.011157474
+Arizona,Bicycle,2015,0.010265449
+Arkansas,Bicycle,2015,0.001338878
+California,Bicycle,2015,0.010904541
+Colorado,Bicycle,2015,0.012302727
+Connecticut,Bicycle,2015,0.0023766
+Delaware,Bicycle,2015,0.003746745
+District of Columbia,Bicycle,2015,0.041094513
+Florida,Bicycle,2015,0.007091022
+Georgia,Bicycle,2015,0.001985405
+Hawaii,Bicycle,2015,0.009161401
+Idaho,Bicycle,2015,0.008158811
+Illinois,Bicycle,2015,0.006616922
+Indiana,Bicycle,2015,0.004708855
+Iowa,Bicycle,2015,0.005778409
+Kansas,Bicycle,2015,0.00304544
+Kentucky,Bicycle,2015,0.001964657
+Louisiana,Bicycle,2015,0.005519439
+Maine,Bicycle,2015,0.003177891
+Maryland,Bicycle,2015,0.00301238
+Massachusetts,Bicycle,2015,0.007883114
+Michigan,Bicycle,2015,0.004419209
+Minnesota,Bicycle,2015,0.008634035
+Mississippi,Bicycle,2015,0.001571312
+Missouri,Bicycle,2015,0.002077545
+Montana,Bicycle,2015,0.016271282
+Nebraska,Bicycle,2015,0.004859318
+Nevada,Bicycle,2015,0.004506505
+New Hampshire,Bicycle,2015,0.002865087
+New Jersey,Bicycle,2015,0.003091817
+New Mexico,Bicycle,2015,0.006071624
+New York,Bicycle,2015,0.00664242
+North Carolina,Bicycle,2015,0.002258442
+North Dakota,Bicycle,2015,0.00217238
+Ohio,Bicycle,2015,0.002741462
+Oklahoma,Bicycle,2015,0.002269793
+Oregon,Bicycle,2015,0.025456241
+Pennsylvania,Bicycle,2015,0.004962001
+Rhode Island,Bicycle,2015,0.003862125
+South Carolina,Bicycle,2015,0.002860107
+South Dakota,Bicycle,2015,0.005600323
+Tennessee,Bicycle,2015,0.000895718
+Texas,Bicycle,2015,0.00244849
+United States,Bicycle,2015,0.005967929
+Utah,Bicycle,2015,0.00983027
+Vermont,Bicycle,2015,0.007569845
+Virginia,Bicycle,2015,0.004106706
+Washington,Bicycle,2015,0.009745932
+West Virginia,Bicycle,2015,0.001575449
+Wisconsin,Bicycle,2015,0.008183208
+Wyoming,Bicycle,2015,0.006169531
+Alabama,Carpool,2015,0.089849348
+Alaska,Carpool,2015,0.125973972
+Arizona,Carpool,2015,0.106169995
+Arkansas,Carpool,2015,0.107660011
+California,Carpool,2015,0.100391089
+Colorado,Carpool,2015,0.084112791
+Connecticut,Carpool,2015,0.078337575
+Delaware,Carpool,2015,0.078770034
+District of Columbia,Carpool,2015,0.051531481
+Florida,Carpool,2015,0.089493454
+Georgia,Carpool,2015,0.099465824
+Hawaii,Carpool,2015,0.135426449
+Idaho,Carpool,2015,0.107547717
+Illinois,Carpool,2015,0.079189601
+Indiana,Carpool,2015,0.086245222
+Iowa,Carpool,2015,0.086243704
+Kansas,Carpool,2015,0.088759807
+Kentucky,Carpool,2015,0.097270022
+Louisiana,Carpool,2015,0.089989004
+Maine,Carpool,2015,0.08697709
+Maryland,Carpool,2015,0.08854819
+Massachusetts,Carpool,2015,0.074460519
+Michigan,Carpool,2015,0.086816934
+Minnesota,Carpool,2015,0.083212426
+Mississippi,Carpool,2015,0.091791907
+Missouri,Carpool,2015,0.087092829
+Montana,Carpool,2015,0.103974234
+Nebraska,Carpool,2015,0.089591943
+Nevada,Carpool,2015,0.105284611
+New Hampshire,Carpool,2015,0.075167238
+New Jersey,Carpool,2015,0.074743383
+New Mexico,Carpool,2015,0.09049535
+New York,Carpool,2015,0.065874746
+North Carolina,Carpool,2015,0.094199081
+North Dakota,Carpool,2015,0.086034169
+Ohio,Carpool,2015,0.077757141
+Oklahoma,Carpool,2015,0.102149895
+Oregon,Carpool,2015,0.102384294
+Pennsylvania,Carpool,2015,0.085490585
+Rhode Island,Carpool,2015,0.096651191
+South Carolina,Carpool,2015,0.092794543
+South Dakota,Carpool,2015,0.083823816
+Tennessee,Carpool,2015,0.089582993
+Texas,Carpool,2015,0.101694798
+United States,Carpool,2015,0.089988799
+Utah,Carpool,2015,0.112189663
+Vermont,Carpool,2015,0.081982207
+Virginia,Carpool,2015,0.090963157
+Washington,Carpool,2015,0.098090298
+West Virginia,Carpool,2015,0.086953148
+Wisconsin,Carpool,2015,0.078865793
+Wyoming,Carpool,2015,0.100147668
+Alabama,Drove alone,2015,0.854974567
+Alaska,Drove alone,2015,0.679135165
+Arizona,Drove alone,2015,0.770593577
+Arkansas,Drove alone,2015,0.826263397
+California,Drove alone,2015,0.738994772
+Colorado,Drove alone,2015,0.764749479
+Connecticut,Drove alone,2015,0.784492429
+Delaware,Drove alone,2015,0.813787023
+District of Columbia,Drove alone,2015,0.335984923
+Florida,Drove alone,2015,0.796822379
+Georgia,Drove alone,2015,0.796153356
+Hawaii,Drove alone,2015,0.673936111
+Idaho,Drove alone,2015,0.77061304
+Illinois,Drove alone,2015,0.735876386
+Indiana,Drove alone,2015,0.830813523
+Iowa,Drove alone,2015,0.80958746
+Kansas,Drove alone,2015,0.826182866
+Kentucky,Drove alone,2015,0.821368413
+Louisiana,Drove alone,2015,0.828035059
+Maine,Drove alone,2015,0.796517522
+Maryland,Drove alone,2015,0.737741984
+Massachusetts,Drove alone,2015,0.701632498
+Michigan,Drove alone,2015,0.827834526
+Minnesota,Drove alone,2015,0.781316902
+Mississippi,Drove alone,2015,0.854214776
+Missouri,Drove alone,2015,0.817981925
+Montana,Drove alone,2015,0.745117686
+Nebraska,Drove alone,2015,0.819537887
+Nevada,Drove alone,2015,0.777959191
+New Hampshire,Drove alone,2015,0.810808055
+New Jersey,Drove alone,2015,0.718309981
+New Mexico,Drove alone,2015,0.813588493
+New York,Drove alone,2015,0.527174439
+North Carolina,Drove alone,2015,0.81399421
+North Dakota,Drove alone,2015,0.819511833
+Ohio,Drove alone,2015,0.832281167
+Oklahoma,Drove alone,2015,0.824998304
+Oregon,Drove alone,2015,0.712066493
+Pennsylvania,Drove alone,2015,0.763457551
+Rhode Island,Drove alone,2015,0.789746638
+South Carolina,Drove alone,2015,0.829697293
+South Dakota,Drove alone,2015,0.805532089
+Tennessee,Drove alone,2015,0.838989741
+Texas,Drove alone,2015,0.807993553
+United States,Drove alone,2015,0.765731618
+Utah,Drove alone,2015,0.758213218
+Vermont,Drove alone,2015,0.769367879
+Virginia,Drove alone,2015,0.77508786
+Washington,Drove alone,2015,0.724382332
+West Virginia,Drove alone,2015,0.827495951
+Wisconsin,Drove alone,2015,0.812343217
+Wyoming,Drove alone,2015,0.773100293
+Alabama,Public transportation,2015,0.003015326
+Alaska,Public transportation,2015,0.015445845
+Arizona,Public transportation,2015,0.020583317
+Arkansas,Public transportation,2015,0.004620646
+California,Public transportation,2015,0.052376549
+Colorado,Public transportation,2015,0.029527786
+Connecticut,Public transportation,2015,0.049357038
+Delaware,Public transportation,2015,0.027435327
+District of Columbia,Public transportation,2015,0.357769091
+Florida,Public transportation,2015,0.022031053
+Georgia,Public transportation,2015,0.023040922
+Hawaii,Public transportation,2015,0.069895051
+Idaho,Public transportation,2015,0.008034987
+Illinois,Public transportation,2015,0.092972927
+Indiana,Public transportation,2015,0.010850016
+Iowa,Public transportation,2015,0.013746263
+Kansas,Public transportation,2015,0.006353273
+Kentucky,Public transportation,2015,0.011443997
+Louisiana,Public transportation,2015,0.014773114
+Maine,Public transportation,2015,0.006357354
+Maryland,Public transportation,2015,0.090472368
+Massachusetts,Public transportation,2015,0.105507834
+Michigan,Public transportation,2015,0.013316671
+Minnesota,Public transportation,2015,0.036175425
+Mississippi,Public transportation,2015,0.003211305
+Missouri,Public transportation,2015,0.015599987
+Montana,Public transportation,2015,0.007796828
+Nebraska,Public transportation,2015,0.007766901
+Nevada,Public transportation,2015,0.037173723
+New Hampshire,Public transportation,2015,0.008901157
+New Jersey,Public transportation,2015,0.116078384
+New Mexico,Public transportation,2015,0.009221984
+New York,Public transportation,2015,0.285671397
+North Carolina,Public transportation,2015,0.011117839
+North Dakota,Public transportation,2015,0.003703933
+Ohio,Public transportation,2015,0.017782989
+Oklahoma,Public transportation,2015,0.003972857
+Oregon,Public transportation,2015,0.048499054
+Pennsylvania,Public transportation,2015,0.056649718
+Rhode Island,Public transportation,2015,0.029115987
+South Carolina,Public transportation,2015,0.005078369
+South Dakota,Public transportation,2015,0.008018697
+Tennessee,Public transportation,2015,0.008332278
+Texas,Public transportation,2015,0.015070338
+United States,Public transportation,2015,0.052324234
+Utah,Public transportation,2015,0.026758147
+Vermont,Public transportation,2015,0.012714219
+Virginia,Public transportation,2015,0.047241942
+Washington,Public transportation,2015,0.062458747
+West Virginia,Public transportation,2015,0.010637399
+Wisconsin,Public transportation,2015,0.019134901
+Wyoming,Public transportation,2015,0.021970307
+Alabama,"Taxi, motorcycle, or other",2015,0.008596114
+Alaska,"Taxi, motorcycle, or other",2015,0.044632652
+Arizona,"Taxi, motorcycle, or other",2015,0.016408441
+Arkansas,"Taxi, motorcycle, or other",2015,0.011921442
+California,"Taxi, motorcycle, or other",2015,0.015424542
+Colorado,"Taxi, motorcycle, or other",2015,0.009771315
+Connecticut,"Taxi, motorcycle, or other",2015,0.007773863
+Delaware,"Taxi, motorcycle, or other",2015,0.007053762
+District of Columbia,"Taxi, motorcycle, or other",2015,0.013441296
+Florida,"Taxi, motorcycle, or other",2015,0.014804334
+Georgia,"Taxi, motorcycle, or other",2015,0.013246494
+Hawaii,"Taxi, motorcycle, or other",2015,0.024105068
+Idaho,"Taxi, motorcycle, or other",2015,0.012089899
+Illinois,"Taxi, motorcycle, or other",2015,0.010881357
+Indiana,"Taxi, motorcycle, or other",2015,0.008909482
+Iowa,"Taxi, motorcycle, or other",2015,0.00952993
+Kansas,"Taxi, motorcycle, or other",2015,0.010436256
+Kentucky,"Taxi, motorcycle, or other",2015,0.01175634
+Louisiana,"Taxi, motorcycle, or other",2015,0.013053439
+Maine,"Taxi, motorcycle, or other",2015,0.011381943
+Maryland,"Taxi, motorcycle, or other",2015,0.010574818
+Massachusetts,"Taxi, motorcycle, or other",2015,0.012554557
+Michigan,"Taxi, motorcycle, or other",2015,0.008502708
+Minnesota,"Taxi, motorcycle, or other",2015,0.008566576
+Mississippi,"Taxi, motorcycle, or other",2015,0.013347773
+Missouri,"Taxi, motorcycle, or other",2015,0.01052653
+Montana,"Taxi, motorcycle, or other",2015,0.010544518
+Nebraska,"Taxi, motorcycle, or other",2015,0.010468119
+Nevada,"Taxi, motorcycle, or other",2015,0.016711179
+New Hampshire,"Taxi, motorcycle, or other",2015,0.00957614
+New Jersey,"Taxi, motorcycle, or other",2015,0.014247236
+New Mexico,"Taxi, motorcycle, or other",2015,0.009603811
+New York,"Taxi, motorcycle, or other",2015,0.01214119
+North Carolina,"Taxi, motorcycle, or other",2015,0.010631188
+North Dakota,"Taxi, motorcycle, or other",2015,0.005356723
+Ohio,"Taxi, motorcycle, or other",2015,0.008552737
+Oklahoma,"Taxi, motorcycle, or other",2015,0.011652449
+Oregon,"Taxi, motorcycle, or other",2015,0.01041362
+Pennsylvania,"Taxi, motorcycle, or other",2015,0.008386101
+Rhode Island,"Taxi, motorcycle, or other",2015,0.010178042
+South Carolina,"Taxi, motorcycle, or other",2015,0.011530857
+South Dakota,"Taxi, motorcycle, or other",2015,0.007860876
+Tennessee,"Taxi, motorcycle, or other",2015,0.012245206
+Texas,"Taxi, motorcycle, or other",2015,0.013518579
+United States,"Taxi, motorcycle, or other",2015,0.012114715
+Utah,"Taxi, motorcycle, or other",2015,0.009711988
+Vermont,"Taxi, motorcycle, or other",2015,0.009186827
+Virginia,"Taxi, motorcycle, or other",2015,0.012777095
+Washington,"Taxi, motorcycle, or other",2015,0.012198063
+West Virginia,"Taxi, motorcycle, or other",2015,0.013464062
+Wisconsin,"Taxi, motorcycle, or other",2015,0.009002215
+Wyoming,"Taxi, motorcycle, or other",2015,0.010699847
+Alabama,Walked,2015,0.01100052
+Alaska,Walked,2015,0.079325208
+Arizona,Walked,2015,0.020911624
+Arkansas,Walked,2015,0.017580157
+California,Walked,2015,0.026898443
+Colorado,Walked,2015,0.028412607
+Connecticut,Walked,2015,0.029792665
+Delaware,Walked,2015,0.021884343
+District of Columbia,Walked,2015,0.140067011
+Florida,Walked,2015,0.014205805
+Georgia,Walked,2015,0.0151847
+Hawaii,Walked,2015,0.041206445
+Idaho,Walked,2015,0.032001154
+Illinois,Walked,2015,0.03041989
+Indiana,Walked,2015,0.022838892
+Iowa,Walked,2015,0.034317398
+Kansas,Walked,2015,0.023191602
+Kentucky,Walked,2015,0.024730979
+Louisiana,Walked,2015,0.02040326
+Maine,Walked,2015,0.038241567
+Maryland,Walked,2015,0.025677369
+Massachusetts,Walked,2015,0.050423412
+Michigan,Walked,2015,0.023177605
+Minnesota,Walked,2015,0.027094694
+Mississippi,Walked,2015,0.014826951
+Missouri,Walked,2015,0.018864399
+Montana,Walked,2015,0.056158234
+Nebraska,Walked,2015,0.028423879
+Nevada,Walked,2015,0.021782708
+New Hampshire,Walked,2015,0.027447387
+New Jersey,Walked,2015,0.032678425
+New Mexico,Walked,2015,0.022833273
+New York,Walked,2015,0.062863677
+North Carolina,Walked,2015,0.01751105
+North Dakota,Walked,2015,0.038429849
+Ohio,Walked,2015,0.023641649
+Oklahoma,Walked,2015,0.017462867
+Oregon,Walked,2015,0.037863659
+Pennsylvania,Walked,2015,0.038888496
+Rhode Island,Walked,2015,0.037242337
+South Carolina,Walked,2015,0.020420216
+South Dakota,Walked,2015,0.031211415
+Tennessee,Walked,2015,0.012244191
+Texas,Walked,2015,0.015556691
+United States,Walked,2015,0.02773739
+Utah,Walked,2015,0.027828416
+Vermont,Walked,2015,0.058095833
+Virginia,Walked,2015,0.023465123
+Washington,Walked,2015,0.036632161
+West Virginia,Walked,2015,0.027383992
+Wisconsin,Walked,2015,0.031603047
+Wyoming,Walked,2015,0.045942946
+Alabama,Worked at home,2015,0.031692733
+Alaska,Worked at home,2015,0.044329684
+Arizona,Worked at home,2015,0.055067598
+Arkansas,Worked at home,2015,0.030615469
+California,Worked at home,2015,0.055010064
+Colorado,Worked at home,2015,0.071123294
+Connecticut,Worked at home,2015,0.04786983
+Delaware,Worked at home,2015,0.047322766
+District of Columbia,Worked at home,2015,0.060111685
+Florida,Worked at home,2015,0.055551952
+Georgia,Worked at home,2015,0.050923299
+Hawaii,Worked at home,2015,0.046269474
+Idaho,Worked at home,2015,0.061554392
+Illinois,Worked at home,2015,0.044042916
+Indiana,Worked at home,2015,0.035634011
+Iowa,Worked at home,2015,0.040796836
+Kansas,Worked at home,2015,0.042030756
+Kentucky,Worked at home,2015,0.031465592
+Louisiana,Worked at home,2015,0.028226685
+Maine,Worked at home,2015,0.057346634
+Maryland,Worked at home,2015,0.04397289
+Massachusetts,Worked at home,2015,0.047538067
+Michigan,Worked at home,2015,0.035932346
+Minnesota,Worked at home,2015,0.054999942
+Mississippi,Worked at home,2015,0.021035977
+Missouri,Worked at home,2015,0.047856785
+Montana,Worked at home,2015,0.060137219
+Nebraska,Worked at home,2015,0.039351954
+Nevada,Worked at home,2015,0.036582083
+New Hampshire,Worked at home,2015,0.065234937
+New Jersey,Worked at home,2015,0.040850774
+New Mexico,Worked at home,2015,0.048185465
+New York,Worked at home,2015,0.03963213
+North Carolina,Worked at home,2015,0.05028819
+North Dakota,Worked at home,2015,0.044791113
+Ohio,Worked at home,2015,0.037242854
+Oklahoma,Worked at home,2015,0.037493836
+Oregon,Worked at home,2015,0.063316639
+Pennsylvania,Worked at home,2015,0.042165548
+Rhode Island,Worked at home,2015,0.03320368
+South Carolina,Worked at home,2015,0.037618616
+South Dakota,Worked at home,2015,0.057952784
+Tennessee,Worked at home,2015,0.037709873
+Texas,Worked at home,2015,0.043717551
+United States,Worked at home,2015,0.046135316
+Utah,Worked at home,2015,0.055468298
+Vermont,Worked at home,2015,0.06108319
+Virginia,Worked at home,2015,0.046358116
+Washington,Worked at home,2015,0.056492467
+West Virginia,Worked at home,2015,0.032489999
+Wisconsin,Worked at home,2015,0.040867619
+Wyoming,Worked at home,2015,0.041969408
+Alabama,Bicycle,2016,0.001027669
+Alaska,Bicycle,2016,0.009922713
+Arizona,Bicycle,2016,0.008309213
+Arkansas,Bicycle,2016,0.001349059
+California,Bicycle,2016,0.010296759
+Colorado,Bicycle,2016,0.010891863
+Connecticut,Bicycle,2016,0.002986101
+Delaware,Bicycle,2016,0.003023315
+District of Columbia,Bicycle,2016,0.045960288
+Florida,Bicycle,2016,0.006189586
+Georgia,Bicycle,2016,0.002597069
+Hawaii,Bicycle,2016,0.00731379
+Idaho,Bicycle,2016,0.011717941
+Illinois,Bicycle,2016,0.006911432
+Indiana,Bicycle,2016,0.004123108
+Iowa,Bicycle,2016,0.004651069
+Kansas,Bicycle,2016,0.004287193
+Kentucky,Bicycle,2016,0.00227903
+Louisiana,Bicycle,2016,0.004957746
+Maine,Bicycle,2016,0.00421605
+Maryland,Bicycle,2016,0.002869636
+Massachusetts,Bicycle,2016,0.008612708
+Michigan,Bicycle,2016,0.004603803
+Minnesota,Bicycle,2016,0.007039718
+Mississippi,Bicycle,2016,0.001016273
+Missouri,Bicycle,2016,0.002363297
+Montana,Bicycle,2016,0.012363216
+Nebraska,Bicycle,2016,0.005531679
+Nevada,Bicycle,2016,0.00370644
+New Hampshire,Bicycle,2016,0.002824887
+New Jersey,Bicycle,2016,0.002869598
+New Mexico,Bicycle,2016,0.007183707
+New York,Bicycle,2016,0.007167259
+North Carolina,Bicycle,2016,0.001985082
+North Dakota,Bicycle,2016,0.005807496
+Ohio,Bicycle,2016,0.003082792
+Oklahoma,Bicycle,2016,0.002759197
+Oregon,Bicycle,2016,0.022494467
+Pennsylvania,Bicycle,2016,0.005182898
+Rhode Island,Bicycle,2016,0.003051886
+South Carolina,Bicycle,2016,0.002495424
+South Dakota,Bicycle,2016,0.003996076
+Tennessee,Bicycle,2016,0.001133611
+Texas,Bicycle,2016,0.002577401
+United States,Bicycle,2016,0.005745414
+Utah,Bicycle,2016,0.006567928
+Vermont,Bicycle,2016,0.006317411
+Virginia,Bicycle,2016,0.004098049
+Washington,Bicycle,2016,0.008622738
+West Virginia,Bicycle,2016,0.001105064
+Wisconsin,Bicycle,2016,0.007031135
+Wyoming,Bicycle,2016,0.006139543
+Alabama,Carpool,2016,0.080385118
+Alaska,Carpool,2016,0.121988732
+Arizona,Carpool,2016,0.109806635
+Arkansas,Carpool,2016,0.101687906
+California,Carpool,2016,0.103007862
+Colorado,Carpool,2016,0.089610118
+Connecticut,Carpool,2016,0.081915542
+Delaware,Carpool,2016,0.089827503
+District of Columbia,Carpool,2016,0.050684145
+Florida,Carpool,2016,0.091581082
+Georgia,Carpool,2016,0.096383733
+Hawaii,Carpool,2016,0.136203827
+Idaho,Carpool,2016,0.095665982
+Illinois,Carpool,2016,0.076909298
+Indiana,Carpool,2016,0.0852654
+Iowa,Carpool,2016,0.081656728
+Kansas,Carpool,2016,0.088567041
+Kentucky,Carpool,2016,0.092686106
+Louisiana,Carpool,2016,0.092543428
+Maine,Carpool,2016,0.089539478
+Maryland,Carpool,2016,0.089973484
+Massachusetts,Carpool,2016,0.076222768
+Michigan,Carpool,2016,0.088646193
+Minnesota,Carpool,2016,0.085876954
+Mississippi,Carpool,2016,0.098226254
+Missouri,Carpool,2016,0.08663873
+Montana,Carpool,2016,0.091585719
+Nebraska,Carpool,2016,0.089886441
+Nevada,Carpool,2016,0.1017339
+New Hampshire,Carpool,2016,0.085728865
+New Jersey,Carpool,2016,0.08424487
+New Mexico,Carpool,2016,0.094437212
+New York,Carpool,2016,0.065285614
+North Carolina,Carpool,2016,0.091515446
+North Dakota,Carpool,2016,0.099476143
+Ohio,Carpool,2016,0.074855656
+Oklahoma,Carpool,2016,0.094894504
+Oregon,Carpool,2016,0.097207685
+Pennsylvania,Carpool,2016,0.083616973
+Rhode Island,Carpool,2016,0.083527259
+South Carolina,Carpool,2016,0.093012723
+South Dakota,Carpool,2016,0.088845857
+Tennessee,Carpool,2016,0.085863852
+Texas,Carpool,2016,0.100856276
+United States,Carpool,2016,0.090287901
+Utah,Carpool,2016,0.109657997
+Vermont,Carpool,2016,0.079739631
+Virginia,Carpool,2016,0.09474036
+Washington,Carpool,2016,0.098790221
+West Virginia,Carpool,2016,0.09245608
+Wisconsin,Carpool,2016,0.082198478
+Wyoming,Carpool,2016,0.089983333
+Alabama,Drove alone,2016,0.861186319
+Alaska,Drove alone,2016,0.690433402
+Arizona,Drove alone,2016,0.764971134
+Arkansas,Drove alone,2016,0.831022035
+California,Drove alone,2016,0.735580287
+Colorado,Drove alone,2016,0.750092785
+Connecticut,Drove alone,2016,0.777193132
+Delaware,Drove alone,2016,0.810043415
+District of Columbia,Drove alone,2016,0.330316617
+Florida,Drove alone,2016,0.791579295
+Georgia,Drove alone,2016,0.793356511
+Hawaii,Drove alone,2016,0.669436144
+Idaho,Drove alone,2016,0.792890107
+Illinois,Drove alone,2016,0.731417472
+Indiana,Drove alone,2016,0.832302047
+Iowa,Drove alone,2016,0.812459939
+Kansas,Drove alone,2016,0.822122308
+Kentucky,Drove alone,2016,0.82233959
+Louisiana,Drove alone,2016,0.828709721
+Maine,Drove alone,2016,0.792952663
+Maryland,Drove alone,2016,0.738166941
+Massachusetts,Drove alone,2016,0.701041702
+Michigan,Drove alone,2016,0.82368923
+Minnesota,Drove alone,2016,0.778295959
+Mississippi,Drove alone,2016,0.845747084
+Missouri,Drove alone,2016,0.817397175
+Montana,Drove alone,2016,0.759660777
+Nebraska,Drove alone,2016,0.820365692
+Nevada,Drove alone,2016,0.787685709
+New Hampshire,Drove alone,2016,0.797403315
+New Jersey,Drove alone,2016,0.707914475
+New Mexico,Drove alone,2016,0.799707048
+New York,Drove alone,2016,0.526073187
+North Carolina,Drove alone,2016,0.813470843
+North Dakota,Drove alone,2016,0.801683139
+Ohio,Drove alone,2016,0.830626003
+Oklahoma,Drove alone,2016,0.825772237
+Oregon,Drove alone,2016,0.723615794
+Pennsylvania,Drove alone,2016,0.761361847
+Rhode Island,Drove alone,2016,0.802597041
+South Carolina,Drove alone,2016,0.825346053
+South Dakota,Drove alone,2016,0.798826981
+Tennessee,Drove alone,2016,0.83548036
+Texas,Drove alone,2016,0.805356507
+United States,Drove alone,2016,0.763221341
+Utah,Drove alone,2016,0.758387747
+Vermont,Drove alone,2016,0.755580013
+Virginia,Drove alone,2016,0.769178598
+Washington,Drove alone,2016,0.720523636
+West Virginia,Drove alone,2016,0.815659662
+Wisconsin,Drove alone,2016,0.806919978
+Wyoming,Drove alone,2016,0.777555857
+Alabama,Public transportation,2016,0.003084954
+Alaska,Public transportation,2016,0.012075391
+Arizona,Public transportation,2016,0.018500854
+Arkansas,Public transportation,2016,0.003358414
+California,Public transportation,2016,0.050783311
+Colorado,Public transportation,2016,0.029175561
+Connecticut,Public transportation,2016,0.049392247
+Delaware,Public transportation,2016,0.026768172
+District of Columbia,Public transportation,2016,0.360158916
+Florida,Public transportation,2016,0.020511445
+Georgia,Public transportation,2016,0.021365209
+Hawaii,Public transportation,2016,0.0674494
+Idaho,Public transportation,2016,0.005685047
+Illinois,Public transportation,2016,0.09353778
+Indiana,Public transportation,2016,0.010119654
+Iowa,Public transportation,2016,0.010776081
+Kansas,Public transportation,2016,0.00516236
+Kentucky,Public transportation,2016,0.010875418
+Louisiana,Public transportation,2016,0.012746418
+Maine,Public transportation,2016,0.006566921
+Maryland,Public transportation,2016,0.085041442
+Massachusetts,Public transportation,2016,0.101174714
+Michigan,Public transportation,2016,0.014301327
+Minnesota,Public transportation,2016,0.036243007
+Mississippi,Public transportation,2016,0.003044704
+Missouri,Public transportation,2016,0.014320174
+Montana,Public transportation,2016,0.00675383
+Nebraska,Public transportation,2016,0.005959719
+Nevada,Public transportation,2016,0.033955301
+New Hampshire,Public transportation,2016,0.008994848
+New Jersey,Public transportation,2016,0.117718656
+New Mexico,Public transportation,2016,0.014192007
+New York,Public transportation,2016,0.283790004
+North Carolina,Public transportation,2016,0.010354288
+North Dakota,Public transportation,2016,0.005270585
+Ohio,Public transportation,2016,0.015984232
+Oklahoma,Public transportation,2016,0.005008416
+Oregon,Public transportation,2016,0.043556342
+Pennsylvania,Public transportation,2016,0.055555044
+Rhode Island,Public transportation,2016,0.024432717
+South Carolina,Public transportation,2016,0.005528094
+South Dakota,Public transportation,2016,0.004900365
+Tennessee,Public transportation,2016,0.006945971
+Texas,Public transportation,2016,0.014345971
+United States,Public transportation,2016,0.050866834
+Utah,Public transportation,2016,0.027311211
+Vermont,Public transportation,2016,0.015452344
+Virginia,Public transportation,2016,0.041353934
+Washington,Public transportation,2016,0.063625533
+West Virginia,Public transportation,2016,0.010857733
+Wisconsin,Public transportation,2016,0.017426119
+Wyoming,Public transportation,2016,0.015197654
+Alabama,"Taxi, motorcycle, or other",2016,0.009285546
+Alaska,"Taxi, motorcycle, or other",2016,0.037687016
+Arizona,"Taxi, motorcycle, or other",2016,0.016651503
+Arkansas,"Taxi, motorcycle, or other",2016,0.010419228
+California,"Taxi, motorcycle, or other",2016,0.015194611
+Colorado,"Taxi, motorcycle, or other",2016,0.010703625
+Connecticut,"Taxi, motorcycle, or other",2016,0.008943178
+Delaware,"Taxi, motorcycle, or other",2016,0.006982309
+District of Columbia,"Taxi, motorcycle, or other",2016,0.016098663
+Florida,"Taxi, motorcycle, or other",2016,0.015062343
+Georgia,"Taxi, motorcycle, or other",2016,0.014348703
+Hawaii,"Taxi, motorcycle, or other",2016,0.023168801
+Idaho,"Taxi, motorcycle, or other",2016,0.009304252
+Illinois,"Taxi, motorcycle, or other",2016,0.011752991
+Indiana,"Taxi, motorcycle, or other",2016,0.008856749
+Iowa,"Taxi, motorcycle, or other",2016,0.008813349
+Kansas,"Taxi, motorcycle, or other",2016,0.010439392
+Kentucky,"Taxi, motorcycle, or other",2016,0.013022436
+Louisiana,"Taxi, motorcycle, or other",2016,0.013548039
+Maine,"Taxi, motorcycle, or other",2016,0.008855723
+Maryland,"Taxi, motorcycle, or other",2016,0.011942912
+Massachusetts,"Taxi, motorcycle, or other",2016,0.013468716
+Michigan,"Taxi, motorcycle, or other",2016,0.007616097
+Minnesota,"Taxi, motorcycle, or other",2016,0.007981298
+Mississippi,"Taxi, motorcycle, or other",2016,0.015717254
+Missouri,"Taxi, motorcycle, or other",2016,0.009211863
+Montana,"Taxi, motorcycle, or other",2016,0.009248233
+Nebraska,"Taxi, motorcycle, or other",2016,0.009480531
+Nevada,"Taxi, motorcycle, or other",2016,0.013951142
+New Hampshire,"Taxi, motorcycle, or other",2016,0.011344904
+New Jersey,"Taxi, motorcycle, or other",2016,0.014667525
+New Mexico,"Taxi, motorcycle, or other",2016,0.010980012
+New York,"Taxi, motorcycle, or other",2016,0.012405994
+North Carolina,"Taxi, motorcycle, or other",2016,0.011422164
+North Dakota,"Taxi, motorcycle, or other",2016,0.007157159
+Ohio,"Taxi, motorcycle, or other",2016,0.008973172
+Oklahoma,"Taxi, motorcycle, or other",2016,0.011688424
+Oregon,"Taxi, motorcycle, or other",2016,0.010813139
+Pennsylvania,"Taxi, motorcycle, or other",2016,0.009333399
+Rhode Island,"Taxi, motorcycle, or other",2016,0.007647345
+South Carolina,"Taxi, motorcycle, or other",2016,0.011816273
+South Dakota,"Taxi, motorcycle, or other",2016,0.009842575
+Tennessee,"Taxi, motorcycle, or other",2016,0.010674002
+Texas,"Taxi, motorcycle, or other",2016,0.012770992
+United States,"Taxi, motorcycle, or other",2016,0.012218578
+Utah,"Taxi, motorcycle, or other",2016,0.009891257
+Vermont,"Taxi, motorcycle, or other",2016,0.013725983
+Virginia,"Taxi, motorcycle, or other",2016,0.01418066
+Washington,"Taxi, motorcycle, or other",2016,0.012332772
+West Virginia,"Taxi, motorcycle, or other",2016,0.008345849
+Wisconsin,"Taxi, motorcycle, or other",2016,0.008973122
+Wyoming,"Taxi, motorcycle, or other",2016,0.007099506
+Alabama,Walked,2016,0.011628241
+Alaska,Walked,2016,0.07615131
+Arizona,Walked,2016,0.018317422
+Arkansas,Walked,2016,0.020129924
+California,Walked,2016,0.026867789
+Colorado,Walked,2016,0.030057685
+Connecticut,Walked,2016,0.027393699
+Delaware,Walked,2016,0.018592929
+District of Columbia,Walked,2016,0.136701969
+Florida,Walked,2016,0.015040309
+Georgia,Walked,2016,0.015528373
+Hawaii,Walked,2016,0.04712344
+Idaho,Walked,2016,0.026166882
+Illinois,Walked,2016,0.030174993
+Indiana,Walked,2016,0.021337431
+Iowa,Walked,2016,0.034385071
+Kansas,Walked,2016,0.02465171
+Kentucky,Walked,2016,0.021492528
+Louisiana,Walked,2016,0.016585996
+Maine,Walked,2016,0.040065669
+Maryland,Walked,2016,0.024580409
+Massachusetts,Walked,2016,0.048097869
+Michigan,Walked,2016,0.020952502
+Minnesota,Walked,2016,0.026195879
+Mississippi,Walked,2016,0.013791685
+Missouri,Walked,2016,0.018347592
+Montana,Walked,2016,0.056756751
+Nebraska,Walked,2016,0.024611812
+Nevada,Walked,2016,0.016777801
+New Hampshire,Walked,2016,0.031198486
+New Jersey,Walked,2016,0.028546489
+New Mexico,Walked,2016,0.022596727
+New York,Walked,2016,0.062205183
+North Carolina,Walked,2016,0.01721766
+North Dakota,Walked,2016,0.029389671
+Ohio,Walked,2016,0.023369099
+Oklahoma,Walked,2016,0.017054749
+Oregon,Walked,2016,0.036160678
+Pennsylvania,Walked,2016,0.036476861
+Rhode Island,Walked,2016,0.036130961
+South Carolina,Walked,2016,0.021005405
+South Dakota,Walked,2016,0.038314907
+Tennessee,Walked,2016,0.013238219
+Texas,Walked,2016,0.015736016
+United States,Walked,2016,0.027174918
+Utah,Walked,2016,0.027474939
+Vermont,Walked,2016,0.059384925
+Virginia,Walked,2016,0.026129547
+Washington,Walked,2016,0.037403831
+West Virginia,Walked,2016,0.03173958
+Wisconsin,Walked,2016,0.030303103
+Wyoming,Walked,2016,0.046081734
+Alabama,Worked at home,2016,0.033402153
+Alaska,Worked at home,2016,0.051741436
+Arizona,Worked at home,2016,0.06344324
+Arkansas,Worked at home,2016,0.032033434
+California,Worked at home,2016,0.058269382
+Colorado,Worked at home,2016,0.079468363
+Connecticut,Worked at home,2016,0.0521761
+Delaware,Worked at home,2016,0.044762358
+District of Columbia,Worked at home,2016,0.060079403
+Florida,Worked at home,2016,0.06003594
+Georgia,Worked at home,2016,0.056420403
+Hawaii,Worked at home,2016,0.049304597
+Idaho,Worked at home,2016,0.05856979
+Illinois,Worked at home,2016,0.049296034
+Indiana,Worked at home,2016,0.037995611
+Iowa,Worked at home,2016,0.047257764
+Kansas,Worked at home,2016,0.044769998
+Kentucky,Worked at home,2016,0.037304892
+Louisiana,Worked at home,2016,0.030908652
+Maine,Worked at home,2016,0.057803495
+Maryland,Worked at home,2016,0.047425177
+Massachusetts,Worked at home,2016,0.051381523
+Michigan,Worked at home,2016,0.040190848
+Minnesota,Worked at home,2016,0.058367186
+Mississippi,Worked at home,2016,0.022456747
+Missouri,Worked at home,2016,0.051721169
+Montana,Worked at home,2016,0.063631473
+Nebraska,Worked at home,2016,0.044164125
+Nevada,Worked at home,2016,0.042189705
+New Hampshire,Worked at home,2016,0.062504695
+New Jersey,Worked at home,2016,0.044038388
+New Mexico,Worked at home,2016,0.050903288
+New York,Worked at home,2016,0.043072759
+North Carolina,Worked at home,2016,0.054034517
+North Dakota,Worked at home,2016,0.051215806
+Ohio,Worked at home,2016,0.043109046
+Oklahoma,Worked at home,2016,0.042822475
+Oregon,Worked at home,2016,0.066151896
+Pennsylvania,Worked at home,2016,0.048472977
+Rhode Island,Worked at home,2016,0.04261279
+South Carolina,Worked at home,2016,0.040796028
+South Dakota,Worked at home,2016,0.05527324
+Tennessee,Worked at home,2016,0.046663984
+Texas,Worked at home,2016,0.048356837
+United States,Worked at home,2016,0.050485014
+Utah,Worked at home,2016,0.060708921
+Vermont,Worked at home,2016,0.069799692
+Virginia,Worked at home,2016,0.050318852
+Washington,Worked at home,2016,0.058701268
+West Virginia,Worked at home,2016,0.039836032
+Wisconsin,Worked at home,2016,0.047148065
+Wyoming,Worked at home,2016,0.057942374
+Alabama,Bicycle,2017,0.001008024
+Alaska,Bicycle,2017,0.007751607
+Arizona,Bicycle,2017,0.008188196
+Arkansas,Bicycle,2017,0.001824188
+California,Bicycle,2017,0.009062407
+Colorado,Bicycle,2017,0.010988307
+Connecticut,Bicycle,2017,0.003083802
+Delaware,Bicycle,2017,0.003635266
+District of Columbia,Bicycle,2017,0.049613725
+Florida,Bicycle,2017,0.005745648
+Georgia,Bicycle,2017,0.00241585
+Hawaii,Bicycle,2017,0.00934598
+Idaho,Bicycle,2017,0.008286832
+Illinois,Bicycle,2017,0.006173555
+Indiana,Bicycle,2017,0.004369029
+Iowa,Bicycle,2017,0.005090457
+Kansas,Bicycle,2017,0.003560305
+Kentucky,Bicycle,2017,0.001829511
+Louisiana,Bicycle,2017,0.00597805
+Maine,Bicycle,2017,0.004875676
+Maryland,Bicycle,2017,0.003860602
+Massachusetts,Bicycle,2017,0.009055725
+Michigan,Bicycle,2017,0.004397403
+Minnesota,Bicycle,2017,0.007083748
+Mississippi,Bicycle,2017,0.000355576
+Missouri,Bicycle,2017,0.001721211
+Montana,Bicycle,2017,0.011098812
+Nebraska,Bicycle,2017,0.002777335
+Nevada,Bicycle,2017,0.003571197
+New Hampshire,Bicycle,2017,0.002737473
+New Jersey,Bicycle,2017,0.002658517
+New Mexico,Bicycle,2017,0.006270685
+New York,Bicycle,2017,0.007072047
+North Carolina,Bicycle,2017,0.002156118
+North Dakota,Bicycle,2017,0.005089536
+Ohio,Bicycle,2017,0.002894323
+Oklahoma,Bicycle,2017,0.002936933
+Oregon,Bicycle,2017,0.020376794
+Pennsylvania,Bicycle,2017,0.005652096
+Rhode Island,Bicycle,2017,0.001989606
+South Carolina,Bicycle,2017,0.002350509
+South Dakota,Bicycle,2017,0.003492401
+Tennessee,Bicycle,2017,0.001422467
+Texas,Bicycle,2017,0.002537966
+United States,Bicycle,2017,0.005474832
+Utah,Bicycle,2017,0.006949036
+Vermont,Bicycle,2017,0.007147447
+Virginia,Bicycle,2017,0.004107368
+Washington,Bicycle,2017,0.006958648
+West Virginia,Bicycle,2017,0.001536523
+Wisconsin,Bicycle,2017,0.006296255
+Wyoming,Bicycle,2017,0.010628885
+Alabama,Carpool,2017,0.084985494
+Alaska,Carpool,2017,0.118292426
+Arizona,Carpool,2017,0.110036777
+Arkansas,Carpool,2017,0.098632561
+California,Carpool,2017,0.100284221
+Colorado,Carpool,2017,0.085503596
+Connecticut,Carpool,2017,0.078548931
+Delaware,Carpool,2017,0.071219648
+District of Columbia,Carpool,2017,0.05193404
+Florida,Carpool,2017,0.090905573
+Georgia,Carpool,2017,0.098846627
+Hawaii,Carpool,2017,0.132573987
+Idaho,Carpool,2017,0.101877393
+Illinois,Carpool,2017,0.07778421
+Indiana,Carpool,2017,0.087410646
+Iowa,Carpool,2017,0.079951224
+Kansas,Carpool,2017,0.087130003
+Kentucky,Carpool,2017,0.093669943
+Louisiana,Carpool,2017,0.09224276
+Maine,Carpool,2017,0.093689586
+Maryland,Carpool,2017,0.091042451
+Massachusetts,Carpool,2017,0.07234456
+Michigan,Carpool,2017,0.08707341
+Minnesota,Carpool,2017,0.081501088
+Mississippi,Carpool,2017,0.09113619
+Missouri,Carpool,2017,0.084243562
+Montana,Carpool,2017,0.089187653
+Nebraska,Carpool,2017,0.090785129
+Nevada,Carpool,2017,0.098022189
+New Hampshire,Carpool,2017,0.082949231
+New Jersey,Carpool,2017,0.079221227
+New Mexico,Carpool,2017,0.106256606
+New York,Carpool,2017,0.062570643
+North Carolina,Carpool,2017,0.088500214
+North Dakota,Carpool,2017,0.081785534
+Ohio,Carpool,2017,0.076624421
+Oklahoma,Carpool,2017,0.098263461
+Oregon,Carpool,2017,0.097153434
+Pennsylvania,Carpool,2017,0.085065784
+Rhode Island,Carpool,2017,0.094415316
+South Carolina,Carpool,2017,0.094893838
+South Dakota,Carpool,2017,0.078049664
+Tennessee,Carpool,2017,0.08780225
+Texas,Carpool,2017,0.098467842
+United States,Carpool,2017,0.089031512
+Utah,Carpool,2017,0.107347171
+Vermont,Carpool,2017,0.091672283
+Virginia,Carpool,2017,0.08656031
+Washington,Carpool,2017,0.101751017
+West Virginia,Carpool,2017,0.089918918
+Wisconsin,Carpool,2017,0.076339026
+Wyoming,Carpool,2017,0.102029411
+Alabama,Drove alone,2017,0.856648082
+Alaska,Drove alone,2017,0.693078495
+Arizona,Drove alone,2017,0.765407385
+Arkansas,Drove alone,2017,0.83348782
+California,Drove alone,2017,0.739142908
+Colorado,Drove alone,2017,0.748765664
+Connecticut,Drove alone,2017,0.782796963
+Delaware,Drove alone,2017,0.82047681
+District of Columbia,Drove alone,2017,0.343787629
+Florida,Drove alone,2017,0.793572391
+Georgia,Drove alone,2017,0.787335123
+Hawaii,Drove alone,2017,0.675680705
+Idaho,Drove alone,2017,0.790711616
+Illinois,Drove alone,2017,0.730413836
+Indiana,Drove alone,2017,0.824315394
+Iowa,Drove alone,2017,0.814113812
+Kansas,Drove alone,2017,0.8244151
+Kentucky,Drove alone,2017,0.820070532
+Louisiana,Drove alone,2017,0.827094239
+Maine,Drove alone,2017,0.785550793
+Maryland,Drove alone,2017,0.73744839
+Massachusetts,Drove alone,2017,0.700387701
+Michigan,Drove alone,2017,0.824517623
+Minnesota,Drove alone,2017,0.780208205
+Mississippi,Drove alone,2017,0.85469439
+Missouri,Drove alone,2017,0.821569758
+Montana,Drove alone,2017,0.764817258
+Nebraska,Drove alone,2017,0.816999937
+Nevada,Drove alone,2017,0.785072269
+New Hampshire,Drove alone,2017,0.809133143
+New Jersey,Drove alone,2017,0.709629057
+New Mexico,Drove alone,2017,0.794101356
+New York,Drove alone,2017,0.531125049
+North Carolina,Drove alone,2017,0.810942086
+North Dakota,Drove alone,2017,0.816226289
+Ohio,Drove alone,2017,0.833412184
+Oklahoma,Drove alone,2017,0.822989585
+Oregon,Drove alone,2017,0.716808282
+Pennsylvania,Drove alone,2017,0.761947174
+Rhode Island,Drove alone,2017,0.79364973
+South Carolina,Drove alone,2017,0.818442646
+South Dakota,Drove alone,2017,0.812345317
+Tennessee,Drove alone,2017,0.832090136
+Texas,Drove alone,2017,0.805810236
+United States,Drove alone,2017,0.763969644
+Utah,Drove alone,2017,0.760921139
+Vermont,Drove alone,2017,0.748591671
+Virginia,Drove alone,2017,0.773753172
+Washington,Drove alone,2017,0.7171977
+West Virginia,Drove alone,2017,0.827688881
+Wisconsin,Drove alone,2017,0.811193001
+Wyoming,Drove alone,2017,0.779408551
+Alabama,Public transportation,2017,0.003543266
+Alaska,Public transportation,2017,0.016587813
+Arizona,Public transportation,2017,0.017981952
+Arkansas,Public transportation,2017,0.002955528
+California,Public transportation,2017,0.050193637
+Colorado,Public transportation,2017,0.032171357
+Connecticut,Public transportation,2017,0.046940382
+Delaware,Public transportation,2017,0.022280514
+District of Columbia,Public transportation,2017,0.326716927
+Florida,Public transportation,2017,0.017359657
+Georgia,Public transportation,2017,0.021389078
+Hawaii,Public transportation,2017,0.06145845
+Idaho,Public transportation,2017,0.006277786
+Illinois,Public transportation,2017,0.095993243
+Indiana,Public transportation,2017,0.009309336
+Iowa,Public transportation,2017,0.008555248
+Kansas,Public transportation,2017,0.004263282
+Kentucky,Public transportation,2017,0.010524436
+Louisiana,Public transportation,2017,0.01069231
+Maine,Public transportation,2017,0.005804304
+Maryland,Public transportation,2017,0.084732675
+Massachusetts,Public transportation,2017,0.104077033
+Michigan,Public transportation,2017,0.012886113
+Minnesota,Public transportation,2017,0.036744041
+Mississippi,Public transportation,2017,0.003060261
+Missouri,Public transportation,2017,0.012803936
+Montana,Public transportation,2017,0.007858627
+Nebraska,Public transportation,2017,0.006890158
+Nevada,Public transportation,2017,0.030843905
+New Hampshire,Public transportation,2017,0.007242869
+New Jersey,Public transportation,2017,0.118166247
+New Mexico,Public transportation,2017,0.010652317
+New York,Public transportation,2017,0.280554495
+North Carolina,Public transportation,2017,0.009691131
+North Dakota,Public transportation,2017,0.005274655
+Ohio,Public transportation,2017,0.014563826
+Oklahoma,Public transportation,2017,0.003288288
+Oregon,Public transportation,2017,0.044596798
+Pennsylvania,Public transportation,2017,0.053378874
+Rhode Island,Public transportation,2017,0.021929707
+South Carolina,Public transportation,2017,0.004955008
+South Dakota,Public transportation,2017,0.006773975
+Tennessee,Public transportation,2017,0.006412143
+Texas,Public transportation,2017,0.013542715
+United States,Public transportation,2017,0.04998143
+Utah,Public transportation,2017,0.023182512
+Vermont,Public transportation,2017,0.014990831
+Virginia,Public transportation,2017,0.041773739
+Washington,Public transportation,2017,0.065381849
+West Virginia,Public transportation,2017,0.009202286
+Wisconsin,Public transportation,2017,0.017505249
+Wyoming,Public transportation,2017,0.005914489
+Alabama,"Taxi, motorcycle, or other",2017,0.008524607
+Alaska,"Taxi, motorcycle, or other",2017,0.045259934
+Arizona,"Taxi, motorcycle, or other",2017,0.01564992
+Arkansas,"Taxi, motorcycle, or other",2017,0.008274387
+California,"Taxi, motorcycle, or other",2017,0.015825112
+Colorado,"Taxi, motorcycle, or other",2017,0.011259871
+Connecticut,"Taxi, motorcycle, or other",2017,0.009526997
+Delaware,"Taxi, motorcycle, or other",2017,0.008584428
+District of Columbia,"Taxi, motorcycle, or other",2017,0.027372263
+Florida,"Taxi, motorcycle, or other",2017,0.01685437
+Georgia,"Taxi, motorcycle, or other",2017,0.016549223
+Hawaii,"Taxi, motorcycle, or other",2017,0.022875562
+Idaho,"Taxi, motorcycle, or other",2017,0.013416038
+Illinois,"Taxi, motorcycle, or other",2017,0.012074962
+Indiana,"Taxi, motorcycle, or other",2017,0.010792228
+Iowa,"Taxi, motorcycle, or other",2017,0.009203136
+Kansas,"Taxi, motorcycle, or other",2017,0.010032445
+Kentucky,"Taxi, motorcycle, or other",2017,0.013444982
+Louisiana,"Taxi, motorcycle, or other",2017,0.013755955
+Maine,"Taxi, motorcycle, or other",2017,0.010061402
+Maryland,"Taxi, motorcycle, or other",2017,0.012597993
+Massachusetts,"Taxi, motorcycle, or other",2017,0.013202154
+Michigan,"Taxi, motorcycle, or other",2017,0.007438858
+Minnesota,"Taxi, motorcycle, or other",2017,0.009321806
+Mississippi,"Taxi, motorcycle, or other",2017,0.014223053
+Missouri,"Taxi, motorcycle, or other",2017,0.009769608
+Montana,"Taxi, motorcycle, or other",2017,0.012302084
+Nebraska,"Taxi, motorcycle, or other",2017,0.008150393
+Nevada,"Taxi, motorcycle, or other",2017,0.020120333
+New Hampshire,"Taxi, motorcycle, or other",2017,0.011609357
+New Jersey,"Taxi, motorcycle, or other",2017,0.015101593
+New Mexico,"Taxi, motorcycle, or other",2017,0.011499333
+New York,"Taxi, motorcycle, or other",2017,0.013173336
+North Carolina,"Taxi, motorcycle, or other",2017,0.010362421
+North Dakota,"Taxi, motorcycle, or other",2017,0.007066606
+Ohio,"Taxi, motorcycle, or other",2017,0.009136719
+Oklahoma,"Taxi, motorcycle, or other",2017,0.010675902
+Oregon,"Taxi, motorcycle, or other",2017,0.01033253
+Pennsylvania,"Taxi, motorcycle, or other",2017,0.009079846
+Rhode Island,"Taxi, motorcycle, or other",2017,0.007188624
+South Carolina,"Taxi, motorcycle, or other",2017,0.011371561
+South Dakota,"Taxi, motorcycle, or other",2017,0.006977927
+Tennessee,"Taxi, motorcycle, or other",2017,0.010129717
+Texas,"Taxi, motorcycle, or other",2017,0.013525092
+United States,"Taxi, motorcycle, or other",2017,0.012689569
+Utah,"Taxi, motorcycle, or other",2017,0.009929501
+Vermont,"Taxi, motorcycle, or other",2017,0.009304221
+Virginia,"Taxi, motorcycle, or other",2017,0.014035654
+Washington,"Taxi, motorcycle, or other",2017,0.011060941
+West Virginia,"Taxi, motorcycle, or other",2017,0.009234589
+Wisconsin,"Taxi, motorcycle, or other",2017,0.009205857
+Wyoming,"Taxi, motorcycle, or other",2017,0.012892941
+Alabama,Walked,2017,0.011556515
+Alaska,Walked,2017,0.073527821
+Arizona,Walked,2017,0.019901819
+Arkansas,Walked,2017,0.018032779
+California,Walked,2017,0.02583836
+Colorado,Walked,2017,0.026758084
+Connecticut,Walked,2017,0.02782396
+Delaware,Walked,2017,0.022206231
+District of Columbia,Walked,2017,0.126871437
+Florida,Walked,2017,0.01415124
+Georgia,Walked,2017,0.015658072
+Hawaii,Walked,2017,0.054533134
+Idaho,Walked,2017,0.022574965
+Illinois,Walked,2017,0.028904662
+Indiana,Walked,2017,0.020970635
+Iowa,Walked,2017,0.031940552
+Kansas,Walked,2017,0.023280694
+Kentucky,Walked,2017,0.021027318
+Louisiana,Walked,2017,0.01684805
+Maine,Walked,2017,0.040785154
+Maryland,Walked,2017,0.021426192
+Massachusetts,Walked,2017,0.048086775
+Michigan,Walked,2017,0.021803271
+Minnesota,Walked,2017,0.026329677
+Mississippi,Walked,2017,0.013619726
+Missouri,Walked,2017,0.019380975
+Montana,Walked,2017,0.049377424
+Nebraska,Walked,2017,0.027362967
+Nevada,Walked,2017,0.019390266
+New Hampshire,Walked,2017,0.023878176
+New Jersey,Walked,2017,0.029489063
+New Mexico,Walked,2017,0.020297217
+New York,Walked,2017,0.06201409
+North Carolina,Walked,2017,0.017332204
+North Dakota,Walked,2017,0.038245566
+Ohio,Walked,2017,0.020881451
+Oklahoma,Walked,2017,0.019085481
+Oregon,Walked,2017,0.03715154
+Pennsylvania,Walked,2017,0.035309668
+Rhode Island,Walked,2017,0.03553141
+South Carolina,Walked,2017,0.021338215
+South Dakota,Walked,2017,0.033904248
+Tennessee,Walked,2017,0.013390349
+Texas,Walked,2017,0.015360813
+United States,Walked,2017,0.026535086
+Utah,Walked,2017,0.023553136
+Vermont,Walked,2017,0.057279895
+Virginia,Walked,2017,0.025882952
+Washington,Walked,2017,0.03435587
+West Virginia,Walked,2017,0.029383551
+Wisconsin,Walked,2017,0.029961652
+Wyoming,Walked,2017,0.036203407
+Alabama,Worked at home,2017,0.033734012
+Alaska,Worked at home,2017,0.045501904
+Arizona,Worked at home,2017,0.062833952
+Arkansas,Worked at home,2017,0.036792737
+California,Worked at home,2017,0.059653356
+Colorado,Worked at home,2017,0.084553121
+Connecticut,Worked at home,2017,0.051278965
+Delaware,Worked at home,2017,0.051597103
+District of Columbia,Worked at home,2017,0.07370398
+Florida,Worked at home,2017,0.06141112
+Georgia,Worked at home,2017,0.057806026
+Hawaii,Worked at home,2017,0.043532181
+Idaho,Worked at home,2017,0.056855371
+Illinois,Worked at home,2017,0.048655533
+Indiana,Worked at home,2017,0.042832733
+Iowa,Worked at home,2017,0.051145572
+Kansas,Worked at home,2017,0.047318171
+Kentucky,Worked at home,2017,0.039433277
+Louisiana,Worked at home,2017,0.033388637
+Maine,Worked at home,2017,0.059233084
+Maryland,Worked at home,2017,0.048891698
+Massachusetts,Worked at home,2017,0.052846051
+Michigan,Worked at home,2017,0.041883321
+Minnesota,Worked at home,2017,0.058811436
+Mississippi,Worked at home,2017,0.022910804
+Missouri,Worked at home,2017,0.05051095
+Montana,Worked at home,2017,0.065358141
+Nebraska,Worked at home,2017,0.047034082
+Nevada,Worked at home,2017,0.042979843
+New Hampshire,Worked at home,2017,0.062449751
+New Jersey,Worked at home,2017,0.045734297
+New Mexico,Worked at home,2017,0.050922485
+New York,Worked at home,2017,0.043490339
+North Carolina,Worked at home,2017,0.061015825
+North Dakota,Worked at home,2017,0.046311814
+Ohio,Worked at home,2017,0.042487076
+Oklahoma,Worked at home,2017,0.04276035
+Oregon,Worked at home,2017,0.073580621
+Pennsylvania,Worked at home,2017,0.049566557
+Rhode Island,Worked at home,2017,0.045295607
+South Carolina,Worked at home,2017,0.046648224
+South Dakota,Worked at home,2017,0.058456469
+Tennessee,Worked at home,2017,0.048752938
+Texas,Worked at home,2017,0.050755337
+United States,Worked at home,2017,0.052317927
+Utah,Worked at home,2017,0.068117505
+Vermont,Worked at home,2017,0.071013652
+Virginia,Worked at home,2017,0.053886805
+Washington,Worked at home,2017,0.063293975
+West Virginia,Worked at home,2017,0.033035252
+Wisconsin,Worked at home,2017,0.04949896
+Wyoming,Worked at home,2017,0.052922316
+Alabama,Bicycle,2018,0.000701637
+Alaska,Bicycle,2018,0.012388753
+Arizona,Bicycle,2018,0.008061209
+Arkansas,Bicycle,2018,0.001750759
+California,Bicycle,2018,0.008566894
+Colorado,Bicycle,2018,0.012011628
+Connecticut,Bicycle,2018,0.001809239
+Delaware,Bicycle,2018,0.002787675
+District of Columbia,Bicycle,2018,0.042762158
+Florida,Bicycle,2018,0.006151829
+Georgia,Bicycle,2018,0.002084428
+Hawaii,Bicycle,2018,0.006545777
+Idaho,Bicycle,2018,0.007573097
+Illinois,Bicycle,2018,0.006310499
+Indiana,Bicycle,2018,0.003644699
+Iowa,Bicycle,2018,0.003965456
+Kansas,Bicycle,2018,0.002960327
+Kentucky,Bicycle,2018,0.001228016
+Louisiana,Bicycle,2018,0.00536114
+Maine,Bicycle,2018,0.004622107
+Maryland,Bicycle,2018,0.003436565
+Massachusetts,Bicycle,2018,0.008956534
+Michigan,Bicycle,2018,0.004203223
+Minnesota,Bicycle,2018,0.006388935
+Mississippi,Bicycle,2018,0.001409469
+Missouri,Bicycle,2018,0.002207683
+Montana,Bicycle,2018,0.011952772
+Nebraska,Bicycle,2018,0.003227465
+Nevada,Bicycle,2018,0.002250541
+New Hampshire,Bicycle,2018,0.002586889
+New Jersey,Bicycle,2018,0.002568944
+New Mexico,Bicycle,2018,0.005715226
+New York,Bicycle,2018,0.007293688
+North Carolina,Bicycle,2018,0.001627331
+North Dakota,Bicycle,2018,0.002056731
+Ohio,Bicycle,2018,0.003121594
+Oklahoma,Bicycle,2018,0.002100425
+Oregon,Bicycle,2018,0.019618991
+Pennsylvania,Bicycle,2018,0.004313883
+Rhode Island,Bicycle,2018,0.002872157
+South Carolina,Bicycle,2018,0.002673483
+South Dakota,Bicycle,2018,0.001964473
+Tennessee,Bicycle,2018,0.002783209
+Texas,Bicycle,2018,0.001394197
+United States,Bicycle,2018,0.002335802
+Utah,Bicycle,2018,0.006849871
+Vermont,Bicycle,2018,0.012863045
+Virginia,Bicycle,2018,0.004395388
+Washington,Bicycle,2018,0.009061338
+West Virginia,Bicycle,2018,0.001464064
+Wisconsin,Bicycle,2018,0.006581473
+Wyoming,Bicycle,2018,0.011339797
+Alabama,Carpool,2018,0.07867332
+Alaska,Carpool,2018,0.122700146
+Arizona,Carpool,2018,0.109816524
+Arkansas,Carpool,2018,0.104398417
+California,Carpool,2018,0.100070847
+Colorado,Carpool,2018,0.085527799
+Connecticut,Carpool,2018,0.081482126
+Delaware,Carpool,2018,0.091162717
+District of Columbia,Carpool,2018,0.051161254
+Florida,Carpool,2018,0.093620387
+Georgia,Carpool,2018,0.094170329
+Hawaii,Carpool,2018,0.147204369
+Idaho,Carpool,2018,0.089385707
+Illinois,Carpool,2018,0.082521506
+Indiana,Carpool,2018,0.089043477
+Iowa,Carpool,2018,0.081207513
+Kansas,Carpool,2018,0.093013643
+Kentucky,Carpool,2018,0.093638643
+Louisiana,Carpool,2018,0.090028029
+Maine,Carpool,2018,0.098845224
+Maryland,Carpool,2018,0.088276154
+Massachusetts,Carpool,2018,0.074387898
+Michigan,Carpool,2018,0.089297251
+Minnesota,Carpool,2018,0.083987429
+Mississippi,Carpool,2018,0.088809672
+Missouri,Carpool,2018,0.084307742
+Montana,Carpool,2018,0.094526551
+Nebraska,Carpool,2018,0.087137493
+Nevada,Carpool,2018,0.104609159
+New Hampshire,Carpool,2018,0.074379714
+New Jersey,Carpool,2018,0.081913084
+New Mexico,Carpool,2018,0.111548048
+New York,Carpool,2018,0.062998192
+North Carolina,Carpool,2018,0.093136374
+North Dakota,Carpool,2018,0.087313233
+Ohio,Carpool,2018,0.082284098
+Oklahoma,Carpool,2018,0.095277053
+Oregon,Carpool,2018,0.094809581
+Pennsylvania,Carpool,2018,0.084556347
+Rhode Island,Carpool,2018,0.079389598
+South Carolina,Carpool,2018,0.081410445
+South Dakota,Carpool,2018,0.094355039
+Tennessee,Carpool,2018,0.087931096
+Texas,Carpool,2018,0.089684524
+United States,Carpool,2018,0.097565714
+Utah,Carpool,2018,0.111338149
+Vermont,Carpool,2018,0.090035148
+Virginia,Carpool,2018,0.091145139
+Washington,Carpool,2018,0.097595812
+West Virginia,Carpool,2018,0.085737813
+Wisconsin,Carpool,2018,0.075151753
+Wyoming,Carpool,2018,0.10151701
+Alabama,Drove alone,2018,0.862994555
+Alaska,Drove alone,2018,0.679859202
+Arizona,Drove alone,2018,0.761437554
+Arkansas,Drove alone,2018,0.826201437
+California,Drove alone,2018,0.738332035
+Colorado,Drove alone,2018,0.749274436
+Connecticut,Drove alone,2018,0.779123925
+Delaware,Drove alone,2018,0.79584146
+District of Columbia,Drove alone,2018,0.341962433
+Florida,Drove alone,2018,0.79059449
+Georgia,Drove alone,2018,0.793688079
+Hawaii,Drove alone,2018,0.672976866
+Idaho,Drove alone,2018,0.797141178
+Illinois,Drove alone,2018,0.726815068
+Indiana,Drove alone,2018,0.828720557
+Iowa,Drove alone,2018,0.815683695
+Kansas,Drove alone,2018,0.820078779
+Kentucky,Drove alone,2018,0.823904633
+Louisiana,Drove alone,2018,0.827495676
+Maine,Drove alone,2018,0.778350577
+Maryland,Drove alone,2018,0.743465211
+Massachusetts,Drove alone,2018,0.697608238
+Michigan,Drove alone,2018,0.819921369
+Minnesota,Drove alone,2018,0.776912113
+Mississippi,Drove alone,2018,0.854775438
+Missouri,Drove alone,2018,0.822384283
+Montana,Drove alone,2018,0.748982082
+Nebraska,Drove alone,2018,0.820760619
+Nevada,Drove alone,2018,0.782727816
+New Hampshire,Drove alone,2018,0.807700442
+New Jersey,Drove alone,2018,0.708529362
+New Mexico,Drove alone,2018,0.793280467
+New York,Drove alone,2018,0.530577477
+North Carolina,Drove alone,2018,0.806462813
+North Dakota,Drove alone,2018,0.821576108
+Ohio,Drove alone,2018,0.823665322
+Oklahoma,Drove alone,2018,0.825104276
+Oregon,Drove alone,2018,0.717487935
+Pennsylvania,Drove alone,2018,0.755743275
+Rhode Island,Drove alone,2018,0.84159601
+South Carolina,Drove alone,2018,0.813015824
+South Dakota,Drove alone,2018,0.814476059
+Tennessee,Drove alone,2018,0.810547625
+Texas,Drove alone,2018,0.830706226
+United States,Drove alone,2018,0.807087933
+Utah,Drove alone,2018,0.757495266
+Vermont,Drove alone,2018,0.753705988
+Virginia,Drove alone,2018,0.76653838
+Washington,Drove alone,2018,0.709665555
+West Virginia,Drove alone,2018,0.832559143
+Wisconsin,Drove alone,2018,0.816929816
+Wyoming,Drove alone,2018,0.757981256
+Alabama,Public transportation,2018,0.00337666
+Alaska,Public transportation,2018,0.012329665
+Arizona,Public transportation,2018,0.016921262
+Arkansas,Public transportation,2018,0.003849671
+California,Public transportation,2018,0.049369802
+Colorado,Public transportation,2018,0.027559621
+Connecticut,Public transportation,2018,0.044418938
+Delaware,Public transportation,2018,0.021550363
+District of Columbia,Public transportation,2018,0.344254537
+Florida,Public transportation,2018,0.016511517
+Georgia,Public transportation,2018,0.020071842
+Hawaii,Public transportation,2018,0.05736142
+Idaho,Public transportation,2018,0.007989699
+Illinois,Public transportation,2018,0.094034549
+Indiana,Public transportation,2018,0.009276471
+Iowa,Public transportation,2018,0.010186817
+Kansas,Public transportation,2018,0.004753112
+Kentucky,Public transportation,2018,0.009823111
+Louisiana,Public transportation,2018,0.011623994
+Maine,Public transportation,2018,0.005987116
+Maryland,Public transportation,2018,0.078999581
+Massachusetts,Public transportation,2018,0.102125168
+Michigan,Public transportation,2018,0.013632091
+Minnesota,Public transportation,2018,0.035491535
+Mississippi,Public transportation,2018,0.002503532
+Missouri,Public transportation,2018,0.012854857
+Montana,Public transportation,2018,0.007529489
+Nebraska,Public transportation,2018,0.005656936
+Nevada,Public transportation,2018,0.029255632
+New Hampshire,Public transportation,2018,0.009007192
+New Jersey,Public transportation,2018,0.117028503
+New Mexico,Public transportation,2018,0.010894471
+New York,Public transportation,2018,0.28009704
+North Carolina,Public transportation,2018,0.009720563
+North Dakota,Public transportation,2018,0.007371624
+Ohio,Public transportation,2018,0.015823016
+Oklahoma,Public transportation,2018,0.004614972
+Oregon,Public transportation,2018,0.042272177
+Pennsylvania,Public transportation,2018,0.057632469
+Rhode Island,Public transportation,2018,0.017588775
+South Carolina,Public transportation,2018,0.022409174
+South Dakota,Public transportation,2018,0.005533952
+Tennessee,Public transportation,2018,0.002455116
+Texas,Public transportation,2018,0.006229592
+United States,Public transportation,2018,0.013255056
+Utah,Public transportation,2018,0.021703367
+Vermont,Public transportation,2018,0.00855892
+Virginia,Public transportation,2018,0.045276314
+Washington,Public transportation,2018,0.069701067
+West Virginia,Public transportation,2018,0.008506696
+Wisconsin,Public transportation,2018,0.014992541
+Wyoming,Public transportation,2018,0.012288587
+Alabama,"Taxi, motorcycle, or other",2018,0.008888695
+Alaska,"Taxi, motorcycle, or other",2018,0.042349108
+Arizona,"Taxi, motorcycle, or other",2018,0.018722756
+Arkansas,"Taxi, motorcycle, or other",2018,0.01090958
+California,"Taxi, motorcycle, or other",2018,0.017258721
+Colorado,"Taxi, motorcycle, or other",2018,0.010295247
+Connecticut,"Taxi, motorcycle, or other",2018,0.010272061
+Delaware,"Taxi, motorcycle, or other",2018,0.008122251
+District of Columbia,"Taxi, motorcycle, or other",2018,0.025477522
+Florida,"Taxi, motorcycle, or other",2018,0.017425794
+Georgia,"Taxi, motorcycle, or other",2018,0.015976591
+Hawaii,"Taxi, motorcycle, or other",2018,0.025715251
+Idaho,"Taxi, motorcycle, or other",2018,0.011012897
+Illinois,"Taxi, motorcycle, or other",2018,0.011172582
+Indiana,"Taxi, motorcycle, or other",2018,0.011337244
+Iowa,"Taxi, motorcycle, or other",2018,0.007898812
+Kansas,"Taxi, motorcycle, or other",2018,0.009923054
+Kentucky,"Taxi, motorcycle, or other",2018,0.011122375
+Louisiana,"Taxi, motorcycle, or other",2018,0.013918903
+Maine,"Taxi, motorcycle, or other",2018,0.012046311
+Maryland,"Taxi, motorcycle, or other",2018,0.013018053
+Massachusetts,"Taxi, motorcycle, or other",2018,0.013066717
+Michigan,"Taxi, motorcycle, or other",2018,0.009146559
+Minnesota,"Taxi, motorcycle, or other",2018,0.008865613
+Mississippi,"Taxi, motorcycle, or other",2018,0.01242813
+Missouri,"Taxi, motorcycle, or other",2018,0.009959479
+Montana,"Taxi, motorcycle, or other",2018,0.009260338
+Nebraska,"Taxi, motorcycle, or other",2018,0.007560156
+Nevada,"Taxi, motorcycle, or other",2018,0.021999372
+New Hampshire,"Taxi, motorcycle, or other",2018,0.012047872
+New Jersey,"Taxi, motorcycle, or other",2018,0.01768403
+New Mexico,"Taxi, motorcycle, or other",2018,0.009639658
+New York,"Taxi, motorcycle, or other",2018,0.01409601
+North Carolina,"Taxi, motorcycle, or other",2018,0.010780891
+North Dakota,"Taxi, motorcycle, or other",2018,0.010394014
+Ohio,"Taxi, motorcycle, or other",2018,0.009020131
+Oklahoma,"Taxi, motorcycle, or other",2018,0.011709042
+Oregon,"Taxi, motorcycle, or other",2018,0.01206208
+Pennsylvania,"Taxi, motorcycle, or other",2018,0.011029493
+Rhode Island,"Taxi, motorcycle, or other",2018,0.014782891
+South Carolina,"Taxi, motorcycle, or other",2018,0.009087919
+South Dakota,"Taxi, motorcycle, or other",2018,0.01307883
+Tennessee,"Taxi, motorcycle, or other",2018,0.006244922
+Texas,"Taxi, motorcycle, or other",2018,0.011556771
+United States,"Taxi, motorcycle, or other",2018,0.013127593
+Utah,"Taxi, motorcycle, or other",2018,0.009556931
+Vermont,"Taxi, motorcycle, or other",2018,0.008037862
+Virginia,"Taxi, motorcycle, or other",2018,0.014310065
+Washington,"Taxi, motorcycle, or other",2018,0.012027771
+West Virginia,"Taxi, motorcycle, or other",2018,0.011235492
+Wisconsin,"Taxi, motorcycle, or other",2018,0.008773606
+Wyoming,"Taxi, motorcycle, or other",2018,0.012088287
+Alabama,Walked,2018,0.010839354
+Alaska,Walked,2018,0.077649879
+Arizona,Walked,2018,0.017412034
+Arkansas,Walked,2018,0.015410983
+California,Walked,2018,0.026393504
+Colorado,Walked,2018,0.02977546
+Connecticut,Walked,2018,0.02627468
+Delaware,Walked,2018,0.023679775
+District of Columbia,Walked,2018,0.133050455
+Florida,Walked,2018,0.013596343
+Georgia,Walked,2018,0.014930799
+Hawaii,Walked,2018,0.036579178
+Idaho,Walked,2018,0.02479601
+Illinois,Walked,2018,0.027689997
+Indiana,Walked,2018,0.019462857
+Iowa,Walked,2018,0.029880659
+Kansas,Walked,2018,0.021694656
+Kentucky,Walked,2018,0.019689988
+Louisiana,Walked,2018,0.018005205
+Maine,Walked,2018,0.040628895
+Maryland,Walked,2018,0.020958221
+Massachusetts,Walked,2018,0.050877137
+Michigan,Walked,2018,0.022708669
+Minnesota,Walked,2018,0.027556173
+Mississippi,Walked,2018,0.013710287
+Missouri,Walked,2018,0.020430232
+Montana,Walked,2018,0.054755855
+Nebraska,Walked,2018,0.024690156
+Nevada,Walked,2018,0.017529129
+New Hampshire,Walked,2018,0.025668606
+New Jersey,Walked,2018,0.025620309
+New Mexico,Walked,2018,0.017926222
+New York,Walked,2018,0.059713079
+North Carolina,Walked,2018,0.017981117
+North Dakota,Walked,2018,0.033923515
+Ohio,Walked,2018,0.022042491
+Oklahoma,Walked,2018,0.019755702
+Oregon,Walked,2018,0.03910763
+Pennsylvania,Walked,2018,0.035335706
+Rhode Island,Walked,2018,0.020942173
+South Carolina,Walked,2018,0.034434077
+South Dakota,Walked,2018,0.020672766
+Tennessee,Walked,2018,0.028443635
+Texas,Walked,2018,0.012951938
+United States,Walked,2018,0.014656027
+Utah,Walked,2018,0.024188526
+Vermont,Walked,2018,0.052167479
+Virginia,Walked,2018,0.022239675
+Washington,Walked,2018,0.036727917
+West Virginia,Walked,2018,0.026276176
+Wisconsin,Walked,2018,0.0292502
+Wyoming,Walked,2018,0.042614725
+Alabama,Worked at home,2018,0.034525778
+Alaska,Worked at home,2018,0.052723247
+Arizona,Worked at home,2018,0.067628661
+Arkansas,Worked at home,2018,0.037479153
+California,Worked at home,2018,0.060008196
+Colorado,Worked at home,2018,0.085555809
+Connecticut,Worked at home,2018,0.056619032
+Delaware,Worked at home,2018,0.056855759
+District of Columbia,Worked at home,2018,0.061331641
+Florida,Worked at home,2018,0.06209964
+Georgia,Worked at home,2018,0.059077933
+Hawaii,Worked at home,2018,0.053617139
+Idaho,Worked at home,2018,0.062101412
+Illinois,Worked at home,2018,0.051455798
+Indiana,Worked at home,2018,0.038514694
+Iowa,Worked at home,2018,0.051177048
+Kansas,Worked at home,2018,0.047576429
+Kentucky,Worked at home,2018,0.040593234
+Louisiana,Worked at home,2018,0.033567054
+Maine,Worked at home,2018,0.059519769
+Maryland,Worked at home,2018,0.051846216
+Massachusetts,Worked at home,2018,0.052978309
+Michigan,Worked at home,2018,0.041090836
+Minnesota,Worked at home,2018,0.060798203
+Mississippi,Worked at home,2018,0.026363472
+Missouri,Worked at home,2018,0.047855725
+Montana,Worked at home,2018,0.072992913
+Nebraska,Worked at home,2018,0.050967175
+Nevada,Worked at home,2018,0.041628352
+New Hampshire,Worked at home,2018,0.068609285
+New Jersey,Worked at home,2018,0.046655768
+New Mexico,Worked at home,2018,0.050995908
+New York,Worked at home,2018,0.045224514
+North Carolina,Worked at home,2018,0.060290911
+North Dakota,Worked at home,2018,0.037364776
+Ohio,Worked at home,2018,0.044043349
+Oklahoma,Worked at home,2018,0.04143853
+Oregon,Worked at home,2018,0.074641607
+Pennsylvania,Worked at home,2018,0.051388828
+Rhode Island,Worked at home,2018,0.022828397
+South Carolina,Worked at home,2018,0.036969078
+South Dakota,Worked at home,2018,0.049918881
+Tennessee,Worked at home,2018,0.061594397
+Texas,Worked at home,2018,0.047476752
+United States,Worked at home,2018,0.051971876
+Utah,Worked at home,2018,0.068867889
+Vermont,Worked at home,2018,0.074631559
+Virginia,Worked at home,2018,0.056095039
+Washington,Worked at home,2018,0.06522054
+West Virginia,Worked at home,2018,0.034220616
+Wisconsin,Worked at home,2018,0.04832061
+Wyoming,Worked at home,2018,0.062170339
+Alabama,Drove alone,2019,0.851668352
+Alabama,Carpool,2019,0.086711383
+Alabama,Public transportation,2019,0.004155065
+Alabama,Bicycle,2019,0.00139455
+Alabama,Walked,2019,0.012281036
+Alabama,"Taxi, motorcycle, or other",2019,0.009844322
+Alabama,Worked at home,2019,0.033945292
+Alaska,Drove alone,2019,0.699592065
+Alaska,Carpool,2019,0.119993368
+Alaska,Public transportation,2019,0.00964235
+Alaska,Bicycle,2019,0.006643588
+Alaska,Walked,2019,0.070701036
+Alaska,"Taxi, motorcycle, or other",2019,0.050144221
+Alaska,Worked at home,2019,0.043283373
+Arizona,Drove alone,2019,0.756369452
+Arizona,Carpool,2019,0.106487569
+Arizona,Public transportation,2019,0.016792719
+Arizona,Bicycle,2019,0.007690101
+Arizona,Walked,2019,0.019061048
+Arizona,"Taxi, motorcycle, or other",2019,0.017807241
+Arizona,Worked at home,2019,0.07579187
+Arkansas,Drove alone,2019,0.824055168
+Arkansas,Carpool,2019,0.107092121
+Arkansas,Public transportation,2019,0.004028126
+Arkansas,Bicycle,2019,0.001508929
+Arkansas,Walked,2019,0.01930775
+Arkansas,"Taxi, motorcycle, or other",2019,0.008838124
+Arkansas,Worked at home,2019,0.035169781
+California,Drove alone,2019,0.735062387
+California,Carpool,2019,0.098304769
+California,Public transportation,2019,0.051835984
+California,Bicycle,2019,0.008577621
+California,Walked,2019,0.025613698
+California,"Taxi, motorcycle, or other",2019,0.017158072
+California,Worked at home,2019,0.063447468
+Colorado,Drove alone,2019,0.741908984
+Colorado,Carpool,2019,0.085809527
+Colorado,Public transportation,2019,0.031925427
+Colorado,Bicycle,2019,0.011279009
+Colorado,Walked,2019,0.026934413
+Colorado,"Taxi, motorcycle, or other",2019,0.010907448
+Colorado,Worked at home,2019,0.091235192
+Connecticut,Drove alone,2019,0.783296507
+Connecticut,Carpool,2019,0.075460669
+Connecticut,Public transportation,2019,0.045179755
+Connecticut,Bicycle,2019,0.00351121
+Connecticut,Walked,2019,0.028068523
+Connecticut,"Taxi, motorcycle, or other",2019,0.008704816
+Connecticut,Worked at home,2019,0.05577852
+Delaware,Drove alone,2019,0.806614257
+Delaware,Carpool,2019,0.08544385
+Delaware,Public transportation,2019,0.023545668
+Delaware,Bicycle,2019,0.00231943
+Delaware,Walked,2019,0.022642469
+Delaware,"Taxi, motorcycle, or other",2019,0.007801133
+Delaware,Worked at home,2019,0.051633194
+District of Columbia,Drove alone,2019,0.329627499
+District of Columbia,Carpool,2019,0.055172878
+District of Columbia,Public transportation,2019,0.34152245
+District of Columbia,Bicycle,2019,0.040240698
+District of Columbia,Walked,2019,0.134254868
+District of Columbia,"Taxi, motorcycle, or other",2019,0.025578032
+District of Columbia,Worked at home,2019,0.073603574
+Florida,Drove alone,2019,0.781438335
+Florida,Carpool,2019,0.091418123
+Florida,Public transportation,2019,0.015912636
+Florida,Bicycle,2019,0.005950449
+Florida,Walked,2019,0.015719282
+Florida,"Taxi, motorcycle, or other",2019,0.019734265
+Florida,Worked at home,2019,0.06982691
+Georgia,Drove alone,2019,0.783679841
+Georgia,Carpool,2019,0.092571524
+Georgia,Public transportation,2019,0.019822378
+Georgia,Bicycle,2019,0.002000692
+Georgia,Walked,2019,0.014926129
+Georgia,"Taxi, motorcycle, or other",2019,0.017558289
+Georgia,Worked at home,2019,0.069441147
+Hawaii,Drove alone,2019,0.692725693
+Hawaii,Carpool,2019,0.132559895
+Hawaii,Public transportation,2019,0.053659231
+Hawaii,Bicycle,2019,0.00580862
+Hawaii,Walked,2019,0.045582999
+Hawaii,"Taxi, motorcycle, or other",2019,0.021963935
+Hawaii,Worked at home,2019,0.047699627
+Idaho,Drove alone,2019,0.782931825
+Idaho,Carpool,2019,0.092148458
+Idaho,Public transportation,2019,0.007694132
+Idaho,Bicycle,2019,0.007560673
+Idaho,Walked,2019,0.026890734
+Idaho,"Taxi, motorcycle, or other",2019,0.008972714
+Idaho,Worked at home,2019,0.073801464
+Illinois,Drove alone,2019,0.724185047
+Illinois,Carpool,2019,0.076114949
+Illinois,Public transportation,2019,0.096499825
+Illinois,Bicycle,2019,0.00569983
+Illinois,Walked,2019,0.03019962
+Illinois,"Taxi, motorcycle, or other",2019,0.013044367
+Illinois,Worked at home,2019,0.054256362
+Indiana,Drove alone,2019,0.816339424
+Indiana,Carpool,2019,0.094985856
+Indiana,Public transportation,2019,0.009179946
+Indiana,Bicycle,2019,0.004144733
+Indiana,Walked,2019,0.022644362
+Indiana,"Taxi, motorcycle, or other",2019,0.009616511
+Indiana,Worked at home,2019,0.043089169
+Iowa,Drove alone,2019,0.801966251
+Iowa,Carpool,2019,0.08572304
+Iowa,Public transportation,2019,0.011205338
+Iowa,Bicycle,2019,0.00338551
+Iowa,Walked,2019,0.031770689
+Iowa,"Taxi, motorcycle, or other",2019,0.008374119
+Iowa,Worked at home,2019,0.057575054
+Kansas,Drove alone,2019,0.827057134
+Kansas,Carpool,2019,0.084658946
+Kansas,Public transportation,2019,0.004989606
+Kansas,Bicycle,2019,0.0027486
+Kansas,Walked,2019,0.022147637
+Kansas,"Taxi, motorcycle, or other",2019,0.007218873
+Kansas,Worked at home,2019,0.051179205
+Kentucky,Drove alone,2019,0.819541942
+Kentucky,Carpool,2019,0.090405108
+Kentucky,Public transportation,2019,0.009877632
+Kentucky,Bicycle,2019,0.002416458
+Kentucky,Walked,2019,0.022673862
+Kentucky,"Taxi, motorcycle, or other",2019,0.012075194
+Kentucky,Worked at home,2019,0.043009805
+Louisiana,Drove alone,2019,0.821204822
+Louisiana,Carpool,2019,0.087776014
+Louisiana,Public transportation,2019,0.01175636
+Louisiana,Bicycle,2019,0.003671454
+Louisiana,Walked,2019,0.021254618
+Louisiana,"Taxi, motorcycle, or other",2019,0.014977775
+Louisiana,Worked at home,2019,0.039358958
+Maine,Drove alone,2019,0.784797074
+Maine,Carpool,2019,0.095314993
+Maine,Public transportation,2019,0.006371095
+Maine,Bicycle,2019,0.002711868
+Maine,Walked,2019,0.038064935
+Maine,"Taxi, motorcycle, or other",2019,0.009859707
+Maine,Worked at home,2019,0.062880328
+Maryland,Drove alone,2019,0.738901857
+Maryland,Carpool,2019,0.086923526
+Maryland,Public transportation,2019,0.080321826
+Maryland,Bicycle,2019,0.0030886
+Maryland,Walked,2019,0.022082436
+Maryland,"Taxi, motorcycle, or other",2019,0.013549506
+Maryland,Worked at home,2019,0.055132249
+Massachusetts,Drove alone,2019,0.696233439
+Massachusetts,Carpool,2019,0.072843576
+Massachusetts,Public transportation,2019,0.104249956
+Massachusetts,Bicycle,2019,0.008866733
+Massachusetts,Walked,2019,0.049916543
+Massachusetts,"Taxi, motorcycle, or other",2019,0.013452414
+Massachusetts,Worked at home,2019,0.054437339
+Michigan,Drove alone,2019,0.817767535
+Michigan,Carpool,2019,0.08877311
+Michigan,Public transportation,2019,0.013998677
+Michigan,Bicycle,2019,0.003450336
+Michigan,Walked,2019,0.021668949
+Michigan,"Taxi, motorcycle, or other",2019,0.009247869
+Michigan,Worked at home,2019,0.045093524
+Minnesota,Drove alone,2019,0.776233782
+Minnesota,Carpool,2019,0.082320319
+Minnesota,Public transportation,2019,0.034013295
+Minnesota,Bicycle,2019,0.006801645
+Minnesota,Walked,2019,0.026212322
+Minnesota,"Taxi, motorcycle, or other",2019,0.009938864
+Minnesota,Worked at home,2019,0.064479772
+Mississippi,Drove alone,2019,0.848432263
+Mississippi,Carpool,2019,0.089421855
+Mississippi,Public transportation,2019,0.002459243
+Mississippi,Bicycle,2019,0.000731214
+Mississippi,Walked,2019,0.010946343
+Mississippi,"Taxi, motorcycle, or other",2019,0.016893224
+Mississippi,Worked at home,2019,0.031115858
+Missouri,Drove alone,2019,0.820730929
+Missouri,Carpool,2019,0.08391724
+Missouri,Public transportation,2019,0.011463748
+Missouri,Bicycle,2019,0.00240972
+Missouri,Walked,2019,0.020782245
+Missouri,"Taxi, motorcycle, or other",2019,0.010078631
+Missouri,Worked at home,2019,0.050617488
+Montana,Drove alone,2019,0.761739012
+Montana,Carpool,2019,0.098955388
+Montana,Public transportation,2019,0.009247005
+Montana,Bicycle,2019,0.012074746
+Montana,Walked,2019,0.041759224
+Montana,"Taxi, motorcycle, or other",2019,0.010939762
+Montana,Worked at home,2019,0.065284863
+Nebraska,Drove alone,2019,0.817877931
+Nebraska,Carpool,2019,0.089624356
+Nebraska,Public transportation,2019,0.008148667
+Nebraska,Bicycle,2019,0.003100069
+Nebraska,Walked,2019,0.027526097
+Nebraska,"Taxi, motorcycle, or other",2019,0.007345686
+Nebraska,Worked at home,2019,0.046377194
+Nevada,Drove alone,2019,0.769742313
+Nevada,Carpool,2019,0.106200596
+Nevada,Public transportation,2019,0.030649463
+Nevada,Bicycle,2019,0.002487274
+Nevada,Walked,2019,0.015934572
+Nevada,"Taxi, motorcycle, or other",2019,0.026218364
+Nevada,Worked at home,2019,0.048767417
+New Hampshire,Drove alone,2019,0.803572638
+New Hampshire,Carpool,2019,0.078281428
+New Hampshire,Public transportation,2019,0.00874771
+New Hampshire,Bicycle,2019,0.003162006
+New Hampshire,Walked,2019,0.024165082
+New Hampshire,"Taxi, motorcycle, or other",2019,0.008762919
+New Hampshire,Worked at home,2019,0.073308216
+New Jersey,Drove alone,2019,0.709559757
+New Jersey,Carpool,2019,0.078850428
+New Jersey,Public transportation,2019,0.115525845
+New Jersey,Bicycle,2019,0.002441952
+New Jersey,Walked,2019,0.026865539
+New Jersey,"Taxi, motorcycle, or other",2019,0.017580423
+New Jersey,Worked at home,2019,0.049176056
+New Mexico,Drove alone,2019,0.807310854
+New Mexico,Carpool,2019,0.093547659
+New Mexico,Public transportation,2019,0.01053675
+New Mexico,Bicycle,2019,0.006695192
+New Mexico,Walked,2019,0.01995121
+New Mexico,"Taxi, motorcycle, or other",2019,0.011193163
+New Mexico,Worked at home,2019,0.050765173
+New York,Drove alone,2019,0.527661899
+New York,Carpool,2019,0.062652009
+New York,Public transportation,2019,0.277237226
+New York,Bicycle,2019,0.007274792
+New York,Walked,2019,0.061942516
+New York,"Taxi, motorcycle, or other",2019,0.015265118
+New York,Worked at home,2019,0.04796644
+North Carolina,Drove alone,2019,0.801723265
+North Carolina,Carpool,2019,0.087366989
+North Carolina,Public transportation,2019,0.011261349
+North Carolina,Bicycle,2019,0.001573122
+North Carolina,Walked,2019,0.01781285
+North Carolina,"Taxi, motorcycle, or other",2019,0.013178743
+North Carolina,Worked at home,2019,0.067083682
+North Dakota,Drove alone,2019,0.825497546
+North Dakota,Carpool,2019,0.084894819
+North Dakota,Public transportation,2019,0.007077856
+North Dakota,Bicycle,2019,0.002513009
+North Dakota,Walked,2019,0.031640731
+North Dakota,"Taxi, motorcycle, or other",2019,0.012387482
+North Dakota,Worked at home,2019,0.035988557
+Ohio,Drove alone,2019,0.823805786
+Ohio,Carpool,2019,0.080149517
+Ohio,Public transportation,2019,0.015015443
+Ohio,Bicycle,2019,0.002600561
+Ohio,Walked,2019,0.022764524
+Ohio,"Taxi, motorcycle, or other",2019,0.009778538
+Ohio,Worked at home,2019,0.04588563
+Oklahoma,Drove alone,2019,0.826517654
+Oklahoma,Carpool,2019,0.094779785
+Oklahoma,Public transportation,2019,0.004258715
+Oklahoma,Bicycle,2019,0.002383739
+Oklahoma,Walked,2019,0.01458284
+Oklahoma,"Taxi, motorcycle, or other",2019,0.013291065
+Oklahoma,Worked at home,2019,0.044186201
+Oregon,Drove alone,2019,0.715303728
+Oregon,Carpool,2019,0.094704525
+Oregon,Public transportation,2019,0.046686786
+Oregon,Bicycle,2019,0.019466127
+Oregon,Walked,2019,0.037795698
+Oregon,"Taxi, motorcycle, or other",2019,0.013162867
+Oregon,Worked at home,2019,0.072880269
+Pennsylvania,Drove alone,2019,0.75196409
+Pennsylvania,Carpool,2019,0.084192295
+Pennsylvania,Public transportation,2019,0.057222536
+Pennsylvania,Bicycle,2019,0.004501325
+Pennsylvania,Walked,2019,0.036455006
+Pennsylvania,"Taxi, motorcycle, or other",2019,0.011687683
+Pennsylvania,Worked at home,2019,0.053977064
+Rhode Island,Drove alone,2019,0.796041629
+Rhode Island,Carpool,2019,0.081761768
+Rhode Island,Public transportation,2019,0.030683245
+Rhode Island,Bicycle,2019,0.002711672
+Rhode Island,Walked,2019,0.032765422
+Rhode Island,"Taxi, motorcycle, or other",2019,0.010913737
+Rhode Island,Worked at home,2019,0.045122528
+South Carolina,Drove alone,2019,0.820504534
+South Carolina,Carpool,2019,0.086379166
+South Carolina,Public transportation,2019,0.005868168
+South Carolina,Bicycle,2019,0.002283738
+South Carolina,Walked,2019,0.020489182
+South Carolina,"Taxi, motorcycle, or other",2019,0.01322575
+South Carolina,Worked at home,2019,0.051249461
+South Dakota,Drove alone,2019,0.797535734
+South Dakota,Carpool,2019,0.089582306
+South Dakota,Public transportation,2019,0.003520381
+South Dakota,Bicycle,2019,0.003810399
+South Dakota,Walked,2019,0.032187611
+South Dakota,"Taxi, motorcycle, or other",2019,0.012249943
+South Dakota,Worked at home,2019,0.061113627
+Tennessee,Drove alone,2019,0.820091769
+Tennessee,Carpool,2019,0.088957321
+Tennessee,Public transportation,2019,0.006168297
+Tennessee,Bicycle,2019,0.001233093
+Tennessee,Walked,2019,0.014063678
+Tennessee,"Taxi, motorcycle, or other",2019,0.013081987
+Tennessee,Worked at home,2019,0.056403855
+Texas,Drove alone,2019,0.801430551
+Texas,Carpool,2019,0.09703946
+Texas,Public transportation,2019,0.013279696
+Texas,Bicycle,2019,0.002266335
+Texas,Walked,2019,0.015411443
+Texas,"Taxi, motorcycle, or other",2019,0.013448477
+Texas,Worked at home,2019,0.057124039
+Utah,Drove alone,2019,0.761168007
+Utah,Carpool,2019,0.1036262
+Utah,Public transportation,2019,0.024698374
+Utah,Bicycle,2019,0.005406716
+Utah,Walked,2019,0.02047126
+Utah,"Taxi, motorcycle, or other",2019,0.010331614
+Utah,Worked at home,2019,0.074297828
+Vermont,Drove alone,2019,0.761867601
+Vermont,Carpool,2019,0.085502249
+Vermont,Public transportation,2019,0.01642186
+Vermont,Bicycle,2019,0.00502773
+Vermont,Walked,2019,0.053115033
+Vermont,"Taxi, motorcycle, or other",2019,0.007711242
+Vermont,Worked at home,2019,0.070354285
+Virginia,Drove alone,2019,0.766325024
+Virginia,Carpool,2019,0.08992557
+Virginia,Public transportation,2019,0.043532621
+Virginia,Bicycle,2019,0.00349782
+Virginia,Walked,2019,0.02317364
+Virginia,"Taxi, motorcycle, or other",2019,0.015962008
+Virginia,Worked at home,2019,0.057583317
+Washington,Drove alone,2019,0.709168066
+Washington,Carpool,2019,0.099519107
+Washington,Public transportation,2019,0.071084731
+Washington,Bicycle,2019,0.008744804
+Washington,Walked,2019,0.034841986
+Washington,"Taxi, motorcycle, or other",2019,0.011532356
+Washington,Worked at home,2019,0.06510895
+West Virginia,Drove alone,2019,0.81987298
+West Virginia,Carpool,2019,0.090363202
+West Virginia,Public transportation,2019,0.007900092
+West Virginia,Bicycle,2019,0.001252137
+West Virginia,Walked,2019,0.029020829
+West Virginia,"Taxi, motorcycle, or other",2019,0.012363993
+West Virginia,Worked at home,2019,0.039226768
+Wisconsin,Drove alone,2019,0.80755004
+Wisconsin,Carpool,2019,0.079926514
+Wisconsin,Public transportation,2019,0.016928306
+Wisconsin,Bicycle,2019,0.006167635
+Wisconsin,Walked,2019,0.029604853
+Wisconsin,"Taxi, motorcycle, or other",2019,0.00885662
+Wisconsin,Worked at home,2019,0.050966031
+Wyoming,Drove alone,2019,0.769141884
+Wyoming,Carpool,2019,0.115135709
+Wyoming,Public transportation,2019,0.011630195
+Wyoming,Bicycle,2019,0.010431759
+Wyoming,Walked,2019,0.029524453
+Wyoming,"Taxi, motorcycle, or other",2019,0.006872225
+Wyoming,Worked at home,2019,0.057263774
+Puerto Rico,Drove alone,2019,0.842691796
+Puerto Rico,Carpool,2019,0.077274651
+Puerto Rico,Public transportation,2019,0.011858778
+Puerto Rico,Bicycle,2019,0.001497745
+Puerto Rico,Walked,2019,0.027974202
+Puerto Rico,"Taxi, motorcycle, or other",2019,0.014367403
+Puerto Rico,Worked at home,2019,0.024335425
+United States,Drove alone,2019,0.759222168
+United States,Carpool,2019,0.088574358
+United States,Public transportation,2019,0.049562746
+United States,Bicycle,2019,0.005133905
+United States,Walked,2019,0.026462434
+United States,"Taxi, motorcycle, or other",2019,0.013884181
+United States,Worked at home,2019,0.057160208

@@ -36,10 +36,9 @@ body {
 }
 
 
-/* #overview2 {
-  height: 800px;
-  width: 100%;
-} */
+#overview2 {
+  height: 900px;
+}
 
 
 .navbar {

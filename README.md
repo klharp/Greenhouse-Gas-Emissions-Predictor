@@ -7,7 +7,7 @@ This project uses machine learning to determine the predictability of carbon emi
 
 ![header](static/img/ev_banner.png)
 
-### View the <a href ="https://nbullerds.github.io/ml_co_emission_equiv_prediction" target="_blank">Carbon Emissions Predictor</a> on GitHup Pages.
+### View the <a href ="https://nbullerds.github.io/ml_co_emission_equiv_prediction" target="_blank">Carbon Emissions Predictor</a> on GitHub Pages.
 ---
 
 ## Project Team
